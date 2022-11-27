@@ -7,7 +7,7 @@ permalink: /
 
 # This is a collection of my notes.
 
-<p>Hi! I'm May. I’m a deep thinker and I often have many thoughts on my mind that I’ll try to share here. My writings are mostly for myself, but you are free to explore as you like by clicking on any link that interests you.</p>
+<p>Hi! 👋 I'm May. I’m a deep thinker and I often have many thoughts on my mind that I’ll try to share here. My writings are mostly for myself, but you are free to explore as you like by clicking on any link that interests you.</p>
 
 <p>I also like to read and often record what I’ve read in a year in my [[library]]. I write poetry from time to time. Some notes of interest: [[BTS]], [[Language Learning]], and other things.</p>
 
