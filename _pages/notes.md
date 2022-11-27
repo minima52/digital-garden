@@ -8,7 +8,7 @@ permalink: /notes
 
 Notes that are still unruly.
 
-- [[growing my ideas]]
+- [[Growing my ideas]]
 
 <style>
   .wrapper {
