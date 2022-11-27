@@ -35,6 +35,6 @@ permalink: /tools
 
 <style>
   .wrapper {
-    max-width: 44em;
+    max-width: 54em;
   }
 </style>

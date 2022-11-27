@@ -15,6 +15,6 @@ I try to read widely, however I tend to lean towards non-fiction books these day
 
 <style>
   .wrapper {
-    max-width: 44em;
+    max-width: 54em;
   }
 </style>

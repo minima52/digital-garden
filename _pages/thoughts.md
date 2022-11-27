@@ -14,6 +14,6 @@ A full list of all my thoughts that are still in its infancy stage.
 
 <style>
   .wrapper {
-    max-width: 44em;
+    max-width: 54em;
   }
 </style>
