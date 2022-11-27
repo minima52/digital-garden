@@ -20,6 +20,6 @@ The notes I write are mostly for myself, however you are free to explore them as
 
 <style>
   .wrapper {
-    max-width: 60em;
+    max-width: 58em;
   }
 </style>

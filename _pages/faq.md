@@ -17,6 +17,6 @@ This site was made using [Maxime's public template on Github](https://github.com
 
 <style>
   .wrapper {
-    max-width: 54em;
+    max-width: 58em;
   }
 </style>

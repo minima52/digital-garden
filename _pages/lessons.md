@@ -12,6 +12,6 @@ None yet!
 
 <style>
   .wrapper {
-    max-width: 54em;
+    max-width: 58em;
   }
 </style>
