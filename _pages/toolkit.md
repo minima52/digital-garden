@@ -35,6 +35,6 @@ permalink: /toolkit
 
 <style>
   .wrapper {
-    max-width: 40em;
+    max-width: 44em;
   }
 </style>
