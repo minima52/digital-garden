@@ -25,6 +25,6 @@ This is my now page, which is a quick summary of the things that currently plagu
 
 <style>
   .wrapper {
-    max-width: 46em;
+    max-width: 40em;
   }
 </style>

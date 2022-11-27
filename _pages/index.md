@@ -14,6 +14,6 @@ Start here with [[digital garden]].
 
 <style>
   .wrapper {
-    max-width: 46em;
+    max-width: 40em;
   }
 </style>
