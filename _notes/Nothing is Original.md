@@ -1,3 +1,7 @@
+---
+title: Nothing is Original
+---
+
 I finished reading Austin Kleon’s [_Steal Like An Artist_](https://www.amazon.com.au/Steal-Like-Artist-Things-Creative/dp/0761169253) in one sitting. It’s the type of book where I think I’ll revisit when I need a little boost of motivation. Although the book is written from the point of a creative professional, I think it can apply to anyone who produces, not just artists. We are all producers, whether we know it or not.
 
 Kleon states that nothing is _completely_ original, and that everything is built from or is a “mashup” of something before it. He recommends collecting ideas and getting curious at everything. If you like something, copy the hell out of it but be skilful about it, too – don’t plagiarise! Learn to take apart what it is you like about it, or as he says, “steal the thinking behind the style”. You want to see _like_ them not be them.
