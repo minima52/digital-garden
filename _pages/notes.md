@@ -9,7 +9,8 @@ permalink: /notes
 Notes that are still unruly.
 
 - [[Growing my ideas]]
-- [[The Power of Immersion]]
+- [[The power of immersion]]
+- [[Nothing is original]]
 
 <style>
   .wrapper {
