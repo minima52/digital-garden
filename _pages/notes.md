@@ -6,7 +6,7 @@ permalink: /notes
 
 # Notes
 
-Notes that are still unruly.
+A full list of all my notes where thoughts are still in its infancy stage.
 
 - [[Growing my ideas]]
 - [[The power of immersion]]
