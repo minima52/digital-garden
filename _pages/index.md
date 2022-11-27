@@ -7,8 +7,12 @@ permalink: /
 
 # This is a collection of my notes.
 
-If this is your first time, please [[Start here]] to begin exploring the notes collection, which functions as a digital garden.<br />
-You can find more [[about]] me here, and what [[toolkit]] I use. This is what I am doing [[now]]. 
+<p>If this is your first time, please [[start here]] to begin exploring the notes collection, which functions as a digital garden.</p>
+
+<p>I regularly write about [[BTS]], [[Language Learning]], and other things.</p>
+
+<p>You can find more [[about]] me here, and what [[toolkit]] I use. This is what I am doing [[now]]. </p>
+
 
 
 <style>
