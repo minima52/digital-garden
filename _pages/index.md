@@ -5,11 +5,10 @@ id: home
 permalink: /
 ---
 
-# Hello, I'm May! 
+# This is a collection of my notes.
 
-This is my little corner on the web.  This is what I am doing [[now]]. Read more [[about]] me here, and what [[toolkit]] I use.
-
-[[Start here]] to begin exploring my digital garden.
+'If this is your first time, please [[Start here]] to begin exploring the notes collection.
+This is what I am doing [[now]]. Read more [[about]] me here, and what [[toolkit]] I use.
 
 
 <style>
