@@ -12,8 +12,8 @@ I try to read widely, however I tend to lean towards non-fiction books these day
 
 ★ = Personal recommendation
 
-- 2022
-- 2021
+- [[2022-list]]
+- [[2021-list]]
 
 <style>
   .wrapper {
