@@ -4,7 +4,7 @@ title: Thoughts
 permalink: /thoughts
 ---
 
-# Notes
+# Thoughts
 
 A full list of all my thoughts that are still in its infancy stage.
 
