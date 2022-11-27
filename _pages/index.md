@@ -9,7 +9,7 @@ permalink: /
 
 This is my little corner on the web.  This is what I am doing [[now]]. Read more [[about]] me here, and what [[toolkit]] I use.
 
-Start here with [[my new digital garden]].
+Start here with [[digital garden]].
 
 
 <style>
