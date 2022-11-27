@@ -1,3 +1,3 @@
-I’m a passionate BTS fan, and will write about my experience as an ARMY, and how I’m learning to love and speak myself.
+Here are some notes I've written inspired by my experience as an ARMY since February 2020.
 
 - [[Memories of an ARMY]]
