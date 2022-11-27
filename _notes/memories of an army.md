@@ -1,4 +1,4 @@
-To celebrate my year and a half ARMY anniversary, I thought I’d go on a trip down memory lane and write about some of my favourite BTS moments.
+To celebrate my 2+ years of becoming an ARMY, I thought I’d go on a trip down memory lane and write about some of my favourite BTS moments.
 
 ### Feb 2020: The making of an ARMY
 
