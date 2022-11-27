@@ -7,11 +7,9 @@ permalink: /
 
 # This is a collection of my notes.
 
-<p>Hi! I'm May. I’m a deep thinker and I often have many thoughts on my mind that I’ll try to share here. My writings are mostly for myself, but you are free to explore as you like by clicking on any link that interests you.
+<p>Hi! I'm May. I’m a deep thinker and I often have many thoughts on my mind that I’ll try to share here. My writings are mostly for myself, but you are free to explore as you like by clicking on any link that interests you.</p>
 
-I’m currently learning Korean and will share my language learning progress. In addition to that, I’m a passionate BTS fan, and will write about my experience as an ARMY, and how I’m learning to love and speak myself.
-
-I also like to read and often record what I’ve read in a year. I write poetry from time to timeI regularly write about [[BTS]], [[Language Learning]], and other things.</p>
+<p>I also like to read and often record what I’ve read in a year. I write poetry from time to timeI regularly write about [[BTS]], [[Language Learning]], and other things.</p>
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Read what's in my [[library]], what [[tools]] I use, and what I'm up to [[now]]. 
