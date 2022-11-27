@@ -15,3 +15,9 @@ I also like to read and often record what I’ve read in a year. I write poetry 
 Here’s what I’m up to these days, what my morning routine looks like, as well as what’s in my toolkit.
 
 Hope you enjoy your stay!
+
+<style>
+  .wrapper {
+    max-width: 46em;
+  }
+</style>
