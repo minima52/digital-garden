@@ -16,6 +16,7 @@ permalink: /toolkit
 - Canon 24-70mm lens
 - Canon 40mm lens
 - Benro iTrip Tripod
+
 ## Productivity
 - Apple Notes – for quick capturing of notes
 - Apple Calendar – planning and organising important events
@@ -25,7 +26,8 @@ permalink: /toolkit
 - Notion (desktop) – mainly for tracking my language goals and recording study notes
 - Obsidian (desktop) – my book notes and evergreen notes
 - Things 3 (iPad, iPhone) – trusty tool for getting tasks done and meeting deadlines
-# Storage Devices
+
+## Storage Devices
 - Dropbox (app, web) – file storage
 - Google Drive (app, web) – for Google Docs and Sheets
 - WD My Passport for Mac 1TB Hard Drive
