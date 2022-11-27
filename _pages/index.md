@@ -11,7 +11,7 @@ permalink: /
 
 <p>I regularly write about [[BTS]], [[Language Learning]], and other things.</p>
 
-<p>You can find more [[about]] me here, and what [[toolkit]] I use. This is what I am doing [[now]]. </p>
+<p>You can find more [[about]] me here, and what [[toolkit]] I use. This is what I am doing [[now]]. I have a [[Changelog]].</p> 
 
 
 
