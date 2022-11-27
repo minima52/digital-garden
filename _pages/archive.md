@@ -14,6 +14,6 @@ title: Archive
 
 <style>
   .wrapper {
-    max-width: 44em;
+    max-width: 48em;
   }
 </style>
