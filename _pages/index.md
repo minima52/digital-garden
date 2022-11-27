@@ -7,7 +7,7 @@ permalink: /
 
 # This is a collection of my notes.
 
-<p>Hi! 👋 I'm May. I’m a deep thinker and I often have many thoughts on my mind that I’ll try to share here. You can think of it like a digital garden, made up of atomic notes on various topics that interests me. The notes I write are mostly for myself, however you are free to explore them as you like by clicking on any link that interests you. Some notes of interest: [[BTS]], [[Language Learning]], and [[Notes]].</p>
+<p>Hi! 👋 I'm May. I’m a deep thinker and I often have many thoughts on my mind that I’ll try to share here. You can think of it like a digital garden, made up of atomic notes on various topics that interests me. The notes I write are mostly for myself, however you are free to explore them as you like by clicking on any link that interests you. Some notes of interest: [[BTS]], [[Language Learning]], and [[Thoughts]].</p>
 
 
 
