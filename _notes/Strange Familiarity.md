@@ -4,7 +4,7 @@ title: Strange Familiarity
 
 RM's second solo work *Indigo* is coming out this Friday, and I'm excited to hear his new work.
 
-In anticipation *Indigo*, I thought I resurrect and renew a post I had written on 18 January 2021 about *seoul*, one of the tracks on *mono*, RM's first mixtape.
+In anticipation for *Indigo*, I thought I resurrect and renew a post I had written on 18 January 2021 about *seoul*, one of the tracks on *mono*, RM's first mixtape.
 
 The song brings back memories of my one week trip to Seoul in 2014 with friends where we walked along the ashy streets of Seoul, explored Cheonggyecheon, and cycled along the Han River. 
 

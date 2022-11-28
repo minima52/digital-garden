@@ -9,23 +9,26 @@ permalink: /thoughts
 A full list of all my thoughts that are still in its infancy stage ranging from streams of consciousness to half-baked thoughts.
 
 ### Language Learning:
-- [[The power of immersion]]
+
+[[The power of immersion]]
 
 ### Personal Knowledge Management
-- [[Growing my ideas]]
+
+[[Growing my ideas]]
 
 ### Creativity:
-- [[Nothing is original]]
+
+[[Nothing is original]]
 
 ### BTS, ARMY & Particatory Fandom:
-- [[Memories of an ARMY]]
+
+[[Memories of an ARMY]]
 
 ### Travel & Belonging:
-- [[Staycation]]
-- [[Strange Familiarity]]
+[[Staycation]] / [[Strange Familiarity]]
 
 ### Lessons:
-- [[Envy vs jealousy]]
+[[Envy vs jealousy]]
 
 <style>
   .wrapper {
