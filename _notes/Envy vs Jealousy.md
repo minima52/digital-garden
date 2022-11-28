@@ -10,6 +10,6 @@ Envy:
 
 Jealousy:
 - Between three people
-- Fear of losing a relationship or a valuable part of a relationship
+- Fear of losing a relationship or a valuable part of a relationship that we have
 
 Source: *Atlas of the Heart* by Brené Brown
