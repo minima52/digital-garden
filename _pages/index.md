@@ -7,7 +7,7 @@ permalink: /
 
 # This is a collection of notes.
 
-<p>Hi! 👋 I'm May. You've stumbled upon a collection of notes that contain everything from musings, streams of consciousness to thoughts that have been incubating for awhile. 🧠 Grab a cup of coffee or tea, and make yourself at home. ☕️ </p>
+<p>Hi! 👋 I'm May. You've stumbled upon a collection of notes that contain everything from musings, streams of consciousness to thoughts that have been incubating for awhile. 🧠✨</p>
 
 <p>The notes I write are mostly for myself, however you are free to explore them as you like by clicking on any link that interests you. Here are a list of [[tools]] I use. </p>
 
