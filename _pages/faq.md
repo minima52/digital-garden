@@ -12,10 +12,10 @@ permalink: /faq
 
 ### Credits
 
-Template: [Maxime's public template on Github](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
-Note-taking Program: [Obsidian](https://obsidian.md/)
-Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
-Website Hosting: Dreamhost
+- Template: [Maxime's public template on Github](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+- Note-taking Program: [Obsidian](https://obsidian.md/)
+- Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Website Hosting: Dreamhost
 
 
 This site was created using [Maxime's public template on Github](https://github.com/maximevaillancourt/digital-garden-jekyll-template) following his [instructions](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) to set it up with the *limited* programming knowledge in my arsenal (I did it! 😅).
