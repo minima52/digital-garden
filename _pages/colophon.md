@@ -19,8 +19,6 @@ permalink: /colophon
 - Website Hosting: [Dreamhost](https://www.dreamhost.com/)
 - Obsidian-Jekyll Walkthrough Guide: [Mike Tannebaum](https://refinedmind.co/obsidian-jekyll-workflow) (used VS Code instead of Atom)
 
-`code`
-
 *In progress*
 
 
