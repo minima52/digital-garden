@@ -8,7 +8,7 @@ permalink: /colophon
 
 ### About
 
-
+...
 
 ### Tech specs
 
