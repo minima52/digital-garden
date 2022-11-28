@@ -8,7 +8,7 @@ permalink: /lessons
 
 Things that I have learnt recently.
 
-None yet!
+- [[Envy vs Jealousy]]
 
 <style>
   .wrapper {

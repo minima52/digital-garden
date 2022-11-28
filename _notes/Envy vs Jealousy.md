@@ -1,3 +1,7 @@
+---
+title: Envy vs. Jealousy
+---
+
 Envy:
 - Between two people
 - Wanting something the other person has
