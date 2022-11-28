@@ -1,10 +1,10 @@
 ---
 layout: page
-title: FAQ
-permalink: /faq
+title: Colophon
+permalink: /colophon
 ---
 
-# FAQ
+# Colophon
 
 ### About
 
