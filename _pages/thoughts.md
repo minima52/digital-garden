@@ -17,8 +17,11 @@ A full list of all my thoughts that are still in its infancy stage ranging from 
 ### Creativity:
 - [[Nothing is original]]
 
+### BTS, ARMY & Particatory Fandom:
+- [[Memories of an ARMY]]
+
 ### Lessons:
-- [[Envy vs Jealousy]]
+- [[Envy vs jealousy]]
 
 <style>
   .wrapper {
