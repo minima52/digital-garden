@@ -2,7 +2,7 @@
 title: Staycation
 ---
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;"><i>This was written on January 14, 2021 on a public blogging platform, which has now migrated to this website.</i></p>
+<p style="padding: 2em 1em; background: #f5f7ff; border-radius: 4px;"><i>This was written on January 14, 2021 on a public blogging platform, which has now migrated to this website.</i></p>
 
 Around this time of the year, I'd likely see myself jetting away on an Airbus A380 high up above the clouds. I'd wander the streets of an unfamiliar city with an Antler luggage in tow and a crumpled piece of map clutched in my small, clammy hands. But thanks to COVID, I've been forced to rethink the way I travel. Instead of crossing timezones, I could perhaps [fly to my room](https://www.rollingstone.com/music/music-features/bts-fly-to-my-room-song-you-need-to-know-1093419/), or float aimlessly in the confines of my mind. 
 
