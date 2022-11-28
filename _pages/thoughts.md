@@ -17,6 +17,9 @@ A full list of all my thoughts that are still in its infancy stage ranging from 
 ### Creativity:
 - [[Nothing is original]]
 
+### Lessons:
+- [[Envy vs Jealousy]]
+
 <style>
   .wrapper {
     max-width: 58em;
