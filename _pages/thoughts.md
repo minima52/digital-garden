@@ -20,7 +20,7 @@ A full list of all my thoughts that are still in its infancy stage ranging from 
 
 [[Nothing is original]]
 
-### BTS, ARMY & Particatory Fandom:
+### BTS, ARMY & Participatory Fandom:
 
 [[Memories of an ARMY]]
 
