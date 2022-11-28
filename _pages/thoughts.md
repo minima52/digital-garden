@@ -20,8 +20,9 @@ A full list of all my thoughts that are still in its infancy stage ranging from 
 ### BTS, ARMY & Particatory Fandom:
 - [[Memories of an ARMY]]
 
-### Travel:
+### Travel & Belonging:
 - [[Staycation]]
+- [[Strange Familiarity]]
 
 ### Lessons:
 - [[Envy vs jealousy]]
