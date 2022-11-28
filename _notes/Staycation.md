@@ -2,7 +2,9 @@
 title: Staycation
 ---
 
-Around this time of the year, I'd likely see myself jetting away on an Airbus A380 high up above the clouds. I'd wander the streets of an unfamiliar city with an Antler luggage in tow and a crumpled piece of map clutched in my small, clammy hands. But thanks to COVID, I've been forced to rethink the way I travel. Instead of crossing timezones, I could perhaps _[fly to my room](https://www.rollingstone.com/music/music-features/bts-fly-to-my-room-song-you-need-to-know-1093419/), or float aimlessly in the confines of my mind. 
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">This was written on January 14, 2021 on a public blogging platform, which has now migrated to this website.</p>
+
+Around this time of the year, I'd likely see myself jetting away on an Airbus A380 high up above the clouds. I'd wander the streets of an unfamiliar city with an Antler luggage in tow and a crumpled piece of map clutched in my small, clammy hands. But thanks to COVID, I've been forced to rethink the way I travel. Instead of crossing timezones, I could perhaps [fly to my room](https://www.rollingstone.com/music/music-features/bts-fly-to-my-room-song-you-need-to-know-1093419/), or float aimlessly in the confines of my mind. 
 
 A week ago, my sister suggested for us to do a staycation at the iconic Bondi Beach, only an hour away from home by public transportation. To be frank, I've never been on a staycation before, and the thought of being a tourist in my own home city seemed a little farfetched—mind you, Sydney was going through a second wave of COVID at that time. It wasn't a good time to be travelling anywhere.
 
