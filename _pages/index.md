@@ -11,7 +11,12 @@ permalink: /
 
 <p>The notes I write are mostly for myself, however you are free to explore them as you like by clicking on any link that interests you. The best place is to <a class="internal-link" href="/thoughts">start here</a>.
 
-
+start here: 
+- [[index]]
+    - [[thoughts]]
+    - [[library]]
+    - [[poetry]]
+- [[archive]]
 
 
 <style>
