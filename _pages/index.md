@@ -19,7 +19,7 @@ permalink: /
 <li>[[poetry]]</li>
 <li>[[archive]]</li>
 </ul>
-</p>
+
 
 
 <style>
