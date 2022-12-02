@@ -11,12 +11,15 @@ permalink: /
 
 <p>The notes I write are mostly for myself, however you are free to explore them as you like by clicking on any link that interests you. </p>
 
-start here: 
-- [[index]]
-    - [[thoughts]]
-    - [[library]]
-    - [[poetry]]
-- [[archive]]
+<p>start here: </p>
+<ul>
+<li>[[index]]</li>
+<li>-[[thoughts]]</li>
+<li>[[library]]</li>
+<li>[[poetry]]</li>
+<li>[[archive]]</li>
+</ul>
+</p>
 
 
 <style>
