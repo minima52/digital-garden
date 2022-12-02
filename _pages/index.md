@@ -14,9 +14,9 @@ permalink: /
 ### start here:
 <ul>
 <li>[[index]]</li>
-<li>-[[thoughts]]</li>
+<ul><li>[[thoughts]]</li>
 <li>[[library]]</li>
-<li>[[poetry]]</li>
+<li>[[poetry]]</li></ul>
 <li>[[archive]]</li>
 </ul>
 
