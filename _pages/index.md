@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# This is a collection of notes.
+### This is a collection of notes.
 
 <p>Hi! 👋 I'm May. You've stumbled upon a collection of notes that contain everything from musings, streams of consciousness to thoughts that have been incubating in my mind for awhile. 🧠✨</p>
 
