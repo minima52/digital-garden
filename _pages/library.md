@@ -4,12 +4,13 @@ title: Library
 permalink: /library
 ---
 
-# Library
+# **Library**
 
 A list of books I’ve read. Visit my Goodreads account for a full collection of books I’ve read to date.
 
 I try to read widely, however I tend to lean towards non-fiction books these days. Some of my favourite genres include: productivity, minimalism, learning, and general health.
 
+★ = Personal recommendation
 
 ### 2022
 
@@ -22,7 +23,7 @@ I try to read widely, however I tend to lean towards non-fiction books these day
 
 ### 2021
 
-   _Almond_ by Won-pyung Sohn 5/5 ★
+-   _Almond_ by Won-pyung Sohn 5/5 ★
 -   _Ikigai_ by Yukari Mitsuhashi 3.5/5
 -   _The Wisdom of Insecurity_ by Alan Watts 3.5/5
 -   _Essentialism_ by Greg McKeown 3.5/5
@@ -36,8 +37,6 @@ I try to read widely, however I tend to lean towards non-fiction books these day
 -   _Steal Like an Artist_ by Austin Kleon 4/5 ★
 -   _The Bullet Journal Method_ by Ryder Carroll 4/5
 
-- [[2022-list]]
-- [[2021-list]]
 
 <style>
   .wrapper {
