@@ -6,7 +6,7 @@ permalink: /listening
 
 `/listening`
 
-Here are some of my favourite tracks organised by year. The tracks noted below are not necessarily released in that respective year. Some are released a few year back or even decades ago. The basis of these tracks is that they have resonated with me so much so that I have replayed them more times than I can count.
+Here are some of my favourite tracks organised by year. The tracks noted below are not necessarily released in that respective year; some tracks are released a few years back or even decades ago. The basis of these tracks is that they have resonated with me so much so that I have replayed them more times than I can count.
 
 ### 2022
 
