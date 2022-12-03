@@ -20,6 +20,12 @@ Here are some of my favourite tracks organised by year. The tracks noted below a
 
 - Wave - Antônio Carlos Jobim (<a href="https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F?si=47f14b3e74894ece">Listen on Spotify</a>)
 - Film Out - BTS (<a href="https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt?si=f85e129f9414417f">Listen on Spotify</a>)
+- Clouds - Before You Exit (<a href="https://open.spotify.com/track/0FiInivN1aBhzKM3UtHM3l?si=ffb10f6c86084076">Listen on Spotify</a>)
+
+### 2020
+
+- Life Goes On - BTS (<a href="https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD?si=8161c5ad2c254ecd">Listen on Spotify</a>)
+
 
 <style>
   .wrapper {
