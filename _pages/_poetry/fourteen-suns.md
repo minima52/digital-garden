@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fourteen Suns & Moons Ago
-permalink: /poetry/fourteen-suns
+permalink: /fourteen-suns
 ---
 
 Fourteen Suns & Moons Ago –
