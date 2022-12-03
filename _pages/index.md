@@ -30,6 +30,7 @@ permalink: /
 <ul>
 <li>[[thoughts]]</li>
 <li>[[reading]]</li>
+<li>[[listening]]</li>
 <li>[[poetry]]</li>
 <li>[[quotes]]</li>
 </ul>
