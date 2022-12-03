@@ -16,6 +16,8 @@ permalink: /
 <li>[[library]]</li>
 <li>[[poetry]]</li></ul>
 <li>[[archive]]</li>
+<li>[[changelog]]</li>
+<li>[[colophon]]</li>
 </ul>
 
 
