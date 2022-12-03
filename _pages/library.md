@@ -4,7 +4,7 @@ title: Library
 permalink: /library
 ---
 
-# Reading List
+# library.
 
 A list of books I’ve read. Visit my Goodreads account for a full collection of books I’ve read to date.
 
@@ -12,7 +12,7 @@ I try to read widely, however I tend to lean towards non-fiction books these day
 
 ★ = Personal recommendation
 
-### 2022
+### 2022 Reading List
 
 -   _Wherever You Go, There You Are_ by Jon Kabat-Zinn
 -   _Demian_ by Hermann Hesse
@@ -21,7 +21,7 @@ I try to read widely, however I tend to lean towards non-fiction books these day
 -   _The Laws of Human Nature_ by Robert Greene
 
 
-### 2021
+### 2021 Reading List
 
 -   _Almond_ by Won-pyung Sohn 5/5 ★
 -   _Ikigai_ by Yukari Mitsuhashi 3.5/5
