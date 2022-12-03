@@ -48,11 +48,13 @@ And Like An Old Acquaintance, Bade You Farewell: Adieu!
 
 You, Who Once Dreamed Many Dreams Underneath A Universe Of Stars, 
 
-Vanished Off Into The Cathartic Rain To A Faraway But Familiar Place,
+Vanished Off Into The Rain To A Faraway But Familiar Place,
 
 Leaving Behind Only A Ghostly Trace Of A Memory,
 
 Of What Once Was.
+
+<br />
 
 – M.T.
 
