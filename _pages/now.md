@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Now
+permalink: /now
 ---
 
 This is my now page, which is a list of things that currently plague my monkey mind. What's a <a href="https://nownownow.com/about">now page</a>, and why you should create one.
