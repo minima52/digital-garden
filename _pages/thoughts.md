@@ -29,10 +29,6 @@ Travel & Belonging:
 - [[Staycation]]
 - [[Strange Familiarity]]
 
-Lessons:
-
-- [[Envy vs jealousy]]
-
 <style>
   .wrapper {
     max-width: 58em;
