@@ -21,7 +21,7 @@ permalink: /
 <li>[[about]]</li>
 <li>[[archive]]</li>
 <li>[[now]]</li>
-<li>[[colophon]]</li>
+<li>[[meta]]</li>
 </ul>
 
 
