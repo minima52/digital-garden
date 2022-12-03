@@ -22,6 +22,8 @@ You, Who Gazed Out From The Window At The World Spinning Outside,
 
 Awakened To A Sentimental Soul Inside.
 
+<br />
+
 II
 
 Your Cape Of Soft Black Fur Laced With The Most Subtle Shade Of Ivory, 
@@ -37,6 +39,8 @@ Like The Waxing And Waning Of The Fluorescent Moon,
 Your Feline Eyes, Wild And Enigmatic,
 
 Were Enough To Lull The Evening Stars To Sleep.
+
+<br />
 
 III
 
