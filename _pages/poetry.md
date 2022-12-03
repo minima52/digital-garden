@@ -8,7 +8,7 @@ permalink: /poetry
 
 A small selection of poetry I have written through the years.
 
-- <a class="internal-link" href="/_pages/_poetry/fourteen-suns.md">Fourteen Suns & Moons Ago</a>
+- <a class="internal-link" href="/poetry/fourteen-suns.md">Fourteen Suns & Moons Ago</a>
 
 
 
