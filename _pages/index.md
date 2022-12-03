@@ -29,7 +29,7 @@ permalink: /
 
 <ul>
 <li>[[thoughts]]</li>
-<li>[[library]]</li>
+<li>[[reading]]</li>
 <li>[[poetry]]</li>
 <li>[[quotes]]</li>
 </ul>
