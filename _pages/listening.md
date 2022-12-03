@@ -13,6 +13,7 @@ Here are some of my favourite tracks organised by year. The tracks noted below a
 - Wild Flower - RM (with youjeen) (<a href="https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q?si=59bb5dd10aec480d">Listen on Spotify</a>)
 - Yun - RM (with Erykah Badu) (<a href="https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R?si=90343875ad8a4d56">Listen on Spotify</a>)
 - Future - j-hope (<a href="https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h?si=07445d95a3434b44">Listen on Spotify</a>)
+- 낙화 (落花) - Epik High (<a href="https://open.spotify.com/track/1Arp1lhLP05i8tJXvY6JBZ?si=5ac889cbc0a140ff">Listen on Spotify</a>)
 - Yet To Come - BTS (<a href="https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ?si=2a97438ceb5146d1">Listen on Spotify</a>)
 - For Youth - BTS (<a href="https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5?si=c863b720acb24fa3">Listen on Spotify</a>)
 - I Feel Your Love - Luli Lee (<a href="https://open.spotify.com/track/5MPTnzbIv8DFih57iAE8Kt?si=c6186959d4e04f0c">Listen on Spotify</a>)
@@ -21,6 +22,7 @@ Here are some of my favourite tracks organised by year. The tracks noted below a
 
 - Wave - Antônio Carlos Jobim (<a href="https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F?si=47f14b3e74894ece">Listen on Spotify</a>)
 - Film Out - BTS (<a href="https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt?si=f85e129f9414417f">Listen on Spotify</a>)
+- Blue Side - j-hope (<a href="https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi?si=efc294e9fd7249a0">Listen on Spotify</a>)
 - Clouds - Before You Exit (<a href="https://open.spotify.com/track/0FiInivN1aBhzKM3UtHM3l?si=ffb10f6c86084076">Listen on Spotify</a>)
 
 ### 2020
