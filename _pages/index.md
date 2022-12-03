@@ -11,14 +11,14 @@ permalink: /
 
 <p>The notes I write are mostly for myself and for the most part a work-in-progress so expect some wild flowers along your walk through my <a class="internal-link" href="https://maytrinh.me/growing-my-ideas">digital garden</a>. Feel free to explore them as you like by clicking on any link that interests you. </p>
 
-<p>📍 start here:</p>
-
+📍 Start here:
 <ul>
 <li>[[index]]</li>
 <ul><li>[[thoughts]]</li>
 <li>[[library]]</li>
 <li>[[poetry]]</li>
 <li>[[quotes]]</li></ul>
+<li>[[about]]</li>
 <li>[[archive]]</li>
 <li>[[now]]</li>
 <li>[[colophon]]</li>
