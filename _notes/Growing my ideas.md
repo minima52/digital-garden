@@ -1,5 +1,5 @@
 ---
-title: Growing My Ideas
+title: Growing my ideas
 ---
 
 In his book, _[How to Steal Like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)_, Kleon says you are only as good as your last post. Blog entries in particular are typically organised in a chronological order, which means that the latest entries are at the top of the feed and the earliest entries are at the bottom. What I think he means is that your readers can only gather as much about you based from your latest blog entries.
