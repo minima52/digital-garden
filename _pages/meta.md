@@ -6,7 +6,7 @@ permalink: /meta
 
 `/meta`
 
-### technical specifications
+## Technical Specifications
 
 This website is based off [Maxime Vaillancourt's Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template), which is hosted on Github and deployed on to [Netlify](https://www.netlify.com/?utm_medium=paid_search&utm_source=google&utm_campaign=12755510784&utm_term=netlify%20hosting).
 
