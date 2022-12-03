@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Fourteen Suns & Moons Ago
+permalink: /fourteen suns and moons ago
 ---
 
 Fourteen Suns & Moons Ago –
@@ -49,3 +51,9 @@ Leaving Behind Only A Ghostly Trace Of A Memory,
 Of What Once Was.
 
 – M.T.
+
+<style>
+  .wrapper {
+    max-width: 58em;
+  }
+</style>
