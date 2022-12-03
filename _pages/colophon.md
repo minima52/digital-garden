@@ -4,7 +4,7 @@ title: Colophon
 permalink: /colophon
 ---
 
-# Colophon
+`/colophon`
 
 ### About
 

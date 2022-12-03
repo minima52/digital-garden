@@ -3,7 +3,7 @@ layout: page
 title: Archive
 ---
 
-# Archive
+`/archive`
 
 <ul class="archive">
 {% for note in site.notes %}
