@@ -24,7 +24,8 @@ permalink: /
 </ul>
 
 <ul>
-<li>pages<li>
+<li>pages</li>
+
 <ul>
 <li>[[thoughts]]</li>
 <li>[[library]]</li>
