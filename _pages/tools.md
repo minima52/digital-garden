@@ -11,7 +11,8 @@ permalink: /tools
 - Apple iPad 10.2″ (8th generation)
 - Jabra Move Style Edition Wireless Headphones
 - Ultimate Ears Boom 3 Wireless Speakers
-- Camera Gear
+
+## Camera Gear
 - Canon EOS 6D
 - Canon 24-70mm lens
 - Canon 40mm lens
