@@ -8,7 +8,7 @@ permalink: /poetry
 
 A small selection of poetry I have written through the years.
 
-- [Fourteen Suns & Moons Ago][[fourteen-suns]]
+- <a class="internal-link" href="/pages/poetry/fourteen-suns.md">Fourteen Suns & Moons Ago</a>
 
 <style>
   .wrapper {
