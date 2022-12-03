@@ -6,7 +6,7 @@ permalink: /listening
 
 `/listening`
 
-Here are some of my favourite tracks each year.
+Here are some of my favourite tracks year by year that are played more than others. Tracks are not necessarily released in that respective year, but can come from a few years ago or decades ago. The basis of these tracks is that they resonate with me, and I have replayed them a lot more than other tracks on my playlist.
 
 ### 2022
 
