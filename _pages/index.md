@@ -19,6 +19,7 @@ permalink: /
 <li>[[poetry]]</li>
 <li>[[quotes]]</li></ul>
 <li>[[archive]]</li>
+<li>[[now]]</li>
 <li>[[colophon]]</li>
 </ul>
 
