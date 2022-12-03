@@ -14,16 +14,33 @@ permalink: /
 📍 Start here:
 <ul>
 <li>[[index]]</li>
-<ul><li>[[thoughts]]</li>
-<li>[[library]]</li>
-<li>[[poetry]]</li>
-<li>[[quotes]]</li></ul>
+
+<ul>
+<li>personal</li>
+<ul>
 <li>[[about]]</li>
-<li>[[archive]]</li>
 <li>[[now]]</li>
-<li>[[meta]]</li>
+</ul>
 </ul>
 
+<ul>
+<li>pages<li>
+<ul>
+<li>[[thoughts]]</li>
+<li>[[library]]</li>
+<li>[[poetry]]</li>
+<li>[[quotes]]</li>
+</ul>
+</ul>
+
+<ul>
+<li>site</li>
+<ul><li>[[archive]]</li>
+<li>[[meta]]</li>
+</ul>
+</ul>
+
+</ul>
 
 
 <style>
