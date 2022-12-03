@@ -16,15 +16,16 @@ permalink: /
 <li>[[index]]</li>
 
 <ul>
-<li>personal</li>
+<li>personal:</li>
 <ul>
 <li>[[about]]</li>
 <li>[[now]]</li>
+<li>[[tools]]</li>
 </ul>
 </ul>
 
 <ul>
-<li>pages</li>
+<li>pages:</li>
 
 <ul>
 <li>[[thoughts]]</li>
@@ -35,8 +36,10 @@ permalink: /
 </ul>
 
 <ul>
-<li>site</li>
-<ul><li>[[archive]]</li>
+<li>site:</li>
+
+<ul>
+<li>[[archive]]</li>
 <li>[[meta]]</li>
 </ul>
 </ul>
