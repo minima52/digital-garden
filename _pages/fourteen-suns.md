@@ -10,6 +10,8 @@ permalink: /fourteen-suns
 
 <p style="padding: 2em; background: #f5f7ff; border-radius: 4px;"><i>This poem was written circa 2012-13 inspired by a foster cat I helped looked after called Tilly.</i></p>
 
+<br />
+
 Fourteen Suns & Moons Ago –
 
 Like A Ghostly Visitor Of The Night,
