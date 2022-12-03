@@ -9,7 +9,7 @@ permalink: /
 
 <p>Hi! 👋 I'm May. You've stumbled upon a collection of notes that contain everything from musings, streams of consciousness to thoughts that have been incubating in my mind for awhile. 🧠✨ </p>
 
-<p>The notes I write are mostly for myself, and for the most part is a work-in-progress, so expect some wild flowers along your walk through my <a class="internal-link" href="https://maytrinh.me/growing-my-ideas">digital garden</a>. Feel free to explore them as you like by clicking on any link that interests you. </p>
+<p>The notes I write are mostly for myself, and for the most part is a work-in-progress, so expect some unruly weeds along your walk through my <a class="internal-link" href="https://maytrinh.me/growing-my-ideas">digital garden</a>. Feel free to explore as you like by clicking on any link that interests you. </p>
 
 📍 Start here:
 <ul>
