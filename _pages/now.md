@@ -18,6 +18,8 @@ This is my now page, which is a list of things that currently plague my monkey m
 - Purchased my first Traveller’s Notebook, where it will become my 2023 planner. I love how customisable it is.
 - Jazz piano music. I love love love how classy it is.
 
+Last updated: 28 Nov 2022
+
 
 <style>
   .wrapper {
