@@ -6,6 +6,8 @@ permalink: /fourteen-suns
 
 `/poetry/fourteen suns & moons ago`
 
+<br />
+
 Fourteen Suns & Moons Ago –
 
 Like A Ghostly Visitor Of The Night,
