@@ -4,7 +4,7 @@ title: Library
 permalink: /library
 ---
 
-# **Library**
+# Reading List
 
 A list of books I’ve read. Visit my Goodreads account for a full collection of books I’ve read to date.
 
