@@ -12,14 +12,15 @@ This is my now page, which is a list of things that currently plague my monkey m
 - Updating this website. Moving it from Wordpress to a static website is probably the best decision I've made.
 
 ### What I’m thinking about:
-- French Impressionist Art especially Monet. After returning from a trip to Melbourne and seeing the Monet & Friends exhibition, I started becoming interested in Impressionism. Currently reading the book, *Impressionism* by Karin H. Grimme.
+- French Impressionist Art especially Monet. After returning from a trip to Melbourne and seeing the Monet & Friends exhibition, I started becoming interested in Impressionism. 
 - Gee, it’s already the end of 2022. 🥲
+- RM's <a href="https://www.youtube.com/watch?v=lRy8OYhLO-A">Indigo Magazine Film</a> interview. It's so interesting learning what and how inspires his creative process.
 
 ### New discoveries:
 - Purchased my first Traveller’s Notebook, where it will become my 2023 planner. I love how customisable it is.
 - Jazz piano music. I love love love how classy it is.
 
-Last updated: 28 Nov 2022
+Last updated: 04 December 2022, 11:09AM
 
 
 <style>
