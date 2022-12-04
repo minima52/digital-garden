@@ -24,7 +24,7 @@ I try to read widely, however I tend to lean towards non-fiction books these day
 - *Being Peace* by Thich Nhat Hanh
 - *The Almanack of Naval Ravikant* by Eric Jorgenson
 - *Life Lessons* by Elisabeth Kübler-Ross & David Kessler
-- *The Psychology of Money* by Morgan Housel
+- *The Psychology of Money* by Morgan Housel ★
 - *Principles* by Ray Dalio
 - *Goodbye Tsugumi* by Banana Yoshimoto
 - *Sweet Bean Paste* by Durian Sukegawa
