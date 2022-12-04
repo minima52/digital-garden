@@ -6,7 +6,7 @@ permalink: /reading
 
 `/reading`
 
-A list of books I’ve read. Visit my Goodreads account for a full collection of books I’ve read to date.
+A list of books I’ve read. Visit my <a href="https://www.goodreads.com/user/show/24607110-may">Goodreads</a> account for a full collection of books I’ve read to date.
 
 I try to read widely, however I tend to lean towards non-fiction books these days. Some of my favourite genres include: productivity, minimalism, learning, and general health.
 
