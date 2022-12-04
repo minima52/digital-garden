@@ -19,7 +19,6 @@ I try to read widely, however I tend to lean towards non-fiction books these day
 -   _Wherever You Go, There You Are_ by Jon Kabat-Zinn
 -   _Demian_ by Hermann Hesse
 -   _How to Think More Effectively_ by The School of Life
-- *Essentialism: The Disciplined Pursuit* of Less by Greg McKeown
 - *The One Thing* by Gary Keller with Jay Papasan
 - *Building a Second Brain* by Tiago Forte
 - *Being Peace* by Thich Nhat Hanh
