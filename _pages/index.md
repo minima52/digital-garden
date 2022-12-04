@@ -30,6 +30,7 @@ permalink: /
 <ul>
 <li>[[thoughts]]</li>
 <li>[[reading]]</li>
+<ul><li>[[anti-library]]</li></ul>
 <li>[[listening]]</li>
 <li>[[poetry]]</li>
 <li>[[quotes]]</li>
