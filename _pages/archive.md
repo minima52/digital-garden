@@ -5,7 +5,7 @@ title: Archive
 
 `/archive`
 
-An archive of all the notes in my digital garden.
+An archive of all the notes in my digital garden sorted by date last modified.
 
 <ul class="archive">
 {% for note in site.notes %}
