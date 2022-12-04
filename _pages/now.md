@@ -15,7 +15,7 @@ Here's what I’m thinking about:
 - French Impressionist Art especially Monet. After returning from a trip to Melbourne and seeing the Monet & Friends exhibition, I started becoming interested in Impressionism. 
 - RM's <a href="https://www.youtube.com/watch?v=lRy8OYhLO-A">Indigo Magazine Film</a> interview. It's so interesting learning what and how inspires his creative process.
 
-Last updated: 04 December 2022, 11:09AM
+Last updated: 05 December 2022, 08:54AM
 
 
 <style>
