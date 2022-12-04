@@ -15,6 +15,7 @@ I tend to listen to: pop, ballads, rnb, hip hop, and jazz.
 - Wild Flower - RM (with youjeen) (<a href="https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q?si=59bb5dd10aec480d">Listen on Spotify</a>)
 - Yun - RM (with Erykah Badu) (<a href="https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R?si=90343875ad8a4d56">Listen on Spotify</a>)
 - 4 Seasons of Loneliness - Boyz II Men (<a href="https://open.spotify.com/track/1TyNecZDYU3BP3EitfpgnT?si=1f9b9040ca9243d0">Listen on Spotify</a>)
+- A Sunday Kind of Love - Etta James (<a href="https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb?si=db7e94692e7243b2">Listen on Spotify</a>)
 - Words in Disguise - Magnus Ringblom Quartet (<a href="https://open.spotify.com/track/5NURrY4mvutdasl2Ijwccs?si=7ca73923a6ca4d45">Listen on Spotify</a>)
 - Future - j-hope (<a href="https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h?si=07445d95a3434b44">Listen on Spotify</a>)
 - = (Equal Sign)  - j-hope (<a href="https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx?si=07469d18072a4ec3">Listen on Spotify</a>)
