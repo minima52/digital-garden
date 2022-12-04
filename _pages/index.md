@@ -16,9 +16,8 @@ permalink: /
 <li>[[index]]</li>
 
 <ul>
-<li>personal:</li>
-<ul>
 <li>[[about]]</li>
+<ul>
 <li>[[now]]</li>
 <li>[[tools]]</li>
 </ul>
