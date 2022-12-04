@@ -6,7 +6,7 @@ permalink: /about
 
 `/about`
 
-Hi, I'm May!
+Hi, I'm May! 👋 
 
 For the longest of time, I've always wanted an online space of my own where I can freely express myself. That never happened for many years until now. 
 
