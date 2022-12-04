@@ -20,6 +20,15 @@ I try to read widely, however I tend to lean towards non-fiction books these day
 -   _Demian_ by Hermann Hesse
 -   _How to Think More Effectively_ by The School of Life
 - *Essentialism: The Disciplined Pursuit* of Less by Greg McKeown
+- *Building a Second Brain* by Tiago Forte
+- *Being Peace* by Thich Nhat Hanh
+- *The Almanack of Naval Ravikant* by Eric Jorgenson
+- *Life Lessons* by Elisabeth Kübler-Ross & David Kessler
+- *The Psychology of Money* by Morgan Housel
+- *Principles* by Ray Dalio
+- *Goodbye Tsugumi* by Banana Yoshimoto
+- *Say What You Mean* by Oren Jay Sofer ★
+- *MindWorks* by Gary van Warmerdam ★
 
 
 ### 2021 Reading List
