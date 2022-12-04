@@ -26,6 +26,7 @@ I tend to listen to: pop, ballads, rnb, hip hop, and jazz.
 ### 2021
 
 - Wave - Antônio Carlos Jobim (<a href="https://open.spotify.com/track/2hXBS8q9rGMovfG1S8FB4F?si=47f14b3e74894ece">Listen on Spotify</a>)
+- In a Sentimental Mood - Duke Ellington, John Coltrane (<a href="https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR?si=07dc3f6ed3d1435c">Listen on Spotify</a>)
 - We Can Dance in the Dark - Nao'ymt (<a href="https://open.spotify.com/track/4DtU8I2vnQ25boIb137rao?si=e3822b4a9c674c2a">Listen on Spotify</a>)
 - Film Out - BTS (<a href="https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt?si=f85e129f9414417f">Listen on Spotify</a>)
 - Blue Side - j-hope (<a href="https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi?si=efc294e9fd7249a0">Listen on Spotify</a>)
