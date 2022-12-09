@@ -7,7 +7,6 @@ permalink: /logs
 `/logs`
 
 - [[chocolate]]
-- [[tea]]
 
 <style>
   .wrapper {
