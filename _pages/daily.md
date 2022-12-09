@@ -14,7 +14,9 @@ weekday:
 
 ### Evening
 
-*In progress*
+
+🚧 Page in progress - come back to visit later! 😉
+
 
 <style>
   .wrapper {

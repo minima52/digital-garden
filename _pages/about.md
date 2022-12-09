@@ -15,7 +15,7 @@ What motivated me to begin was my inspiration: BTS.
 I find them inspirational as their music and artistry not only speaks to my curious, wandering soul, but also their core message of loving and speaking yourself continues to empower many others like myself to find my inner voice.
 
 
-*In progress*
+🚧 Page in progress - come back to visit later! 😉
 
 <style>
   .wrapper {

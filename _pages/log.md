@@ -9,6 +9,7 @@ permalink: /log
 - [[chocolate]]
 - [[tea]]
 
+🚧 Page in progress - come back to visit later! 😉
 
 <style>
   .wrapper {
