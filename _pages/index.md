@@ -26,15 +26,22 @@ permalink: /
 </ul>
 
 <ul>
-<li>[[thoughts]]</li>
+<li>[[thoughts]] (digital garden)</li>
 <ul><li>[[retrospect]]</li></ul>
+</ul>
+
+<ul>
+<li>trackers:</li>
+
+<ul>
 <li>[[reading]]</li>
 <ul><li>[[anti-library]]</li></ul>
 <li>[[listening]]</li>
 <li>[[poetry]]</li>
 <li>[[quotes]]</li>
-
 </ul>
+</ul>
+
 
 <ul>
 <li>site:</li>
