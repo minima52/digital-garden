@@ -20,6 +20,7 @@ permalink: /
 <ul>
 <li>[[now]]</li>
 <li>[[tools]]</li>
+<li>[[logs]]</li>
 </ul>
 </ul>
 
