@@ -4,6 +4,7 @@ title: Routine
 permalink: /routine
 ---
 
+`/routine`
 
 - [[morning routine]]
 - [[skincare routine]]
