@@ -32,7 +32,7 @@ Weekends:
   - I am required to WFH once a month on Saturday (8:30-15:00) with 30 mins lunch time.
   - I usually make a cup of freshly brewed coffee with the Breville coffee machine or sometimes pourover coffee.
 - 8:30/9:30: Laundry, wash make up brushes
-  - Will often meet up with friends for brunch or relax at home.
+  - The rest of the day is often spent meeting up with friends for brunch/lunch/dinner or relaxing at home.
 
 
 <style>
