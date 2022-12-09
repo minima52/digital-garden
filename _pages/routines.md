@@ -6,8 +6,8 @@ permalink: /routines
 
 `/routines`
 
-- [[daily|daily routine]]
-- [[skincare|skincare routine]]
+- [[daily]]
+- [[skincare]]
 
 
 <style>
