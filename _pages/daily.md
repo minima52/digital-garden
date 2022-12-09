@@ -10,7 +10,7 @@ permalink: /daily
 
 My weekdays are spent commuting to & from work. My line of work requires me to stick to an assigned roster so the time I need to be in the office varies from day to day - 8:00, 9:00 or 10:00. This means I need to adjust my routine slightly to account for the difference in time going to/from the office. 
 
-Weekday:
+Weekdays:
 - 5:30/6:30: Wake up, wash my face, get make up done, and do my hair to get ready for work
   - On Mondays I work from home (WFH) so I get to sleep in a bit 😉
   - Mornings are particularly hectic when I need to get to work by 8:00 or 9:00. I don't usually have time in the mornings to have breakfast so I go without. When I do get time, I tend to have a light breakfast usually yoghurt with granola. 
@@ -27,15 +27,12 @@ Weekday:
 - 21:30/22:30/23:00: Sleep time
   - Phone on flight mode
 
-Saturday: 
+Weekends: 
 - 6:30/7:30: Wake up, wash my face, make a simple breakfast
   - I am required to WFH half days once a month on Saturday (8:30-15:00) with 30 mins lunch time. 
-  - I usually make a fresh cup of coffee
+  - I usually make a cup of freshly brewed coffee with the Breville coffee machine or sometimes pourover coffee.
 - 8:30/9:30: Laundry, wash make up brushes
   - Will often meet up with friends for brunch or relax at home
-
-
-🚧 Page in progress - come back to visit later! 😉
 
 
 <style>
