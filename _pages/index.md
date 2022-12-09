@@ -26,9 +26,6 @@ permalink: /
 </ul>
 
 <ul>
-<li>pages:</li>
-
-<ul>
 <li>[[thoughts]]</li>
 <ul><li>[[retrospect]]</li></ul>
 <li>[[reading]]</li>
@@ -36,7 +33,7 @@ permalink: /
 <li>[[listening]]</li>
 <li>[[poetry]]</li>
 <li>[[quotes]]</li>
-</ul>
+
 </ul>
 
 <ul>

@@ -6,7 +6,7 @@ permalink: /retrospect
 
 `/retrospect`
 
-...
+Reflecting back to look forward...
 
 <style>
   .wrapper {
