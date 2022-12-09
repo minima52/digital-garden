@@ -31,8 +31,6 @@ I tend to listen to: pop, ballads, rnb, hip hop, and jazz.
 - We Can Dance in the Dark - Nao'ymt (<a href="https://open.spotify.com/track/4DtU8I2vnQ25boIb137rao?si=e3822b4a9c674c2a">Listen on Spotify</a>)
 - Film Out - BTS (<a href="https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt?si=f85e129f9414417f">Listen on Spotify</a>)
 - Blue Side - j-hope (<a href="https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi?si=efc294e9fd7249a0">Listen on Spotify</a>)
-- Clouds - Before You Exit (<a href="https://open.spotify.com/track/0FiInivN1aBhzKM3UtHM3l?si=ffb10f6c86084076">Listen on Spotify</a>)
-- Sunflower - I Don't Like Mondays. (<a href="https://open.spotify.com/track/5vMy2LAriXI6Opv8PkG3Px?si=2f3163e171994411">Listen on Spotify</a>)
 
 ### 2020
 
