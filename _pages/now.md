@@ -4,7 +4,7 @@ title: Now
 permalink: /now
 ---
 
-<small>Last updated: 05 December 2022, 08:54AM</small>
+<small>Last updated: Monday, 05 Dec 2022, 08:54AM</small>
 
 This is my now page, which is a list of things that currently plague my monkey mind. What's a <a href="https://nownownow.com/about">now page</a>, and why you should create one.
 
