@@ -47,7 +47,7 @@ permalink: /
 <li>site:</li>
 
 <ul>
-<li><a class="internal-link" href="/_pages/archive.md">archive</a></li>
+<li>[[archive]]</li>
 <li>[[meta]]</li>
 </ul>
 </ul>
