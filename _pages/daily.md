@@ -29,10 +29,10 @@ Weekdays:
   - Phone on flight mode
 
 Weekends: 
-- 6:30/7:30: Wake up, wash my face, make a simple breakfast
+- 6:30/7:30: Wake up, wash my face, [[skincare|skincare routine]], make a simple breakfast
   - I am required to WFH once a month on Saturday (8:30-15:00) with 30 mins lunch time.
   - I usually make a cup of freshly brewed coffee with the Breville coffee machine or sometimes pourover coffee.
-- 8:30/9:30: Laundry, wash make up brushes
+- 8:30/9:30: Laundry, wash make up brushes and face masks
   - The rest of the day is often spent meeting up with friends for brunch/lunch/dinner or relaxing at home.
 
 
