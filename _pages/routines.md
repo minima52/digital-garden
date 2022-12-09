@@ -8,6 +8,7 @@ permalink: /routines
 
 - [[daily]]
 - [[skincare]]
+- [[make-up]]
 
 
 <style>
