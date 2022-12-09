@@ -6,11 +6,7 @@ permalink: /skincare
 
 `/skincare routine`
 
-I am in my 30s and it's important I maintain a regular skincare routine day and night in order to age well. 
-
-My skin type is dry/sensitive with a bit of redness around my t-zone. 
-
-My goal is to have healthy looking skin that's firm, hydrated, and free of visible signs of aging. 
+I am in my 30s and it's important I maintain a regular skincare routine day and night in order to age well. My skin type is dry/sensitive with a bit of redness around my t-zone. My goal is to have healthy looking skin that's firm, hydrated, and free of visible signs of aging. 
 
 ### Morning
 
@@ -23,7 +19,7 @@ My goal is to have healthy looking skin that's firm, hydrated, and free of visib
 
 ### Evening
 
-My evening routine is similar to my morning one, except that I will remove my make up prior to doing my evening skincare routine. No matter how late I return home o r how tired I am, I always remove my make up as part of a healthy skin regimen.
+My evening routine is similar to my morning one, except that I will remove my make up prior to doing my evening skincare routine. No matter how late I return home or how tired I am, I always remove my make up as part of a healthy skin regimen.
 
 - Cleanser: Cerave cleanser
 - Toner: Innisfree Green Tea Balancing Skin Ex
