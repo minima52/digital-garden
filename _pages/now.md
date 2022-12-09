@@ -4,6 +4,8 @@ title: Now
 permalink: /now
 ---
 
+<small>Last updated: 05 December 2022, 08:54AM</small>
+
 This is my now page, which is a list of things that currently plague my monkey mind. What's a <a href="https://nownownow.com/about">now page</a>, and why you should create one.
 
 Here's how I’m spending my time:
@@ -14,8 +16,6 @@ Here's how I’m spending my time:
 Here's what I’m thinking about:
 - French Impressionist Art especially Monet. After returning from a trip to Melbourne and seeing the Monet & Friends exhibition, I started becoming interested in Impressionism. 
 - RM's <a href="https://www.youtube.com/watch?v=lRy8OYhLO-A">Indigo Magazine Film</a> interview. It's so interesting learning what inspires his creative process.
-
-Last updated: 05 December 2022, 08:54AM
 
 
 <style>
