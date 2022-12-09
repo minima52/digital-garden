@@ -6,7 +6,7 @@ permalink: /logs
 
 `/logs`
 
-*In progress*
+- [[chocolate]]
 
 <style>
   .wrapper {
