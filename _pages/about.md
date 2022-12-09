@@ -8,8 +8,6 @@ permalink: /about
 
 Hi, I'm May! 👋 
 
-I'm from Sydney. I work as a Reservations Consultant for a luxury cruise liner. 
-
 For the longest of time, I've always wanted an online space of my own where I can freely express myself. That never happened for many years until now. 
 
 What motivated me to begin was my inspiration: BTS.
