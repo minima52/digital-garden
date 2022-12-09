@@ -10,6 +10,7 @@ I apply make up every time I go to work, to meet up with friends when I head out
 
 - Primer: Shiseido
 - Foundation: Dior
+  - I tend to use high end foundation over drug store ones as I like the long-lasting and lightweight formula.
 - Eyebrow: Shu Uemura
 - Eyelash curler: Shiseido
 - Mascara: Clio
