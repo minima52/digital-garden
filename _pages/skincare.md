@@ -27,7 +27,7 @@ My evening routine is similar to my morning one, except that I will remove my ma
 - Cleanser: Cerave cleanser
 - Toner: Innisfree Green Tea Balancing Skin Ex
 - Retinol: Innisfree Retinol Cica Repair Ampoule
-- Serum: Innisfree Green Tea Freshly Squeezed Serum
+- Serum: Innisfree Black Green Tea Ampoule or Kiehls Midnight Recovery Concentrate Oil
 - Eye cream: Benton Fermentation Eye Cream
 - Moisturiser: Kiehls Ultra Facial Cream
 
