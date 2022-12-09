@@ -29,7 +29,7 @@ permalink: /tools
 - Things 3 (iPad, iPhone) – trusty tool for getting tasks done and meeting deadlines
 
 ## Storage Devices
-- Dropbox (app, web) – file storage
+- [Dropbox](https://www.dropbox.com/) (app, web) – file storage
 - Google Drive (app, web) – for Google Docs and Sheets
 - WD My Passport for Mac 1TB Hard Drive
 
