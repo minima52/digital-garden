@@ -31,6 +31,8 @@ My evening routine is similar to my morning one, except that I will remove my ma
 - Eye cream: Benton Fermentation Eye Cream
 - Moisturiser: Kiehls Ultra Facial Cream
 
+<small>Last updated: Saturday, 09 Dec 2022, 09:24AM</small>
+
 <style>
   .wrapper {
     max-width: 58em;

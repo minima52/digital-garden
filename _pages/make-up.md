@@ -20,6 +20,8 @@ I apply make up every time I go to work, to meet up with friends when I head out
 - Setting powder: Innisfree and Hourglass
 - Setting spray: Urban Decay
 
+<small>Last updated: Saturday, 09 Dec 2022, 09:24AM</small>
+
 
 <style>
   .wrapper {
