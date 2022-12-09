@@ -7,7 +7,7 @@ permalink: /routine
 `/routine`
 
 - [[morning routine]]
-- [[skincare routine]]
+- [[skincare|skincare routine]]
 
 
 <style>
