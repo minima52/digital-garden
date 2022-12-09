@@ -6,6 +6,9 @@ permalink: /meta
 
 `/meta`
 
+This is a digital garden where I share little snippets of things that I find interesting. 
+
+### Links:
 - Template: [Maxime Vaillancourt's Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 - Note-taking program: [Obsidian](https://obsidian.md/)
 - Code editor: [Visual Studio Code](https://code.visualstudio.com/) 
