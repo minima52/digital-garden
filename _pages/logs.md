@@ -6,7 +6,7 @@ permalink: /logs
 
 `/logs`
 
-- [[chocolate]]???
+- [[chocolate]]
 
 
 <style>
