@@ -25,6 +25,7 @@ Weekday:
 - 19:30/20:00: Shower, brush my teeth to get ready for bed (~30 mins to 1 hour)
 - 20:30/21:00: Relaxing in bed with a book or watching videos on YouTube
 - 21:30/22:30/23:00: Sleep time
+  - Phone on flight mode
 
 Saturday: 
 - 6:30/7:30: Wake up, wash my face, make a simple breakfast
