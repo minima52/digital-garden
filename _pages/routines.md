@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Routine
-permalink: /routine
+title: Routines
+permalink: /routines
 ---
 
-`/routine`
+`/routines`
 
-- [[morning routine]]
+- [[daily|daily routine]]
 - [[skincare|skincare routine]]
 
 
