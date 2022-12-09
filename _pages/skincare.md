@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Logs
-permalink: /logs
+title: Skincare Routine
+permalink: /skincare
 ---
 
-`/logs`
+`/skincare`
 
-- [[chocolate]]
+*In progress*
 
 <style>
   .wrapper {
