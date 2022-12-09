@@ -23,6 +23,8 @@ My goal is to have healthy looking skin that's firm, hydrated, and free of visib
 
 ### Evening
 
+My evening routine is similar to my morning one, except that I will remove my make up prior to doing my evening skincare routine. No matter how late I return home o r how tired I am, I always remove my make up as part of a healthy skin regimen.
+
 - Cleanser: Cerave cleanser
 - Toner: Innisfree Green Tea Balancing Skin Ex
 - Retinol: Innisfree Retinol Cica Repair Ampoule
