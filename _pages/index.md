@@ -47,7 +47,7 @@ permalink: /
 <li>site:</li>
 
 <ul>
-<li>[[archive]]</li>
+<li><a class="internal-link" href="https://maytrinh.me/archive">archive</a></li>
 <li>[[meta]]</li>
 </ul>
 </ul>
