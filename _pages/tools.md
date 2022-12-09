@@ -23,14 +23,14 @@ permalink: /tools
 - Apple Calendar – planning and organising important events
 - Apple Books
 - Kobo Clara HD 6″ eReader
-- Raindrop.io (desktop) – for quick capture of media items such as articles, tweets, and videos
-- Notion (desktop) – mainly for tracking my language goals and recording study notes
-- Obsidian (desktop) – my book notes and evergreen notes
-- Things 3 (iPad, iPhone) – trusty tool for getting tasks done and meeting deadlines
+- [Raindrop.io](https://raindrop.io/) (desktop) – for quick capture of media items such as articles, tweets, and videos
+- [Notion](https://www.notion.so/) (desktop) – mainly for tracking my language goals and recording study notes
+- [Obsidian](https://obsidian.md/) (desktop) – my book notes and evergreen notes
+- [Things 3](https://culturedcode.com/things/) (iPad, iPhone) – trusty tool for getting tasks done and meeting deadlines
 
 ## Storage Devices
 - [Dropbox](https://www.dropbox.com/) (app, web) – file storage
-- Google Drive (app, web) – for Google Docs and Sheets
+- [Google Drive](https://drive.google.com/) (app, web) – for Google Docs and Sheets
 - WD My Passport for Mac 1TB Hard Drive
 
 
