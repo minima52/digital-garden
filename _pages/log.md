@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Logs
-permalink: /logs
+title: Log
+permalink: /log
 ---
 
-`/logs`
+`/log`
 
 - [[chocolate]]
 - [[tea]]
