@@ -154,33 +154,3 @@ code {
 }
 
 
-dl {
-  list-style-type: none;
-}
-
-dl:before {
-  content: ' ';
-  background: #d4d9df;
-  display: inline-block;
-  position: relative;
-  width: 2px;
-  height: 100%;
-  z-index: 400;
-}
-
-dl > dt:before {
-  content: ' ';
-  background: white;
-  display: inline-block;
-  position: relative;
-  border-radius: 50%;
-  border: 3px solid #5e0900; /* was #22c0e8 */
-  width: 20px;
-  height: 20px;
-  z-index: 400;
-}
-
-dl >dt, dl > dd {
-  margin: 6pt 0; /* was 20px */
-  padding-left: 0px;
-}

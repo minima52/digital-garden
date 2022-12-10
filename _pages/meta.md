@@ -12,21 +12,6 @@ This website serves as public learning space for me to learn more about myself, 
 
 ### History
 
-<dl>
-<dt>1066</dt>
-<dd> September. Harald Hardrada, King of Norway, invades England</dd>
-
-<dd> October. William of Normandy defeats and kills Harold II at Hastings</dd>
-
-<dt>1070</dt>
-<dd> William the Conqueror subdues the north of England</dd>
-
-<dd> First Norman stone castle is built in Wales</dd>
-
-<dt>1076</dt>
-<dd> &#8216;Revolt of the Earls&#8217; ends with the execution of Waltheof, Earl of Northumbria</dd>
-</dl>
-
 - Early 2021: Registered this website with [Dreamhost](https://www.dreamhost.com/) 
     - My intention was to create a personal website/digital repository. 
     - I heard of Gatsby, Jekyll and Eleventy, but felt intimidated by as my web development skills are limited to HTML and CSS. 
