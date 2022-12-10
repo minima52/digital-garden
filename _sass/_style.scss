@@ -164,7 +164,7 @@ code {
 
 .container:before {
   content: '';
-  position: relative;
+  position: absolute;
   top: 0;
   left: 5%;
   margin-left: -1px;
