@@ -52,9 +52,6 @@ permalink: /
 <li>[[personal]]</li>
 </ul>
 </ul>
-</ul>
-
-</ul>
 
 
 <style>
