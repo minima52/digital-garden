@@ -16,11 +16,6 @@ I registered this website in early 2021 and tried to adapt Wordpress templates a
 
 ### Process
 
-This website is built using individual pages that exist in folders on my PC formatted using Markdown, HTML and CSS. Despite having limited knowledge and skills in web development, I was able to the install the template and get the website up and running (slight learning curve) using both these helpful walkthoughs: 
-
-- [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
-- [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) by Mike Tannenbaum (used Visual Studio Code instead of Atom)
-
 1. Install Ruby, Ruby on Gems, and Git
 2. Run scripts onto computer
 3. Test, test, test!
@@ -28,6 +23,11 @@ This website is built using individual pages that exist in folders on my PC form
 5. Deploy to Netlify
 6. Point DNS to Github (where the website is stored)
 7. Update website using Visual Studio Code and Obsidian
+
+This website is built using individual pages that exist in folders on my PC formatted using Markdown, HTML and CSS. Despite having limited knowledge and skills in web development, I was able to the install the template and get the website up and running (slight learning curve) using both these helpful walkthoughs: 
+
+- [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
+- [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) by Mike Tannenbaum (used Visual Studio Code instead of Atom)
 
 ### Resources
 
