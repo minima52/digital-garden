@@ -38,6 +38,7 @@ permalink: /
 <ul><li>[[anti-library]]</li></ul>
 <li>[[listening]]</li>
 <ul><li>[[albums]]</li></ul>
+<li>[[movies]</li>
 <li>[[poetry]]</li>
 <li>[[quotes]]</li>
 </ul>
