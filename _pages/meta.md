@@ -26,15 +26,27 @@ This website serves as public learning space for me to learn more about myself, 
                 <div class="timeline__circle"></div>
 
                 <!-- The title -->
-                <div class="timeline__title">...</div>
+                <div class="timeline__title">Early 2021</div>
             </div>
 
             <!-- The description -->
-            <div class="timeline__desc">...</div>
+            <div class="timeline__desc">.Registered this website with [Dreamhost](https://www.dreamhost.com/)</div>
         </div>
 
         <!-- Repeat other items -->
-        ...
+        <div class="timeline__item">
+            <!-- The circle and title -->
+            <div class="timeline__top">
+                <!-- The circle -->
+                <div class="timeline__circle"></div>
+
+                <!-- The title -->
+                <div class="timeline__title">Early 2021</div>
+            </div>
+
+            <!-- The description -->
+            <div class="timeline__desc">.Registered this website with [Dreamhost](https://www.dreamhost.com/)</div>
+        </div>
     </div>
 </div>
 
