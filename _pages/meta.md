@@ -19,11 +19,11 @@ I registered this website in early 2021 and tried to adapt Wordpress templates a
 This website is built using individual pages that exist in folders on my PC. I have limited knowledge and skills in web development, but was able to get the install the template and get the website up and running using both these helpful walkthoughs: 
 
 - [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
-- [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) (used Visual Studio Code instead of Atom)
+- [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) by Mike Tannenbaum (used Visual Studio Code instead of Atom)
 
 ### Resources
 
-- Jekyll template: [Maxime Vaillancourt's Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+- Jekyll template: [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt
 - Programming language: [Ruby](https://www.ruby-lang.org/en/) 
 - Package management framework: [Ruby on Gems](https://rubygems.org/)
 - Revision control: [Git](https://git-scm.com/downloads)
