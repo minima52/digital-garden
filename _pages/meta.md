@@ -42,7 +42,7 @@ This website serves as public learning space for me to learn more about myself, 
         <div class="timeline__item">
             <div class="timeline__top">
                 <div class="timeline__circle"></div>
-                <div class="timeline__title">Period of inactivity</div>
+                <div class="timeline__title">A long period of inactivity...</div>
             </div>
         </div>
 
@@ -52,7 +52,11 @@ This website serves as public learning space for me to learn more about myself, 
                 <div class="timeline__circle"></div>
                 <div class="timeline__title">Nov 2022</div>
             </div>
-            <div class="timeline__desc">Revisited the concept of static website generators via  Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a></div>
+            <div class="timeline__desc">
+            <ul>
+            <li>Revisited the concept of static website generators via  Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a></li>
+            </ul>
+            </div>
         </div>
 
 
