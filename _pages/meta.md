@@ -27,8 +27,7 @@ This website is built using individual pages that exist in folders on my PC form
 4. Upload to Github 
 5. Deploy to Netlify
 6. Point DNS to Github (where the website is stored)
-7. Update pages using Visual Studio Code
-8. Update notes using Obsidian
+7. Update website using Visual Studio Code and Obsidian
 
 ### Resources
 
