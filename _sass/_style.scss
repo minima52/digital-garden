@@ -157,6 +157,7 @@ code {
 .timeline {
   /* Used to position the left vertical line */
   position: relative;
+  padding-top: 15px;
 }
 
 .timeline__line {
@@ -166,7 +167,7 @@ code {
   /* Positioned at the left */
   left: 0.75rem;
   position: absolute;
-  top: 15px;
+  top: 0px;
 
   /* Take full height */
   height: 100%;
