@@ -70,15 +70,6 @@ This website serves as public learning space for me to learn more about myself, 
     </div>
 </div>
 
-- Early 2021: Registered this website with [Dreamhost](https://www.dreamhost.com/) 
-    - My intention was to create a personal website/digital repository. 
-    - I heard of Gatsby, Jekyll and Eleventy, but felt intimidated by as my web development skills are limited to HTML and CSS. 
-    - I have experience using Wordpress, so decided to use premade Wordpress templates and adapt them to work as a digital repository - this did not work as well as I exoected. 
-      - Wordpress felt clunky, was slow to update, and is prone to malicious attacks.
-- Long period of inactivity 
-- November 2022: Revisited the concept of static website generators through Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a>. 
-- Now: Voila!
-
 ### Process
 
 1. Install Ruby, Ruby on Gems, and Git on computer (slight learning curve 🥲)
