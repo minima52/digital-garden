@@ -30,7 +30,7 @@ permalink: /
 </ul>
 
 <ul>
-<li>[[thoughts]] `digital garden`</li>
+<li>[[thoughts]] <span class=subtext">digital garden</a></li>
 <ul><li>[[retrospect]]</li></ul>
 </ul>
 
