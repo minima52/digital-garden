@@ -33,6 +33,7 @@ permalink: /
 <li>[[repository]] <span class="subtext">digital garden</span></li>
 <ul><li>[[review|yearly review]]</li>
 <li>[[poetry]]</li>
+<ul<li>[[fourteen-suns|fourteen suns & moons ago]]</li></ul>
 <li>[[archive]]</li></ul>
 </ul>
 
