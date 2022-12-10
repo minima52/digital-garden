@@ -49,7 +49,7 @@ permalink: /
 </ul>
 
 <ul>
-<li>[[personal]]</li>
+<li>[[cabinet]]</li>
 </ul>
 </ul>
 
