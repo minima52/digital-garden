@@ -21,6 +21,10 @@ permalink: /
 <li>[[now]]</li>
 <li>[[tools]]</li>
 <li>[[routines]]</li>
+<ul><li>[[daily]]</li>
+<li>[[skincare]]</li>
+<li>[[make-up|make up]]</li>
+</ul>
 <li>[[log]]</li>
 </ul>
 </ul>
