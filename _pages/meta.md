@@ -24,7 +24,7 @@ I registered this website in early 2021 and tried to adapt Wordpress templates a
 6. Point DNS to Github (where the website is stored)
 7. Update website using Visual Studio Code and Obsidian
 
-This website is built using individual pages that exist in folders on my PC formatted using Markdown, HTML and CSS. Despite having limited knowledge and skills in web development, I was able to the install the template and get the website up and running (slight learning curve) using both these helpful walkthoughs: 
+The website is made up individual `.md` files that sit in folders on my PC. With the help of the following walkthroughs (slight learning curve), I was able to install the template and get the website up and running. 🎉 
 
 - [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
 - [Obsidian Jekyll workflow](https://refinedmind.co/obsidian-jekyll-workflow) by Mike Tannenbaum (used Visual Studio Code instead of Atom)
