@@ -6,7 +6,7 @@ permalink: /routines
 
 `/routines`
 
-- [[daily]]
+- <h3>[[daily]]</h3>
 - [[skincare]]
 - [[make-up]]
 
