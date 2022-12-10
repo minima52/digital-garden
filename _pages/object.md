@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Artefact
-permalink: /artefact
+title: Object
+permalink: /object
 ---
 
-`/artefact`
+`/object`
 
 🚧 Page in progress - come back to visit later! 😉
 

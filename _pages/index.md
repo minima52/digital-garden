@@ -49,7 +49,7 @@ permalink: /
 </ul>
 
 <ul>
-<li>[[artefact]]</li>
+<li>[[object]]</li>
 </ul>
 
 <ul>
