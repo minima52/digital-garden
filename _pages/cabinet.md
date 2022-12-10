@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Personal
-permalink: /personal
+title: Cabinet
+permalink: /cabinet
 ---
 
-`/personal`
+`/cabinet`
 
 🚧 Page in progress - come back to visit later! 😉
 
