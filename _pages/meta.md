@@ -12,7 +12,7 @@ This website serves as public learning space for me to learn more about myself, 
 
 ### History
 
-I registered this website in early 2021 and tried to adapt Wordpress templates as a digital repository, which frustrated me as it did not work as well as I expected. After more than a year of inactivity and feeling guilty for leaving my website to collect dust, I came across the concept of static website generators as a simpler and more secure solution to Wordpress. 
+I registered this website in early 2021 and tried to adapt Wordpress templates as a digital repository, which felt like fitting a square in a circle. After a long period of inactivity and feeling guilty for leaving my website to collect dust, I revisited the concept of static website generators through Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a>. Wordpress felt clunky, slow to update, and apparently, I heard it was prone to attacks. 
 
 ### Process
 
