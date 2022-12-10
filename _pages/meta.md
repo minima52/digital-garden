@@ -30,7 +30,7 @@ This website serves as public learning space for me to learn more about myself, 
             </div>
 
             <!-- The description -->
-            <div class="timeline__desc">.Registered this website with [Dreamhost](https://www.dreamhost.com/)</div>
+            <div class="timeline__desc">Registered this website with Dreamhost</div>
         </div>
 
         <!-- Repeat other items -->
@@ -41,11 +41,11 @@ This website serves as public learning space for me to learn more about myself, 
                 <div class="timeline__circle"></div>
 
                 <!-- The title -->
-                <div class="timeline__title">Early 2021</div>
+                <div class="timeline__title">Brief period of inactivity</div>
             </div>
 
             <!-- The description -->
-            <div class="timeline__desc">.Registered this website with [Dreamhost](https://www.dreamhost.com/)</div>
+            <div class="timeline__desc">...</div>
         </div>
     </div>
 </div>
