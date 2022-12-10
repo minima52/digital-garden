@@ -20,15 +20,17 @@ This website is built using individual pages that exist in folders on my PC. I h
 
 ### Resources
 
-- Template: [Maxime Vaillancourt's Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+- Jekyll template: [Maxime Vaillancourt's Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+- [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) (used VS Code instead of Atom)
+- Programming language: [Ruby](https://www.ruby-lang.org/en/) 
+- Package management framework: [Ruby on Gems](https://rubygems.org/)
+- Revision control: [Git](https://git-scm.com/downloads)
 - Website storage: [Github](https://github.com/)
-- Code editor: [Visual Studio Code](https://code.visualstudio.com/) 
 - Website deployment: [Netlify](https://www.netlify.com/?utm_medium=paid_search&utm_source=google&utm_campaign=12755510784&utm_term=netlify%20hosting)
 - Website hosting and Domain Name Registration: [Dreamhost](https://www.dreamhost.com/)
-- [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) (used VS Code instead of Atom)
+- Code editor: [Visual Studio Code](https://code.visualstudio.com/) 
 - Note-taking program: [Obsidian](https://obsidian.md/)
-- Formatting: Markdown and HTML
-- Styling: CSS
+- Formatting: Markdown, CSS and HTML
 
 ### Thanks!
 
