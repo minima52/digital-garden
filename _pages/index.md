@@ -25,7 +25,7 @@ permalink: /
 <li>[[skincare]]</li>
 <li>[[make-up|make up]]</li>
 </ul>
-<li>[[log]]</li>
+<li>[[meta]]</li>
 </ul>
 </ul>
 
@@ -36,8 +36,7 @@ permalink: /
 </ul>
 
 <ul>
-<li>trackers:</li>
-
+<li>collection</li>
 <ul>
 <li>[[reading]]</li>
 <ul><li>[[anti-library]]</li></ul>
@@ -52,12 +51,6 @@ permalink: /
 <ul>
 <li>[[personal]]</li>
 </ul>
-
-<ul>
-<li>site:</li>
-
-<ul>
-<li>[[meta]]</li>
 </ul>
 </ul>
 
