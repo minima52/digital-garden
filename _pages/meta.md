@@ -27,6 +27,10 @@ This website is built using individual pages that exist in folders on my PC. I h
 - Website hosting: [Dreamhost](https://www.dreamhost.com/)
 - [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) (used VS Code instead of Atom)
 
+### Thank you
+
+Thank you for visiting this site! 😊
+
 
 <style>
   .wrapper {
