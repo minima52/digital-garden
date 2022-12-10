@@ -10,7 +10,7 @@ My weekdays are spent commuting to & from work. My line of work requires me to s
 
 ### Weekdays
 
-- 5:30/6:30: Wake up, wash my face, get make up done, [[skincare|skincare routine]], and do my hair to get ready for work
+- 5:30/6:30: Wake up, wash my face, get [[make-up|make up]] done, [[skincare|skincare routine]], and do my hair to get ready for work
   - I work from home (WFH) on Mondays so I get to sleep in a bit 😉
   - Mornings are particularly hectic when I need to get to work by 8:00 or 9:00. I don't usually have time in the mornings to have breakfast so I go without. When I do get time, I tend to have a light breakfast usually yoghurt with granola. 
   - On days when I start work at 10:00, I have more time to spare and will have a proper breakfast and a coffee on the side.
@@ -28,7 +28,7 @@ My weekdays are spent commuting to & from work. My line of work requires me to s
   - Phone on flight mode
 
 ### Weekends
- 
+
 - 6:30/7:30: Wake up, wash my face, [[skincare|skincare routine]], make a simple breakfast
   - I am required to WFH once a month on Saturday (8:30-15:00) with 30 mins lunch time.
   - I usually make a cup of freshly brewed coffee with the Breville coffee machine or sometimes pourover coffee.
