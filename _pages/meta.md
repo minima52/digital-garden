@@ -22,7 +22,7 @@ This website is built using individual pages that exist in folders on my PC form
 - [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) by Mike Tannenbaum (used Visual Studio Code instead of Atom)
 
 1. Install Ruby, Ruby on Gems, and Git
-2. Run scipts onto computer
+2. Run scripts onto computer
 3. Test, test, test!
 4. Upload to Github 
 5. Deploy to Netlify
