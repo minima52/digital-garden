@@ -157,14 +157,14 @@ code {
 .container {
   width: 80%;
   padding: 25px 0;
-  margin: 25px auto 25px 0;
+  margin: 25px 0;
   position: relative;
   overflow: hidden;
 }
 
 .container:before {
   content: '';
-  position: absolute;
+  position: relative;
   top: 0;
   left: 5%;
   margin-left: -1px;
