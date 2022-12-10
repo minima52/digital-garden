@@ -32,6 +32,7 @@ permalink: /
 <ul>
 <li>[[repository]] <span class="subtext">digital garden</span></li>
 <ul><li>[[review|yearly review]]</li>
+<li>[[poetry]]</li>
 <li>[[archive]]</li></ul>
 </ul>
 
@@ -42,8 +43,7 @@ permalink: /
 <ul><li>[[anti-library]]</li></ul>
 <li>[[listening]]</li>
 <ul><li>[[albums]]</li></ul>
-<li>[[movies]]</li>
-<li>[[poetry]]</li>
+<li>[[watching]]</li>
 <li>[[quotes]]</li>
 </ul>
 </ul>

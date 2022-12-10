@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Movies
-permalink: /movies
+title: Watching
+permalink: /watching
 ---
 
-`/movies`
+`/watching`
 
 🚧 Page in progress - come back to visit later! 😉
 
