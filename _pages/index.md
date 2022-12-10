@@ -30,7 +30,7 @@ permalink: /
 </ul>
 
 <ul>
-<li>[[thoughts]] <span class="subtext">digital garden</span></li>
+<li>[[repository]] <span class="subtext">digital garden</span></li>
 <ul><li>[[review|yearly review]]</li>
 <li>[[archive]]</li></ul>
 </ul>
