@@ -29,7 +29,7 @@ This website is built using individual pages that exist in folders on my PC. I h
 
 ### Thank you
 
-Thank you for visiting ! A special shout out to BTS, whose music and artistry not only speaks to my curious, wandering soul, but also their core message of loving and speaking yourself continues to empower many others like myself to find my inner voice. 🫰💜
+Thank you for visiting! A special shout out to BTS, whose music, artistry speaks to my curious, wandering soul. Their core message of loving and speaking yourself continues to empower many others like myself to find my inner voice. Forever thankful. 🫰💜
 
 <style>
   .wrapper {
