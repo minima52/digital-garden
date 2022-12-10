@@ -12,7 +12,7 @@ This website serves as public learning space for me to learn more about myself, 
 
 ### History
 
-I registered this website in early 2021 and tried to adapt Wordpress templates as a digital repository, which did not work as well as expected. Wordpress felt clunky, slow to update, and is prone to malicious attacks. After a long period of inactivity and feeling guilty for leaving my website to collect dust, I revisited the concept of static website generators through Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a>. 
+I registered this website with [Dreamhost](https://www.dreamhost.com/) in early 2021 with the intention of creating a personal website/digital repository. At that time, I heard of Gatsby, Jekyll and Eleventy, but felt intimidated by as my web development skills are limited to HTML and CSS. I have experience using Wordpress, so decided to use premade Wordpress templates and adapt them to work as a digital repository - this did not work as well as I exoected. Wordpress felt clunky, was slow to update, and is prone to malicious attacks. Feeling hopeless, I went on a long period of inactivity until November 2022 when I revisited the concept of static website generators through Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a>. And then...voila!
 
 ### Process
 
