@@ -32,7 +32,7 @@ permalink: /
 <ul>
 <li>[[thoughts]] <span class="subtext">digital garden</span></li>
 <ul><li>[[retrospect]]</li>
-<li>[[archive|last updated]]</li></ul>
+<li>[[archive]]</li></ul>
 </ul>
 
 <ul>
