@@ -12,8 +12,6 @@ This website serves as public learning space for me to learn more about myself, 
 
 ### History
 
-<br />
-
 <div class="timeline">
     <!-- Left vertical line -->
     <div class="timeline__line"></div>
@@ -32,21 +30,19 @@ This website serves as public learning space for me to learn more about myself, 
             </div>
 
             <!-- The description -->
-            <div class="timeline__desc">Registered this website with Dreamhost</div>
+            <div class="timeline__desc">
+            <ul>
+            <li>Registered this website with <a href="https://www.dreamhost.com/">Dreamhost</a></li>
+            </ul>
+            </div>
         </div>
 
-        <!-- Repeat other items -->
+        
         <div class="timeline__item">
-            <!-- The circle and title -->
             <div class="timeline__top">
-                <!-- The circle -->
                 <div class="timeline__circle"></div>
-
-                <!-- The title -->
                 <div class="timeline__title">Brief period of inactivity</div>
             </div>
-
-            <!-- The description -->
             <div class="timeline__desc">...</div>
         </div>
     </div>
