@@ -8,10 +8,6 @@ permalink: /meta
 
 This is a digital garden or personal wiki which acts as a second brain to all things I am learning about. I also like to record random tidbits of my life in the form of [[routines]], [[log]] and [[tools]] I use that shape my workflow. 
 
-### Q. What's with the basic layout? 🧐
-
-I want to make the content the focus on this website rather than the design. My vision is to keep things simple, uncluttered and easy to read.
-
 ### Resources:
 - Template: [Maxime Vaillancourt's Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 - Note-taking program: [Obsidian](https://obsidian.md/)
