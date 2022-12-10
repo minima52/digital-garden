@@ -12,6 +12,8 @@ This website serves as public learning space for me to learn more about myself, 
 
 ### History
 
+<br />
+
 <div class="timeline">
     <!-- Left vertical line -->
     <div class="timeline__line"></div>
