@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Retrospect
-permalink: /retrospect
+title: Yearly Review
+permalink: /review
 ---
 
-`/retrospect`
+`/yearly review`
 
 🚧 Page in progress - come back to visit later! 😉
 
