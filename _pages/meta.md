@@ -12,6 +12,32 @@ This website serves as public learning space for me to learn more about myself, 
 
 ### History
 
+<div class="timeline">
+    <!-- Left vertical line -->
+    <div class="timeline__line"></div>
+
+    <!-- The timeline items timeline -->
+    <div class="timeline__items">
+        <!-- Each timeline item -->
+        <div class="timeline__item">
+            <!-- The circle and title -->
+            <div class="timeline__top">
+                <!-- The circle -->
+                <div class="timeline__circle"></div>
+
+                <!-- The title -->
+                <div class="timeline__title">...</div>
+            </div>
+
+            <!-- The description -->
+            <div class="timeline__desc">...</div>
+        </div>
+
+        <!-- Repeat other items -->
+        ...
+    </div>
+</div>
+
 - Early 2021: Registered this website with [Dreamhost](https://www.dreamhost.com/) 
     - My intention was to create a personal website/digital repository. 
     - I heard of Gatsby, Jekyll and Eleventy, but felt intimidated by as my web development skills are limited to HTML and CSS. 
