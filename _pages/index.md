@@ -50,7 +50,7 @@ permalink: /
 </ul>
 
 <ul>
-<li>[[object]]</li>
+<li>[[personal]]</li>
 </ul>
 
 <ul>

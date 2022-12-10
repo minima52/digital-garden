@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Object
-permalink: /object
+title: Personal
+permalink: /personal
 ---
 
-`/object`
+`/personal`
 
 🚧 Page in progress - come back to visit later! 😉
 
