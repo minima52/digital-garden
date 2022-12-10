@@ -12,6 +12,27 @@ This website serves as public learning space for me to learn more about myself, 
 
 ### History
 
+<div class="container">
+
+   <div class="timeline-block timeline-block-right">
+      <div class="marker"></div>
+      <div class="timeline-content">
+         <h3>First Year</h3>
+         <span>Some work experience</span>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+      </div>
+   </div>
+
+   <div class="timeline-block timeline-block-right">
+      <div class="marker"></div>
+      <div class="timeline-content">
+         <h3>Third Year</h3>
+         <span>Some work experience</span>
+         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+      </div>
+   </div>
+</div>
+
 - Early 2021: Registered this website with [Dreamhost](https://www.dreamhost.com/) 
     - My intention was to create a personal website/digital repository. 
     - I heard of Gatsby, Jekyll and Eleventy, but felt intimidated by as my web development skills are limited to HTML and CSS. 
