@@ -13,7 +13,6 @@ This website serves as public learning space for me to learn more about myself, 
 ### History
 
 <div class="container">
-	
 	<div class="timeline-item" date-is='20-07-1990'>
 		<h1>Hello, 'Im a single div responsive timeline without mediaQueries!</h1>
 		<p>
@@ -34,7 +33,6 @@ This website serves as public learning space for me to learn more about myself, 
 			I'm speaking with myself, number one, because I have a very good brain and I've said a lot of things. I write the best placeholder text, and I'm the biggest developer on the web by far... While that's mock-ups and this is politics, are they really so different? I think the only card she has is the Lorem card.
 		</p>
 	</div>
-  
 </div> 
 
 - Early 2021: Registered this website with [Dreamhost](https://www.dreamhost.com/) 
