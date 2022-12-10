@@ -48,6 +48,9 @@ permalink: /
 </ul>
 </ul>
 
+<ul>
+<li>[[artefact]]</li>
+</ul>
 
 <ul>
 <li>site:</li>
