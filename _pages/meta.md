@@ -16,13 +16,15 @@ I registered this website in early 2021 and tried to adapt Wordpress templates a
 
 ### Process
 
-1. Install Ruby, Ruby on Gems, and Git
-2. Run scripts onto computer
-3. Test, test, test!
-4. Upload to Github 
-5. Deploy to Netlify
-6. Point DNS to Github (where the website is stored)
-7. Update website using Visual Studio Code and Obsidian
+1. Install Ruby, Ruby on Gems, and Git on computer (slight learning curve 🥲)
+2. Fork the template to Github account
+3. Clone template to local server
+4. Test, test, test!
+5. Upload to Github 
+6. Deploy to Netlify
+7. Point DNS to Github (where the website is stored)
+8. Update website using Visual Studio Code and Obsidian
+9. Push changes to Github
 
 The website is made up individual `.md` files that sit in folders on my PC. With the help of the following walkthroughs (slight learning curve), I was able to install the template and get the website up and running. 🎉 
 
