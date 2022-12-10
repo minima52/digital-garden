@@ -33,6 +33,7 @@ This website serves as public learning space for me to learn more about myself, 
             <div class="timeline__desc">
             <ul>
             <li>Registered this website with <a href="https://www.dreamhost.com/">Dreamhost</a></li>
+            <li>Tried Wordpress to build digital repository - unsuccessful!</li>
             </ul>
             </div>
         </div>
@@ -41,9 +42,26 @@ This website serves as public learning space for me to learn more about myself, 
         <div class="timeline__item">
             <div class="timeline__top">
                 <div class="timeline__circle"></div>
-                <div class="timeline__title">Brief period of inactivity</div>
+                <div class="timeline__title">Period of inactivity</div>
             </div>
-            <div class="timeline__desc">...</div>
+        </div>
+
+
+         <div class="timeline__item">
+            <div class="timeline__top">
+                <div class="timeline__circle"></div>
+                <div class="timeline__title">Nov 2022</div>
+            </div>
+            <div class="timeline__desc">Revisited the concept of static website generators via  Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a></div>
+        </div>
+
+
+        <div class="timeline__item">
+            <div class="timeline__top">
+                <div class="timeline__circle"></div>
+                <div class="timeline__title">Present</div>
+            </div>
+            <div class="timeline__desc">Voila!</div>
         </div>
     </div>
 </div>
