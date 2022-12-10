@@ -32,7 +32,7 @@ This website is built using individual pages that exist in folders on my PC. I h
 - Website hosting and Domain Name Registration: [Dreamhost](https://www.dreamhost.com/)
 - Code editor: [Visual Studio Code](https://code.visualstudio.com/) 
 - Note-taking program: [Obsidian](https://obsidian.md/)
-- Formatting: Markdown, CSS and HTML
+- Formatting: Markdown, HTML and CSS
 
 ### Thanks
 
