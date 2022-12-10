@@ -31,7 +31,8 @@ permalink: /
 
 <ul>
 <li>[[thoughts]] <span class="subtext">digital garden</span></li>
-<ul><li>[[retrospect]]</li></ul>
+<ul><li>[[retrospect]]</li>
+<li>[[archive|last updated]]</li></ul>
 </ul>
 
 <ul>
@@ -56,7 +57,6 @@ permalink: /
 <li>site:</li>
 
 <ul>
-<li>[[archive]]</li>
 <li>[[meta]]</li>
 </ul>
 </ul>
