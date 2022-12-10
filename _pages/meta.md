@@ -16,12 +16,14 @@ I registered this website in early 2021 and tried to adapt Wordpress templates a
 
 ### Process
 
-This website is built using individual pages that exist in folders on my PC. I have limited knowledge and skills in web development, but was able to install Ruby scripts, install the Jekyll template, and deploy it onto Dreamhost, my web host. 🙃
+This website is built using individual pages that exist in folders on my PC. I have limited knowledge and skills in web development, but was able to install Ruby scripts, install the Jekyll template, and deploy it onto Dreamhost, my web host using both these helpful walkthoughs: 
+
+- [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
+- [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) (used VS Code instead of Atom)
 
 ### Resources
 
 - Jekyll template: [Maxime Vaillancourt's Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
-- [Obsidian-Jekyll Walkthrough Guide](https://refinedmind.co/obsidian-jekyll-workflow) (used VS Code instead of Atom)
 - Programming language: [Ruby](https://www.ruby-lang.org/en/) 
 - Package management framework: [Ruby on Gems](https://rubygems.org/)
 - Revision control: [Git](https://git-scm.com/downloads)
