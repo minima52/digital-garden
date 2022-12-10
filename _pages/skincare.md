@@ -20,7 +20,7 @@ I am in my 30s, and it's important that I maintain a regular skincare routine da
 
 ### Evening
 
-My evening routine is similar to my morning one, except that I will remove my make up prior to doing my evening skincare routine. No matter how late I return home or how tired I am, I always remove my make up as part of a healthy skin regimen. I also use a retinol at night.
+My evening routine is similar to my morning one, except that I remove my make up prior to doing my evening skincare routine. No matter how late I return home or how tired I am, I always remove my make up as part of a healthy skin regimen. I also use a retinol at night.
 
 - Make up remover: Heimish Make Up Remover Balm
 - Make up wipes: Johnson & Johnson Moonflower make up wipes
