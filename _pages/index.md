@@ -39,7 +39,7 @@ permalink: /
         </ul>
       <li>[[poetry]]
         <ul>
-          <li>[[fourteen-suns|fourteen suns & moons ago]]</li>
+          <li><a class="internal-link" href="/poetry/fourteen-suns">fourteen suns & moons ago</a></li>
         </ul>
        </li>
       <li>[[archive]]</li>
