@@ -11,19 +11,23 @@ permalink: /
 
 📍 Start here:
 <ul>
-<li>[[index]]</li>
-
-<ul>
-<li>[[about]]</li>
-<ul>
-<li>[[now]]</li>
-<li>[[tools]]</li>
-<li>routines</li>
-<ul><li>[[daily]]</li>
-<li>[[skincare]]</li>
-<li>[[make-up|make up]]</li>
-</ul>
-<li>[[meta]]</li>
+  <li>[[index]]
+    <ul>
+      <li>[[about]]
+        <ul>
+          <li>[[now]]</li>
+          <li>[[tools]]</li>
+          <li>routines
+          <ul>
+            <li>[[daily]]</li>
+            <li>[[skincare]]</li>
+            <li>[[make-up|make up]]</li>
+          </ul>
+        </ul>
+      </li>
+       <li>[[meta]]</li>
+    </ul>
+   </li> 
 </ul>
 
 
