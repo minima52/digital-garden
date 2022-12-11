@@ -26,7 +26,7 @@ This website serves as public learning space for me to learn more about myself, 
                 <div class="timeline__circle"></div>
 
                 <!-- The title -->
-                <div class="timeline__title">Early 2021</div>
+                <div class="timeline__title">Aug 2021</div>
             </div>
 
             <!-- The description -->
