@@ -9,6 +9,7 @@ permalink: /bookmarks
 ### Poetry
 
 - [Charles Baudlaire's Fleurs du Mal](https://fleursdumal.org/)
+- [Poetry Foundation](https://www.poetryfoundation.org/)
 
 ### Productivity
 
