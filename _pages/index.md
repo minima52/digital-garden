@@ -38,6 +38,7 @@ permalink: /
         <ul>
           <li>[[fourteen-suns|fourteen suns & moons ago]]</li>
         </ul>
+       </li>
       <li>[[archive]]</li>
     </ul>
   </li>
