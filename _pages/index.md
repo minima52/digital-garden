@@ -29,9 +29,11 @@ permalink: /
 
 <ul>
 <li>[[repository]]</li>
-<ul><li>[[review|yearly review]]</li></ul>
+<ul>
+<li>[[review|yearly review]]</li>
 <li>[[poetry]]</li>
-<ul><li>[[fourteen-suns|fourteen suns & moons ago]]</li></ul>
+
+<ul><li>[[fourteen-suns|fourteen suns & moons ago]]</li></ul></ul>
 <li>[[archive]]</li>
 </ul>
 
