@@ -104,7 +104,7 @@ The website is made up individual `.md` files that sit locally in my computer as
 
 ### Thanks
 
-Thanks for visiting. A special shout out to BTS, whose music and artistry not only speaks to my curious, wandering soul, but also their core message of loving and speaking yourself continues to empower many others like myself to find my inner voice. 🫰💜
+Thanks for visiting. A special shoutout to BTS, whose music and artistry not only speaks to my curious, wandering soul, but also their core message of loving and speaking yourself continues to empower many others like myself to find my inner voice. 🫰💜
 
 <style>
   .wrapper {
