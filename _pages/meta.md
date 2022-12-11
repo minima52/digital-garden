@@ -56,6 +56,7 @@ This website serves as public learning space for me to learn more about myself, 
             <ul>
             <li>Got inspired again! ✨</li>
             <li>Revisited Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a></li>
+            <li>Tinkered with <a href="https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll">Jekyll digital garden template</a></li>
             <li>Website up and running - yay! 🎉</li>
             </ul>
             </div>
