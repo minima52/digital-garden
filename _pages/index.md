@@ -23,9 +23,8 @@ permalink: /
             <li>[[skincare]]</li>
             <li>[[make-up|make up]]</li>
           </ul>
-        </ul>
-      </li>
-       <li>[[meta]]</li>
+        </li>
+        <li>[[meta]]</li>
     </ul>
    </li> 
 </ul>
