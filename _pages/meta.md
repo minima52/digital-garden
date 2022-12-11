@@ -42,7 +42,7 @@ This website serves as public learning space for me to learn more about myself, 
         <div class="timeline__item">
             <div class="timeline__top">
                 <div class="timeline__circle"></div>
-                <div class="timeline__title">A long period of inactivity...</div>
+                <div class="timeline__title">...a long period of inactivity</div>
             </div>
         </div>
 
