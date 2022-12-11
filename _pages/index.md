@@ -43,7 +43,6 @@ permalink: /
         </ul>
        </li>
       <li>[[archive]]</li>
-    </ul>
   </li>
 </ul>  
 
