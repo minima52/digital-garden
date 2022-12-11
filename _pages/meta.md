@@ -33,7 +33,7 @@ This website serves as public learning space for me to learn more about myself, 
             <div class="timeline__desc">
             <ul>
             <li>Registered this website with <a href="https://www.dreamhost.com/">Dreamhost</a></li>
-            <li>Tried Wordpress to build digital repository - unsuccessful!</li>
+            <li>Tried Wordpress to build digital repository - too much work!</li>
             </ul>
             </div>
         </div>
