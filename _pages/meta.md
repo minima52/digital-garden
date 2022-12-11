@@ -54,8 +54,9 @@ This website serves as public learning space for me to learn more about myself, 
             </div>
             <div class="timeline__desc">
             <ul>
-            <li>Got inspired again! 🎉</li>
+            <li>Got inspired again! ✨</li>
             <li>Revisited Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a></li>
+            <li>Website up and running - yay! 🎉</li>
             </ul>
             </div>
         </div>
