@@ -58,7 +58,6 @@ permalink: /
       </li>
       <li>[[watching]]</li>
       <li>[[quotes]]</li>
-    </ul>
   </li>  
 </ul>
 
