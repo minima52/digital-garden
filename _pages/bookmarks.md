@@ -6,6 +6,10 @@ permalink: /bookmarks
 
 `/bookmarks`
 
+### Web Dev
+
+- [Nippon Colors](https://nipponcolors.com/)
+
 🚧 Page in progress - come back to visit later! 😉
 
 <style>
