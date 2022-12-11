@@ -25,6 +25,7 @@ permalink: /
           </ul>
         </li>
         <li>[[meta]]</li>
+        <li>[[license]]</li>
     </ul>
    </li> 
 </ul>
