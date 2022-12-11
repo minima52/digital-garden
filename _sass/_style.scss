@@ -39,13 +39,11 @@ footer {
 
 img {
   float: left;  
-  max-width: 75%;
+  max-width: 100%;
   display: block;
   margin: 0 auto;
   max-height: 75vh;
   border-radius: $border-radius;
-  clear: both;
-  overflow: auto;
 }
 
 blockquote {
