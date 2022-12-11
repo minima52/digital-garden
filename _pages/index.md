@@ -45,21 +45,27 @@ permalink: /
 </ul>  
 
 <ul>
-<li>collection</li>
-<ul>
-<li>[[reading]]</li>
-<ul><li>[[anti-library]]</li></ul>
-<li>[[listening]]</li>
-<ul><li>[[albums]]</li></ul>
-<li>[[watching]]</li>
-<li>[[quotes]]</li>
-</ul>
+  <li>collection
+    <ul>
+      <li>[[reading]]
+        <ul>
+          <li>[[anti-library]]</li>
+        </ul>
+      <li>[[listening]]
+        <ul>
+          <li>[[albums]]</li>
+        </ul>
+      </li>
+      <li>[[watching]]</li>
+      <li>[[quotes]]</li>
+    </ul>
+  </li>  
 </ul>
 
 <ul>
-<li>[[cabinet]]</li>
+  <li>[[cabinet]]</li>
 </ul>
-</ul>
+
 
 
 <style>
