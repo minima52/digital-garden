@@ -31,7 +31,7 @@ permalink: /
 
 
 <ul>
-  <li>[[repository|thought repository]]
+  <li>[[thoughts]]
     <ul>
       <li>[[review|yearly review]]
         <ul>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BTS
-permalink: /repository/bts
+permalink: /thoughts/bts
 ---
 
 `/bts`

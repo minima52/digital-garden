@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Repository
-permalink: /repository
+title: Thoughts
+permalink: /thoughts
 ---
 
-`/repository`
+`/thoughts`
 
 A full list of all my thoughts that are still in its infancy stage ranging from streams of consciousness to half-baked thoughts.
 
