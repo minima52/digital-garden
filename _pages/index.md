@@ -33,7 +33,10 @@ permalink: /
 <ul>
   <li>[[repository]]
     <ul>
-      <li>[[review|yearly review]]</li>
+      <li>[[review|yearly review]]
+        <ul>
+          <li>[[2021-yr|2021]]</li>
+        </ul>
       <li>[[poetry]]
         <ul>
           <li>[[fourteen-suns|fourteen suns & moons ago]]</li>
