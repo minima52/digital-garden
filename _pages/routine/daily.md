@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Daily Routine
-permalink: /daily
+permalink: /routine/daily
 ---
 
 `/daily routine`

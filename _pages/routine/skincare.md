@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skincare Routine
-permalink: /skincare
+permalink: /routine/skincare
 ---
 
 `/skincare routine`

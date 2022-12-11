@@ -19,9 +19,9 @@ permalink: /
           <li>[[tools]]</li>
           <li>routines
           <ul>
-            <li>[[daily]]</li>
-            <li>[[skincare]]</li>
-            <li>[[make-up|make up]]</li>
+            <li><a class="internal-link" href="/routine/daily">daily</a></li>
+            <li><a class="internal-link" href="/routine/skincare">skincare</a></li>
+            <li><a class="internal-link" href="/routine/make-up">make up</a></li>
           </ul>
         </li>
         <li>[[meta]]</li>
