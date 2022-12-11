@@ -66,7 +66,7 @@ This website serves as public learning space for me to learn more about myself, 
         <div class="timeline__item">
             <div class="timeline__top">
                 <div class="timeline__circle"></div>
-                <div class="timeline__title">Present</div>
+                <div class="timeline__title">Present - what next?</div>
             </div>
         </div>
     </div>
