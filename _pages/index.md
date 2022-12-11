@@ -29,10 +29,10 @@ permalink: /
 
 <ul>
 <li>[[repository]]</li>
-<ul><li>[[review|yearly review]]</li>
+<ul><li>[[review|yearly review]]</li></ul>
 <li>[[poetry]]</li>
 <ul><li>[[fourteen-suns|fourteen suns & moons ago]]</li></ul>
-<li>[[archive]]</li></ul>
+<li>[[archive]]</li>
 </ul>
 
 <ul>
