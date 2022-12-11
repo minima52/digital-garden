@@ -54,7 +54,7 @@ This website serves as public learning space for me to learn more about myself, 
             </div>
             <div class="timeline__desc">
             <ul>
-            <li>Got inspired again!</li>
+            <li>Got inspired again! 🎉</li>
             <li>Revisited Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a></li>
             </ul>
             </div>
@@ -82,7 +82,7 @@ This website serves as public learning space for me to learn more about myself, 
 8. Update website using Visual Studio Code and Obsidian
 9. Push changes to Github
 
-The website is made up individual `.md` files that sit locally in my computer as folders. With the help of the following walkthroughs, I was able to install the template and get the website up and running. 🎉 
+The website is made up individual `.md` files that sit locally in my computer as folders. I was able to install the template and get the website up and running with the help of the following walkthroughs:  
 
 - [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) by Maxime Vaillancourt
 - [Obsidian Jekyll workflow](https://refinedmind.co/obsidian-jekyll-workflow) by Mike Tannenbaum (used Visual Studio Code instead of Atom)
