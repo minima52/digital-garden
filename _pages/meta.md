@@ -6,7 +6,7 @@ permalink: /meta
 
 `/meta`
 
-### Purpose
+### About
 
 This website serves as public learning space for me to learn more about myself, how this fits in with what I already know, and what else there is for me to discover. I also like to record random tidbits of my life in the form of [[routines]], [[tools]] I use that shape my workflow. 
 
