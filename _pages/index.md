@@ -25,10 +25,10 @@ permalink: /
 </ul>
 <li>[[meta]]</li>
 </ul>
-</ul>
+
 
 <ul>
-<li>[[repository]]
+<li>[[repository]]</li>
 <ul><li>[[review|yearly review]]</li>
 <li>[[poetry]]</li>
 <ul><li>[[fourteen-suns|fourteen suns & moons ago]]</li></ul>
