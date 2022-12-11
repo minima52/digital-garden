@@ -8,9 +8,7 @@ permalink: /fourteen-suns
 
 <br />
 
-<p style="padding: 2em; box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;"><i>This poem was written circa 2012-13 inspired by a foster cat I helped looked after called Tilly.</i></p>
-
-
+<small>This poem was written circa 2012-13 inspired by a foster cat I helped looked after called Tilly.</small>
 
 <br />
 
