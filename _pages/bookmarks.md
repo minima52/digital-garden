@@ -1,10 +1,10 @@
 ---
 layout: page
-title: License
-permalink: /license
+title: Bookmarks
+permalink: /bookmarks
 ---
 
-`/license`
+`/bookmarks`
 
 🚧 Page in progress - come back to visit later! 😉
 

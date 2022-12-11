@@ -25,7 +25,6 @@ permalink: /
           </ul>
         </li>
         <li>[[meta]]</li>
-        <li>[[license]]</li>
     </ul>
    </li> 
 </ul>
@@ -62,6 +61,7 @@ permalink: /
       </li>
       <li>[[watching]]</li>
       <li>[[quotes]]</li>
+      <li>[[bookmarks]]</li>
   </li>  
 </ul>
 
