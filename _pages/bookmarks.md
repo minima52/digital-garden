@@ -6,6 +6,14 @@ permalink: /bookmarks
 
 `/bookmarks`
 
+### Poetry
+
+- [Charles Baudlaire's Fleurs du Mal](https://fleursdumal.org/)
+
+### Productivity
+
+- [Bullet Journal](https://bulletjournal.com/)
+
 ### Web Dev
 
 - [Nippon Colors](https://nipponcolors.com/)
