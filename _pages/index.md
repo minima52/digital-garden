@@ -33,7 +33,7 @@ permalink: /
 <ul>
   <li>[[thoughts]]
     <ul>
-      <li>[[review|yearly review]]
+      <li>[[review]]
         <ul>
           <li><a class="internal-link" href="/reflect/2021">2021</a></li>
           <li><a class="internal-link" href="/reflect/2022">2022</a></li>
