@@ -35,8 +35,8 @@ permalink: /
     <ul>
       <li>[[review|yearly review]]
         <ul>
-          <li><a class="internal-link" href="/reflect/2021-yr">2021</a></li>
-          <li><a class="internal-link" href="/reflect/2022-yr">2022</a></li>
+          <li><a class="internal-link" href="/reflect/2021">2021</a></li>
+          <li><a class="internal-link" href="/reflect/2022">2022</a></li>
         </ul>
       <li>[[poetry]]
         <ul>
