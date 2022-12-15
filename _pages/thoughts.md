@@ -28,7 +28,7 @@ This website contains a total of <b>6</b> notes.
 
 <b>Travel & Belonging</b>
 
-[[Staycation]]    [[Strange Familiarity]]
+[[Staycation]] &nbsp; &nbsp; [[Strange Familiarity]]
 
 <style>
   .wrapper {
