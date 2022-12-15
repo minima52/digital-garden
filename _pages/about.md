@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-`/about`
+<b>ABOUT</b>
 
 Hi, I'm May! 👋 
 
