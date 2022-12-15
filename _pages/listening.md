@@ -10,7 +10,10 @@ Here are some of my favourite tracks organised by year. The tracks noted below a
 
 I tend to listen to: pop, ballads, rnb, hip hop, and jazz. 
 
-Minutes listened: <b>46,934</b> (2022 data from Spotify)
+<b>Spotify Unwrapped (2022)</b>
+Minutes listened: <b>46,934</b> 
+Top song: Yet To Come - BTS (played <b>384</b> times)
+Top artist: BTS (listened to <b>16,931</b> mins) 
 
 ### 2022
 
