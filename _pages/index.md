@@ -5,8 +5,8 @@ id: home
 permalink: /
 ---
 
-`/index`
-<b>INDEX</b>
+`/index`<br />
+<b><small>INDEX</small></b>
 
 <p>Hi! 👋 I'm May. You've stumbled upon a collection of notes that contain everything from musings, streams of consciousness to thoughts that have been incubating in my mind for awhile. 🧠✨ Feel free to explore as you like by clicking on any link that interests you.</p>
 
