@@ -14,17 +14,25 @@ This website contains a total of <b>6</b> notes.
 
 [[The power of immersion]]
 
+<br />
+
 <b>Personal Knowledge Management</b>
 
 [[Growing my ideas]]
+
+<br />
 
 <b>Creativity</b>
 
 [[Nothing is original]]
 
+<br />
+
 <b>BTS, ARMY & Participatory Fandom</b>
 
 [[Memories of an ARMY]]
+
+<br />
 
 <b>Travel & Belonging</b>
 
