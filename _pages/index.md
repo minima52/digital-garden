@@ -13,62 +13,62 @@ permalink: /
 
 Start here: 
 <ul>
-  <li>[[index]]
+  <li>[[Index]]
     <ul>
-      <li>[[about]]
+      <li>[[About]]
         <ul>
-          <li>[[now]]</li>
-          <li>[[tools]]</li>
-          <li>routines
+          <li>[[Now]]</li>
+          <li>[[Tools]]</li>
+          <li>Routines
           <ul>
-            <li><a class="internal-link" href="/routine/daily">daily</a></li>
-            <li><a class="internal-link" href="/routine/skincare">skincare</a></li>
-            <li><a class="internal-link" href="/routine/make-up">make up</a></li>
+            <li><a class="internal-link" href="/routine/daily">Daily</a></li>
+            <li><a class="internal-link" href="/routine/skincare">Skincare</a></li>
+            <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
           </ul>
         </li>
-        <li>[[meta]]</li>
+        <li>[[Meta]]</li>
     </ul>
    </li> 
 </ul>
 
 
 <ul>
-  <li>[[thoughts]]
+  <li>[[Thoughts]]
     <ul>
-      <li>[[review]]
+      <li>[[Review]]
         <ul>
           <li><a class="internal-link" href="/reflect/2021">2021</a></li>
           <li><a class="internal-link" href="/reflect/2022">2022</a></li>
         </ul>
-      <li>[[poetry]]
+      <li>[[Poetry]]
         <ul>
-          <li><a class="internal-link" href="/poem/fourteen-suns">fourteen suns & moons ago</a></li>
+          <li><a class="internal-link" href="/poem/fourteen-suns">Fourteen Suns & Moons Ago</a></li>
         </ul>
        </li>
-      <li>[[archive]]</li>
+      <li>[[Archive]]</li>
   </li>
 </ul>  
 
 <ul>
-  <li>collection
+  <li>Collection
     <ul>
-      <li>[[reading]]
+      <li>[[Reading]]
         <ul>
-          <li>[[anti-library]]</li>
+          <li>[[Anti-library]]</li>
         </ul>
-      <li>[[listening]]
+      <li>[[Listening]]
         <ul>
-          <li>[[albums]]</li>
+          <li>[[Albums]]</li>
         </ul>
       </li>
-      <li>[[watching]]</li>
-      <li>[[quotes]]</li>
-      <li>[[bookmarks]]</li>
+      <li>[[Watching]]</li>
+      <li>[[Quotes]]</li>
+      <li>[[Bookmarks]]</li>
   </li>  
 </ul>
 
 <ul>
-  <li>[[cabinet]]</li>
+  <li>[[Cabinet]]</li>
 </ul>
 
 
