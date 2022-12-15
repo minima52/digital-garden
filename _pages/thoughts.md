@@ -8,26 +8,27 @@ permalink: /thoughts
 
 A full list of all my thoughts that are still in its infancy stage ranging from streams of consciousness to half-baked thoughts.
 
-Language Learning:
+This website contains a total of <b>6</b> notes.
 
-- [[The power of immersion]]
+<b>Language Learning</b>
 
-Personal Knowledge Management
+[[The power of immersion]]
 
-- [[Growing my ideas]]
+<b>Personal Knowledge Management</b>
 
-Creativity:
+[[Growing my ideas]]
 
-- [[Nothing is original]]
+<b>Creativity</b>
 
-BTS, ARMY & Participatory Fandom:
+[[Nothing is original]]
 
-- [[Memories of an ARMY]]
+<b>BTS, ARMY & Participatory Fandom</b>
 
-Travel & Belonging:
+[[Memories of an ARMY]]
 
-- [[Staycation]]
-- [[Strange Familiarity]]
+<b>Travel & Belonging</b>
+
+[[Staycation]]    [[Strange Familiarity]]
 
 <style>
   .wrapper {
