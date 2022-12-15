@@ -4,7 +4,7 @@ title: Bookmarks
 permalink: /bookmarks
 ---
 
-`/bookmarks`
+<b>BOOKMARKS</b>
 
 ### Poetry
 

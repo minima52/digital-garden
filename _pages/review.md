@@ -4,7 +4,7 @@ title: Yearly Review
 permalink: /review
 ---
 
-`/yearly review`
+<b>YEARLY REVIEW</b>
 
 🚧 Page in progress - come back to visit later! 😉
 

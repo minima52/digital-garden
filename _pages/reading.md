@@ -4,7 +4,7 @@ title: Reading
 permalink: /reading
 ---
 
-`/reading`
+<b>READING</b>
 
 A list of books I’ve read. Visit my <a href="https://www.goodreads.com/user/show/24607110-may">Goodreads</a> account for a full collection of books I’ve read to date.
 

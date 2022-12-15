@@ -4,7 +4,7 @@ title: Quotes
 permalink: /quotes
 ---
 
-`/quotes`
+<b>QUOTES</b>
 
 A small collection of quotes I love in no particular order.
 

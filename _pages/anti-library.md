@@ -4,7 +4,7 @@ title: Anti-Library
 permalink: /anti-library
 ---
 
-`/anti-library`
+<b>ANTI-LIBRARY</b>
 
 🚧 Page in progress - come back to visit later! 😉
 

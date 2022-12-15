@@ -4,7 +4,7 @@ title: Watching
 permalink: /watching
 ---
 
-`/watching`
+<b>WATCHING</b>
 
 🚧 Page in progress - come back to visit later! 😉
 

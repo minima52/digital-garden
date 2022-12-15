@@ -4,7 +4,7 @@ title: Routines
 permalink: /routines
 ---
 
-`/routines`
+<b>ROUTINES</b>
 
 - [[daily]]
 - [[skincare]]

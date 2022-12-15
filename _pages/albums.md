@@ -4,7 +4,7 @@ title: Albums
 permalink: /albums
 ---
 
-`/albums`
+<b>ALBUMS</b>
 
 My all-time favourite albums. My [[listening|favourite tracks]] are listed here.
 

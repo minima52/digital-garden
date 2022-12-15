@@ -4,7 +4,7 @@ title: Cabinet
 permalink: /cabinet
 ---
 
-`/cabinet`
+<b>CABINET</b>
 
 🚧 Page in progress - come back to visit later! 😉
 

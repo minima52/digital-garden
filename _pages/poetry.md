@@ -4,7 +4,7 @@ title: Poetry
 permalink: /poetry
 ---
 
-`/poetry`
+<b>POETRY</b>
 
 A small selection of poetry I have written through the years.
 
