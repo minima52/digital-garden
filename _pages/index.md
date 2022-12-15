@@ -11,7 +11,7 @@ permalink: /
 
 <p>This website has <b>24</b> pages and <b>6</b> notes.</p>
 
-📍 Start here:
+Start here:
 <ul>
   <li>[[index]]
     <ul>
