@@ -8,6 +8,8 @@ permalink: /thoughts
 
 <h2>A full list of all my thoughts that are still in its infancy stage ranging from streams of consciousness to half-baked thoughts.</h2>
 
+<p>All notes in this collection are connected through bi-directional links.</p>
+
 This website contains a total of <b>6</b> notes.
 
 <br />
