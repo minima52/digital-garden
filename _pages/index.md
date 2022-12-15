@@ -70,8 +70,6 @@ Start here:
       <li>[[Quotes]]</li>
       <li>[[Bookmarks]]</li>
   </li>  
-</ul>
-
 <ul>
   <li>[[Cabinet]]</li>
 </ul>
