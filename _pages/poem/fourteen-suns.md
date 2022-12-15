@@ -4,13 +4,7 @@ title: Fourteen Suns & Moons Ago
 permalink: /poem/fourteen-suns
 ---
 
-`/fourteen suns & moons ago`
-
-<br />
-
-<small>This poem was written circa 2012-13 inspired by a foster cat I helped looked after called Tilly.</small>
-
-<br />
+<b>FOURTEEN SUNS AND MOONS AGO</b>
 
 Fourteen Suns & Moons Ago –
 

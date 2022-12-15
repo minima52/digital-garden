@@ -4,7 +4,7 @@ title: Make Up Routine
 permalink: /routine/make-up
 ---
 
-`/make up routine`
+<b>MAKE UP ROUTINE</b>
 
 I apply make up every time I go to work, to meet up with friends when I head out, or at family functions and events. Otherwise, I'm barefaced most of the time. 👶 My make up routine tends to be simple with focus placed around the eyes. Usually it takes me 20-25 mins to apply make up.
 
