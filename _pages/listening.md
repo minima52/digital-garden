@@ -14,7 +14,7 @@ I tend to listen to: pop, ballads, rnb, hip hop, and jazz.
 <li>Minutes listened: <b>46,934</b></li> 
 <li>Top song: Yet To Come - BTS (played <b>384</b> times)</li>
 <li>Top artist: BTS (listened to <b>16,931</b> mins)</li>
-<ul>
+</ul>
 
 ### 2022
 
