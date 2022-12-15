@@ -10,6 +10,8 @@ A full list of all my thoughts that are still in its infancy stage ranging from 
 
 This website contains a total of <b>6</b> notes.
 
+<br />
+
 <b>Language Learning</b>
 
 [[The power of immersion]]
