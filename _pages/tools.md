@@ -4,7 +4,7 @@ title: Tools
 permalink: /tools
 ---
 
-<b>TOOLS</b>
+<b>TECH SETUP</b>
 
 ## Computer Setup
 - Apple iMac 24″ (2021)

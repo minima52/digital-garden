@@ -18,7 +18,8 @@ Start here:
       <li>[[About]]
         <ul>
           <li>[[Now]]</li>
-          <li>[[Tools]]</li>
+          <li>[[Apps]]</li>
+          <li>[[Tools|Tech setup]]</li>
           <li>Routines
           <ul>
             <li><a class="internal-link" href="/routine/daily">Daily</a></li>
