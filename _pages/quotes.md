@@ -6,7 +6,7 @@ permalink: /quotes
 
 <b>QUOTES</b>
 
-A small collection of quotes I love in no particular order.
+A small collection of quotes in no particular order.
 
 > "Our tomorrow may be dark, painful, difficult. We might stumble or fall down, but stars shine brightest when the night is the darkest. If the stars are hidden we'll let moonlight guide us. If even the moon is dark, let our faces be the light that helps us find our way." 
 >
