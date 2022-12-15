@@ -6,7 +6,7 @@ permalink: /thoughts
 
 <b>THOUGHTS</b>
 
-<h2>A full list of all my thoughts that are still in its infancy stage ranging from streams of consciousness to half-baked thoughts.</h2>
+<p>A full list of all my thoughts that are still in its infancy stage ranging from streams of consciousness to half-baked thoughts.</p>
 
 <p>All notes in this collection are connected through bi-directional links.</p>
 
