@@ -63,6 +63,10 @@ Start here:
         </ul>
       </li>
       <li>[[Watching]]</li>
+      <li>[[Learning]]
+        <ul>
+          <li>[[Korean]]</li>
+        </ul>
       <li>[[Quotes]]</li>
       <li>[[Bookmarks]]</li>
   </li>  
