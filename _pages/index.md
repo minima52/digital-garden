@@ -9,6 +9,8 @@ permalink: /
 
 <p>Hi! 👋 I'm May. You've stumbled upon a collection of notes that contain everything from musings, streams of consciousness to thoughts that have been incubating in my mind for awhile. 🧠✨ Feel free to explore as you like by clicking on any link that interests you.</p>
 
+<p>This website has 24 pages and 6 notes.</p>
+
 📍 Start here:
 <ul>
   <li>[[index]]
