@@ -4,7 +4,7 @@ layout: default
 
 <article>
   <div>
-    <h1>{{ page.title }}</h1>
+    <span class="uppercase">{{ page.title }}</span>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last tended on <b>{{ page.last_modified_at | date: "%B %-d, %Y" }}</b>
       {% endif %}
