@@ -33,7 +33,7 @@ Start here:
 
 
 <ul>
-  <li>*[[Thoughts]]*
+  <li>[[*Thoughts*]]
     <ul>
       <li>[[Review]]
         <ul>
