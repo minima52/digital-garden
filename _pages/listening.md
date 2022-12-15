@@ -10,6 +10,8 @@ Here are some of my favourite tracks organised by year. The tracks noted below a
 
 I tend to listen to: pop, ballads, rnb, hip hop, and jazz. 
 
+Minutes listened: <b>46,934</b> (2022 data from Spotify)
+
 ### 2022
 
 - Wild Flower - RM (with youjeen) (<a href="https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q?si=59bb5dd10aec480d">Listen on Spotify</a>)
