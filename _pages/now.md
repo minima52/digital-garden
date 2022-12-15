@@ -6,7 +6,7 @@ permalink: /now
 
 <b>NOW</b>
 
-<small>Last updated: Monday, 05 Dec 2022, 08:54AM</small>
+Last updated: <b>Monday, 05 Dec 2022, 08:54AM</b>
 
 This is my now page, which is a list of things that currently plague my monkey mind. What's a <a href="https://nownownow.com/about">now page</a>, and why you should create one.
 
