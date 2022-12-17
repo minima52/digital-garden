@@ -11,10 +11,6 @@ permalink: /
 
 <p>This website has <b>24</b> pages and <b>6</b> notes.</p>
 
-[[ABOUT]]
-
-[[Tools|Tech setup]] &nbsp; <a class="internal-link" href="/routine/daily">Daily</a><
-
 Start here: 
 <ul>
   <li>[[Index]]
