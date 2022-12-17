@@ -10,7 +10,13 @@ permalink: /trip/east-asia-2014
 Distance from Sydney to Hong Kong: ...<br />
 Duration: <b>21</b> days<br />
 Flight path: SYD > HKG > ICN > KIX > HKG > SYD <br />
-Locations visited: Hong Kong (22.3193° N, 114.1694° E), Seoul, Kyoto, Tokyo
+Locations visited: <br />
+<ul>
+<li>Hong Kong (22.3193° N, 114.1694° E)</li>
+<li>Seoul</li>
+<li>Kyoto</li>
+<li>Tokyo</li>
+</ul>
 </blockquote>
 
 ...
