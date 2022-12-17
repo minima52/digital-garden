@@ -8,7 +8,7 @@ permalink: /trip/east-asia-2014
 
 <blockquote>
 <b>Distance travelled:</b> ...<br />
-<b>Duration:</b> <b>21</b> days<br />
+<b>Duration:</b> 21 days<br />
 <b>Dates:</b> 2014-10-20 to 2014-11-11<br />
 <b>Flight path:</b> SYD > HKG > ICN > KIX > NRT > HKG > SYD <br />
 <b>Airlines:</b> Qantas Airways, Korean Airlines<br />
