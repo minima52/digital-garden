@@ -41,7 +41,7 @@ permalink: /
     </ul>
 <li>[[Archive]]</li>
 </ul>  
-<li>Trackers</li>
+<li>[[Trackers]]</li>
 <ul>
 <li>[[Reading|Reading List]]</li>
     <ul>
