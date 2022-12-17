@@ -15,8 +15,6 @@ permalink: /
 <li>[[About]]</li>
 <ul>
     <li>[[Now]]</li>
-    <li>[[Apps]]</li>
-    <li>[[Tools|Tech setup]]</li>
     <li>Routines</li>
     <ul>
     <li><a class="internal-link" href="/routine/daily">Daily</a></li>
@@ -25,6 +23,11 @@ permalink: /
     </ul>  
 </ul>
 <li>[[Meta]]</li>
+<li>[[Workflow]]</li>
+<ul>
+    <li>[[Apps]]</li>
+    <li>[[Tools|Tech setup]]</li>
+</ul>
 <li>[[Notes]]</li>
 <ul>
     <li>[[Review]]</li>
