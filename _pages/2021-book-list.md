@@ -8,11 +8,11 @@ permalink: /2021-book-list
 
 A list of books I’ve read in 2021.
 
-● = Personal recommendation
-
 <br />
 
 ### 2021 Reading List
+
+● = Personal recommendation
 
 -   _Almond_ by Won-pyung Sohn ●
 -   _Ikigai_ by Yukari Mitsuhashi
