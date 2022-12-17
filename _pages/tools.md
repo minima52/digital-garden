@@ -23,7 +23,7 @@ permalink: /tools
 - Jabra Move Style Edition Wireless Headphones
 - Ultimate Ears Boom 3 Wireless Speakers
 - Apple iPhone 13
-- Apple Airpods Pro
+- Apple AirPods Pro
 - Kobo Clara HD 6″ eReader
 
 ## Storage Devices
