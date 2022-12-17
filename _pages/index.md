@@ -74,7 +74,7 @@ permalink: /
 </ul>  
 <li>[[Cabinet]]</li>
 <ul>
-<li><a class="internal-link" href="/cabinet/e-reader">E-Reader</a></li>
+<li><a class="internal-link" href="/item/e-reader">E-Reader</a></li>
 </ul>
 </ul>
 
