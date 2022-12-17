@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 2022 book list
-permalink: /2022-book-list
+permalink: /books/2022-books
 ---
 
 <b>READING</b>
 
-A list of books I’ve readin 2022. 
+A list of books I’ve read in 2022. 
 
 <br />
 

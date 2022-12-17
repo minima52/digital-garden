@@ -1,7 +1,7 @@
 ---
 layout: page
 title: anti-library
-permalink: /anti-library
+permalink: /books/anti-library
 ---
 
 <b>ANTI-LIBRARY</b>

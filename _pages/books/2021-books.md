@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2021 book list
-permalink: /2021-book-list
+permalink: /books/2021-books
 ---
 
 <b>READING</b>
