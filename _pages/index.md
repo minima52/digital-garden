@@ -74,7 +74,12 @@ permalink: /
 </ul>  
 <li>[[Cabinet]]</li>
 <ul>
+<li>[[Phone]]</li>
+<li>[[Camera]]</li>
 <li><a class="internal-link" href="/item/e-reader">E-Reader</a></li>
+<li>[[Wallet]]</li>
+<li>[[Diary]]</li>
+<li>[[Planner]]</li>
 </ul>
 </ul>
 
