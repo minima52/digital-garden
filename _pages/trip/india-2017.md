@@ -1,7 +1,7 @@
 ---
 layout: page
 title: india 2017
-permalink: /india-2017
+permalink: /trip/india-2017
 ---
 
 <b>INDIA 2017</b>

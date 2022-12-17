@@ -1,7 +1,7 @@
 ---
 layout: page
 title: hong kong, s. korea & japan 2014
-permalink: /east-asia-2014
+permalink: /trip/east-asia-2014
 ---
 
 <b>HONG KONG, S. KOREA & JAPAN 2014</b>
