@@ -13,7 +13,7 @@ permalink: /trip/india-2016
 <b>Dates:</b> Did not record <br />
 <b>Flight path:</b> SYD > SIN > DEL > SIN > SYD<br />
 <b>Airlines:</b> Singapore Airlines (SQ)<br />
-<b>Locations visited:</b> New Delhi, Bodhgaya, Agra, Ranthambore National Park, Jaipur
+<b>Locations visited:</b> New Delhi, Bodhgaya, Agra, Ranthambore National Park, Jaipur (in no particular order)
 </blockquote>
 
 

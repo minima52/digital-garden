@@ -13,7 +13,7 @@ permalink: /trip/india-2017
 <b>Dates:</b> 2022-09-16 to 2022-10-04 <br />
 <b>Flight path:</b> SYD > SIN > DEL > SIN > SYD <br />
 <b>Airlines:</b> Singapore Airlines (SQ)<br />
-<b>Locations visited:</b> Agra, Jaisalmer, Jaipur, Jodhpur, Udaipur
+<b>Locations visited:</b> Agra, Bikaner, Jaisalmer, Jaipur, Jodhpur, Mandawa, New Delhi, Ranthambore National Park, Udaipur (in no particular order)
 </blockquote>
 
 I travelled to India for the second time in 2017. I was invited by a tour operator to join them on a famil trip. 

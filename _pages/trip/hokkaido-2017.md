@@ -13,7 +13,7 @@ permalink: /trip/hokkaido-2017
 <b>Dates:</b> ...<br />
 <b>Flight path:</b> SYD > BKK > DEL > KIX > CNS > SYD<br />
 <b>Airlines:</b> Jetstar Airlines (JQ)<br />
-<b>Locations visited:</b> Sapporo, Jozankei, Osaka
+<b>Locations visited:</b> Sapporo, Jozankei, Osaka (in no particular order)
 </blockquote>
 
 🚧 Page in progress - come back to visit later! 😉
