@@ -15,8 +15,8 @@ permalink: /
 <li>[[About]]</li>
 <ul>
     <li>[[Now]]</li>
+    <li>[[Meta]]</li>
 </ul>
-<li>[[Meta]]</li>
 <li>[[Workflow]]</li>
 <ul>
     <li>[[Apps]]</li>
