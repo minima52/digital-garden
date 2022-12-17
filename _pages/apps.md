@@ -21,7 +21,7 @@ permalink: /apps
 - Visual Studio Code
 
 
-## iOS
+## iOS (iPhone 13)
 
 - Anki
 - Apple Calendar – planning and organising important events
