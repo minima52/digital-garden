@@ -6,10 +6,7 @@ permalink: /routines
 
 <b>ROUTINES</b>
 
-- [[daily]]
-- [[skincare]]
-- [[make-up]]
-
+🚧 Page in progress - come back to visit later! 😉
 
 <style>
   .wrapper {
