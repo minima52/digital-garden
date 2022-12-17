@@ -13,16 +13,18 @@ permalink: /
 
 Start here: 
 <ul>
-  <li>[[About]]
-  <ul>
-  <li>[[Now]]</li>
-    <li>[[Apps]]</li>
-    <li>[[Tools|Tech setup]]</li>
-    <li>Routines
+    <li>[[About]]
     <ul>
-      <li><a class="internal-link" href="/routine/daily">Daily</a></li>
-      <li><a class="internal-link" href="/routine/skincare">Skincare</a></li>
-      <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
+        <li>[[Now]]</li>
+        <li>[[Apps]]</li>
+        <li>[[Tools|Tech setup]]</li>
+        <li>Routines
+        <ul>
+            <li><a class="internal-link" href="/routine/daily">Daily</a></li>
+            <li><a class="internal-link" href="/routine/skincare">Skincare</a></li>
+            <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
+        </ul>
+        </li>
     </ul>
     </li>
 </ul>
@@ -84,7 +86,7 @@ Start here:
   </ul>
 </ul>
 
-</ul>
+
 
 <style>
   .wrapper {
