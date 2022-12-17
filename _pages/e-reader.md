@@ -6,7 +6,7 @@ permalink: /e-reader
 
 <b>KOBO CLARA E-READER</b>
 
-<img src="/assets/kobo-ereader.jpg" alt="Kobo E-reader"/>
+<img src="/assets/kobo-e-reader.jpg" alt="Kobo E-reader"/>
 
 Purchased year: 2021 <br />
 
