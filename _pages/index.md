@@ -34,7 +34,7 @@ Start here:
 
 
 <ul>
-  <li>[[Thoughts]]
+  <li>[[Notes]]
     <ul>
       <li>[[Review]]
         <ul>
