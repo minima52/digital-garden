@@ -9,12 +9,13 @@ permalink: /apps
 ## MacOS
 
 - Anki
-- Bear
+- Bear – for quick capturing of notes
 - Discord
 - Dropbox
 - Github
-- Notion
-- Obsidian
+- [Notion](https://www.notion.so/) (desktop) – mainly for tracking my language goals and recording study notes
+- [Obsidian](https://obsidian.md/) (desktop) – my book notes and evergreen notes
+- [Raindrop.io](https://raindrop.io/) (desktop) – for quick capture of media items such as articles, tweets, and videos
 - Spotify
 - Twitter
 - Visual Studio Code
@@ -23,6 +24,7 @@ permalink: /apps
 ## iOS
 
 - Anki
+- Apple Calendar – planning and organising important events
 - Bear
 - Beem It
 - Borrow Box
@@ -36,11 +38,18 @@ permalink: /apps
 - Streaks
 - Stocard
 - Teams
-- Things
+- [Things](https://culturedcode.com/things/) (iPad, iPhone) – trusty tool for getting tasks done and meeting deadlines
 - Twitter
 - YouTube
 - Weverse
 - WhatsApp
+
+
+## iPad
+
+- Apple Books
+
+
 
 <style>
   .wrapper {
