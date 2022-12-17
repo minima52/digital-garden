@@ -24,7 +24,7 @@ permalink: /tools
 - Ultimate Ears Boom 3 Wireless Speakers
 - Apple iPhone 13
 - Apple AirPods Pro
-- Kobo Clara HD 6″ eReader
+- [[e-reader|Kobo Clara HD 6″ eReader]]
 
 ## Storage Devices
 
