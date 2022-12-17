@@ -45,6 +45,7 @@ permalink: /
 <ul>
 <li>[[Reading|Reading List]]</li>
     <ul>
+    <li>[[2021-book-list|2021 Book List]]</li>
     <li>[[Anti-Library]]</li>
     </ul>
 <li>[[Listening|Music Playlist]]</li>
