@@ -6,11 +6,6 @@ permalink: /watching
 
 <b>WATCHING</b>
 
-### 2022
-
-- My Mister
-- Extraordinary Attorney Woo
-
 🚧 Page in progress - come back to visit later! 😉
 
 <style>
