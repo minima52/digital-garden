@@ -6,7 +6,7 @@ permalink: /e-reader
 
 <b>KOBO CLARA E-READER</b>
 
-<img src="kobo-ereader.jpg">
+<img src="/assets/kobo-ereader.jpg" alt="Kobo E-reader"/>
 
 
 🚧 Page in progress - come back to visit later! 😉
