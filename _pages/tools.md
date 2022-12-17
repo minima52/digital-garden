@@ -10,8 +10,6 @@ permalink: /tools
 
 - Apple iMac 24″ (2021)
 - Apple iPad 10.2″ (8th generation)
-- Jabra Move Style Edition Wireless Headphones
-- Ultimate Ears Boom 3 Wireless Speakers
 
 ## Camera Gear
 
@@ -22,6 +20,10 @@ permalink: /tools
 
 ## Other
 
+- Jabra Move Style Edition Wireless Headphones
+- Ultimate Ears Boom 3 Wireless Speakers
+- Apple iPhone 13
+- Apple Airpods Pro
 - Kobo Clara HD 6″ eReader
 
 ## Storage Devices
