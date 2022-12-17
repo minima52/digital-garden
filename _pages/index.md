@@ -69,6 +69,7 @@ Start here:
         </ul>
       <li>[[Travelling]]
         <ul>
+          <li>[[east-asia-2014|East Asia 2014]]</li>
           <li>[[india-2017|India 2017]]</li>
           <li>[[Galleries|Art Galleries]]</li>
         </ul>
