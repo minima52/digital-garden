@@ -15,12 +15,6 @@ permalink: /
 <li>[[About]]</li>
 <ul>
     <li>[[Now]]</li>
-    <li>Routines</li>
-    <ul>
-    <li><a class="internal-link" href="/routine/daily">Daily</a></li>
-    <li><a class="internal-link" href="/routine/skincare">Skincare</a></li>
-    <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
-    </ul>  
 </ul>
 <li>[[Meta]]</li>
 <li>[[Workflow]]</li>
@@ -28,6 +22,12 @@ permalink: /
     <li>[[Apps]]</li>
     <li>[[Tools|Tech setup]]</li>
 </ul>
+<li>Routines</li>
+<ul>
+    <li><a class="internal-link" href="/routine/daily">Daily</a></li>
+    <li><a class="internal-link" href="/routine/skincare">Skincare</a></li>
+    <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
+</ul>  
 <li>[[Notes]]</li>
 <ul>
     <li>[[Review]]</li>
