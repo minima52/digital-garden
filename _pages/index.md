@@ -64,6 +64,7 @@ permalink: /
     <li><a class="internal-link" href="/trip/india-2017">India 2017</a></li>
     <li>[[Galleries|Art Galleries]]</li>
 </ul>
+</ul>
 <li>[[Collection]]</li>
 <ul>
 <li>[[Quotes]]</li>
