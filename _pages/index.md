@@ -41,43 +41,38 @@ permalink: /
     </ul>
 <li>[[Archive]]</li>
 </ul>  
-</ul>
-
-
+<li>Trackers</li>
 <ul>
-  <li>Trackers
+<li>[[Reading|Reading List]]</li>
     <ul>
-      <li>[[Reading|Reading List]]
-        <ul>
-          <li>[[Anti-Library]]</li>
-        </ul>
-      <li>[[Listening|Music Playlist]]
-        <ul>
-          <li>[[Albums]]</li>
-        </ul>
-      </li>
-      <li>[[Watching|Movies & Dramas]]</li>
-      <li>[[Learning]]
-        <ul>
-          <li>[[Korean]]</li>
-        </ul>
-      <li>[[Travels]]
-        <ul>
-          <li><a class="internal-link" href="/trip/east-asia-2014">East Asia 2014</a></li>
-          <li><a class="internal-link" href="/trip/india-2016">India 2016</a></li>
-            <li><a class="internal-link" href="/trip/hokkaido-2017">Hokkaido 2017</a></li>
-          <li><a class="internal-link" href="/trip/india-2017">India 2017</a></li>
-          <li>[[Galleries|Art Galleries]]</li>
-        </ul>
-      <li>[[Quotes]]</li>
-      <li>[[Bookmarks]]</li>
-  </li>  
-
+    <li>[[Anti-Library]]</li>
+    </ul>
+<li>[[Listening|Music Playlist]]</li>
+    <ul>
+    <li>[[Albums]]</li>
+    </ul>
+<li>[[Watching|Movies & Dramas]]</li>
+<li>[[Learning]]</li>
 <ul>
-  <li>[[Cabinet]]</li>
-  <ul>
-      <li>[[E-reader]]</li>
-  </ul>
+<li>[[Korean]]</li>
+</ul>
+<li>[[Travels]]</li>
+<ul>
+    <li><a class="internal-link" href="/trip/east-asia-2014">East Asia 2014</a></li>
+    <li><a class="internal-link" href="/trip/india-2016">India 2016</a></li>
+    <li><a class="internal-link" href="/trip/hokkaido-2017">Hokkaido 2017</a></li>
+    <li><a class="internal-link" href="/trip/india-2017">India 2017</a></li>
+    <li>[[Galleries|Art Galleries]]</li>
+</ul>
+<li>[[Collection]]</li>
+<ul>
+<li>[[Quotes]]</li>
+<li>[[Bookmarks]]</li>
+</ul>  
+<li>[[Cabinet]]</li>
+<ul>
+<li>[[E-reader]]</li>
+</ul>
 </ul>
 
 
