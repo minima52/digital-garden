@@ -7,7 +7,8 @@ permalink: /india-2017
 <b>INDIA 2017</b>
 
 <blockquote>Distance from Sydney to New Delhi: <b>10,422</b> km / <b>6475.93 mi</b><br />
-Duration: <b>18</b> days (2022-09-16 to 2022-10-04)<br />
+Duration: <b>18</b> days<br />
+Dates: 2022-09-16 to 2022-10-04 <br />
 Flight path: SYD > SIN > DEL > SIN > SYD <br />
 Locations visited: Agra, Jaisalmer, Jaipur, Jodhpur, Udaipur </blockquote>
 
