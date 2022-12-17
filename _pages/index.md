@@ -27,8 +27,8 @@ Start here:
             <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
           </ul>
         </li>
-        <li>[[Meta]]</li>
     </ul>
+     <li>[[Meta]]</li>
    </li> 
 </ul>
 
