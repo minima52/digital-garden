@@ -10,7 +10,7 @@ permalink: /notes
 
 <p>All notes in this collection are connected through bi-directional links.</p>
 
-This website contains a total of <b>6</b> notes.
+This collection contains a total of <b>6</b> notes.
 
 <br />
 
