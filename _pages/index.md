@@ -11,7 +11,6 @@ permalink: /
 
 <p>There is a total of <b>33</b> pages and <b>6</b> notes.</p>
 
-Start here: 
 <ul>
 <li>[[About]]</li>
 <ul>
@@ -25,10 +24,10 @@ Start here:
     <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
     </ul>  
 </ul>
+<li>[[Meta]]</li>
 </ul>
 
 <ul>
-  <li>[[Meta]]</li>
   <li>[[Notes]]</li>
   <ul>
       <li>[[Review]]</li>
