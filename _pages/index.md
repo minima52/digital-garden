@@ -51,7 +51,7 @@ Start here:
 </ul>  
 
 <ul>
-  <li>Collection
+  <li>Trackers
     <ul>
       <li>[[Reading]]
         <ul>
@@ -66,6 +66,10 @@ Start here:
       <li>[[Learning]]
         <ul>
           <li>[[Korean]]</li>
+        </ul>
+      <li>[[Travelling]]
+        <ul>
+          <li>[[Galleries|Art Galleries]]</li>
         </ul>
       <li>[[Quotes]]</li>
       <li>[[Bookmarks]]</li>
