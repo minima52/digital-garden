@@ -60,7 +60,7 @@ permalink: /
     </ul>
 <li>[[Watching]]</li>
     <ul>
-    <li>[[movies-list|Favourite Movies]]</li>
+    <li>[[movie-list|Favourite Movies]]</li>
     </ul>
 <li>[[Learning]]</li>
 <ul>
