@@ -6,10 +6,12 @@ permalink: /trip/east-asia-2014
 
 <b>HONG KONG, S. KOREA & JAPAN 2014</b>
 
-<blockquote>Distance from Sydney to Hong Kong: ...<br />
+<blockquote>
+Distance from Sydney to Hong Kong: ...<br />
 Duration: <b>21</b> days<br />
 Flight path: SYD > HKG > ICN > KIX > HKG > SYD <br />
-Locations visited: Hong Kong, Seoul, Kyoto, Tokyo </blockquote>
+Locations visited: Hong Kong (22.3193° N, 114.1694° E), Seoul, Kyoto, Tokyo
+</blockquote>
 
 ...
 
