@@ -14,17 +14,17 @@ permalink: /
 Start here: 
 <ul>
   <li>[[About]]
+  <ul>
+  <li>[[Now]]</li>
+    <li>[[Apps]]</li>
+    <li>[[Tools|Tech setup]]</li>
+    <li>Routines
     <ul>
-      <li>[[Now]]</li>
-        <li>[[Apps]]</li>
-        <li>[[Tools|Tech setup]]</li>
-        <li>Routines
-        <ul>
-          <li><a class="internal-link" href="/routine/daily">Daily</a></li>
-          <li><a class="internal-link" href="/routine/skincare">Skincare</a></li>
-          <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
-        </ul>
-        </li>
+      <li><a class="internal-link" href="/routine/daily">Daily</a></li>
+      <li><a class="internal-link" href="/routine/skincare">Skincare</a></li>
+      <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
+    </ul>
+    </li>
 </ul>
 
 <ul>
