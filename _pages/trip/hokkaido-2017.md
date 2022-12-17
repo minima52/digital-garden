@@ -9,7 +9,7 @@ permalink: /trip/hokkaido-2017
 <blockquote>
 <b>Purpose:</b> Leisure<br />
 <b>Distance from Sydney to Hokkaido:</b> ...<br />
-<b>Duration:</b> ...br />
+<b>Duration:</b> ...<br />
 <b>Dates:</b> ...<br />
 <b>Flight path:</b> SYD > BKK > DEL > KIX > CNS > SYD<br />
 <b>Airlines:</b> Jetstar Airlines (JQ)<br />
