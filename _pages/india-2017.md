@@ -6,8 +6,8 @@ permalink: /india-2017
 
 <b>INDIA (2017)</b>
 
-Distance: 10,422 km / 6475.93 mi
-Duration: 14 days
+Distance: 10,422 km / 6475.93 mi<br />
+Duration: 14 days<br />
 Locations visited: 
 - Agra
 - Jaisalmer
