@@ -1,7 +1,7 @@
 ---
 layout: page
 title: e-reader
-permalink: /e-reader
+permalink: /cabinet/e-reader
 ---
 
 <b>KOBO CLARA HD 6″ E-READER</b>
