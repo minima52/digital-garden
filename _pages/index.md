@@ -58,7 +58,10 @@ permalink: /
     <ul>
     <li>[[Albums]]</li>
     </ul>
-<li>[[Watching|Movies & Dramas]]</li>
+<li>[[Watching]]</li>
+    <ul>
+    <li>[[movies-list|Favourite Movies]]</li>
+    </ul>
 <li>[[Learning]]</li>
 <ul>
 <li>[[Korean]]</li>
