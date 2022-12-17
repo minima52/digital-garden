@@ -9,6 +9,7 @@ permalink: /trip/east-asia-2014
 <blockquote>
 Distance from Sydney to Hong Kong: ...<br />
 Duration: <b>21</b> days<br />
+Dates: 2014-10-20 to 2014-11-11<br />
 Flight path: SYD > HKG > ICN > KIX > HKG > SYD <br />
 Airlines: Qantas Airways, Korean Airlines<br />
 Locations visited: Hong Kong (22.3193° N, 114.1694° E), Seoul (37.5665° N, 126.9780° E), Kyoto (35.0116° N, 135.7681° E), Tokyo (35.6762° N, 139.6503° E)
