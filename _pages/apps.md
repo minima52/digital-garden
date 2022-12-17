@@ -6,7 +6,7 @@ permalink: /apps
 
 <b>APPS</b>
 
-## MacOS
+## MacOS (iMac 24″)
 
 - Anki
 - Bear – for quick capturing of notes
@@ -45,7 +45,7 @@ permalink: /apps
 - WhatsApp
 
 
-## iPad
+## iPad (8th Gen)
 
 - Apple Books
 
