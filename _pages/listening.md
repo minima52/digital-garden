@@ -38,11 +38,6 @@ Top artist: BTS (listened to <b>16,931</b> mins)
 - Film Out - BTS (<a href="https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt?si=f85e129f9414417f">Listen on Spotify</a>)
 - Blue Side - j-hope (<a href="https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi?si=efc294e9fd7249a0">Listen on Spotify</a>)
 
-### 2020
-
-- Life Goes On - BTS (<a href="https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD?si=8161c5ad2c254ecd">Listen on Spotify</a>)
-- People - Agust D (<a href="https://open.spotify.com/track/4wDSEE082RPcnhXzPzFhCp?si=8a171084e15f4625">Listen on Spotify</a>)
-
 
 <style>
   .wrapper {
