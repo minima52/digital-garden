@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fourteen Suns & Moons Ago
+title: fourteen suns & moons ago
 permalink: /poem/fourteen-suns
 ---
 

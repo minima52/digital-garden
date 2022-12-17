@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Make Up Routine
+title: make up routine
 permalink: /routine/make-up
 ---
 

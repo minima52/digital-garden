@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skincare Routine
+title: skincare routine
 permalink: /routine/skincare
 ---
 

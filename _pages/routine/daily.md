@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daily Routine
+title: daily routine
 permalink: /routine/daily
 ---
 
