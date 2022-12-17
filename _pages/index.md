@@ -53,21 +53,21 @@ Start here:
 <ul>
   <li>Trackers
     <ul>
-      <li>[[Reading]]
+      <li>[[Reading|Reading List]]
         <ul>
           <li>[[Anti-Library]]</li>
         </ul>
-      <li>[[Listening]]
+      <li>[[Listening|Music Playlist]]
         <ul>
           <li>[[Albums]]</li>
         </ul>
       </li>
-      <li>[[Watching]]</li>
+      <li>[[Watching|Movies & Dramas]]</li>
       <li>[[Learning]]
         <ul>
           <li>[[Korean]]</li>
         </ul>
-      <li>[[Travelling]]
+      <li>[[Travels]]
         <ul>
           <li><a class="internal-link" href="/trip/east-asia-2014">East Asia 2014</a></li>
           <li><a class="internal-link" href="/trip/india-2016">India 2016</a></li>

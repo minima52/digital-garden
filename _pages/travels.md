@@ -1,10 +1,10 @@
 ---
 layout: page
-title: travelling
-permalink: /travelling
+title: travels
+permalink: /travels
 ---
 
-<b>TRAVELLING</b>
+<b>TRAVELS</b>
 
 Places I have been to. 
 
