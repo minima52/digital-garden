@@ -7,7 +7,7 @@ permalink: /trip/east-asia-2014
 <b>HONG KONG, S. KOREA & JAPAN 2014</b>
 
 <blockquote>
-<b>Purpose:</b> Leisure
+<b>Purpose:</b> Leisure<br />
 <b>Distance travelled:</b> 7,385.79 km / 4,589.32 mi (SYD > HKG) - 2066 km / 1283 mi (HKG > ICN)<br />
 <b>Duration:</b> 21 days<br />
 <b>Dates:</b> 2014-10-20 to 2014-11-11<br />

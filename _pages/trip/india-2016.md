@@ -7,7 +7,7 @@ permalink: /trip/india-2016
 <b>INDIA 2016</b>
 
 <blockquote>
-<b>Purpose:</b> Work, Conference
+<b>Purpose:</b> Work, Conference<br />
 <b>Distance from Sydney to New Delhi:</b> 10,422 km / 6475.93 mi<br />
 <b>Duration:</b> 14 days<br />
 <b>Dates:</b> Did not record <br />

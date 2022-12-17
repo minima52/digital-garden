@@ -7,7 +7,7 @@ permalink: /trip/hokkaido-2017
 <b>HOKKAIDO 2017</b>
 
 <blockquote>
-<b>Purpose:</b> Leisure
+<b>Purpose:</b> Leisure<br />
 <b>Distance from Sydney to Hokkaido:</b> ...<br />
 <b>Duration:</b> ...br />
 <b>Dates:</b> ...<br />
