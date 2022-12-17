@@ -13,9 +13,14 @@ permalink: /
 
 <ul>
 <li>[[About]]</li>
+<li>[[Meta]]</li>
+<li>[[Life Planning]]</li>
 <ul>
     <li>[[Now]]</li>
-    <li>[[Meta]]</li>
+    <li>[[Values]]</li>
+    <li>[[Goals]]</li>
+    <li>[[Actionables]]</li>
+    <li>[[Life Lessons]]</li>
 </ul>
 <li>[[Workflow]]</li>
 <ul>
