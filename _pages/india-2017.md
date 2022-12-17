@@ -4,7 +4,7 @@ title: India (2017)
 permalink: /india-2017
 ---
 
-<b>India (2017)</b>
+<b>INDIA (2017)</b>
 
 Distance: 10,422 km / 6475.93 mi
 Duration: 14 days
