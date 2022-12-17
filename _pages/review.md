@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yearly Review
+title: review
 permalink: /review
 ---
 

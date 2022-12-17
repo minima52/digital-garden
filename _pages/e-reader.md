@@ -1,6 +1,6 @@
 ---
 layout: page
-title: E-reader
+title: e-reader
 permalink: /e-reader
 ---
 

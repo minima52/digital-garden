@@ -1,6 +1,6 @@
 ---
 layout: page
-title: India 2017
+title: india 2017
 permalink: /india-2017
 ---
 

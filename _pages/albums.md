@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Albums
+title: albums
 permalink: /albums
 ---
 

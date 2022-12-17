@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Art Galleries
+title: galleries
 permalink: /galleries
 ---
 

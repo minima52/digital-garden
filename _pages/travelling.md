@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Travelling
+title: travelling
 permalink: /travelling
 ---
 

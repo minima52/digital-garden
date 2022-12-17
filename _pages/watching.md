@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Watching
+title: watching
 permalink: /watching
 ---
 

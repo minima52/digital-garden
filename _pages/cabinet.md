@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cabinet
+title: cabinet
 permalink: /cabinet
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poetry
+title: poetry
 permalink: /poetry
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meta
+title: meta
 permalink: /meta
 ---
 

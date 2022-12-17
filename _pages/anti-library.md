@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anti-Library
+title: anti-library
 permalink: /anti-library
 ---
 

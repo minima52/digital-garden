@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Routines
+title: routines
 permalink: /routines
 ---
 

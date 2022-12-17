@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Korean
+title: korean
 permalink: /korean
 ---
 

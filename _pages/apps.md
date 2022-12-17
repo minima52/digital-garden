@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apps
+title: apps
 permalink: /apps
 ---
 
