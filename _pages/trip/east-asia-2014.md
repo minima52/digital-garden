@@ -28,6 +28,8 @@ We had claypot rice, roast goose, milk tea.
 
 <img src="/assets/2014-hk-003.jpg" alt="An aerial view of Kowloon">
 
+<br />
+
 ### Seoul (37.5665° N, 126.9780° E)
 
 I remember feeling excited when our flight landed in Incheon Airport.
@@ -39,6 +41,8 @@ On our final night she made us Tteokguk, a Korean rice cake dish, which I savour
 <img src="/assets/2014-skorea-002.jpg" alt="A view of Namsan Tower">
 
 <img src="/assets/2014-skorea-003.jpg" alt="Hanok stay">
+
+<br />
 
 Kyoto (35.0116° N, 135.7681° E)<br />
 
