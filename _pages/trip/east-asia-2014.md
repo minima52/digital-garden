@@ -46,6 +46,8 @@ I remember feeling excited when our flight landed in Incheon Airport. We stayed 
 
 <img src="/assets/2014-nara-001.jpg" alt="Inside Nara's Todaiji temple">
 
+<img src="/assets/2014-nara-002.jpg" alt="Sacred deers of Nara">
+
 <img src="/assets/2014-kyoto-002.jpg" alt="Through the streets of Kyoto">
 
 Tokyo (35.6762° N, 139.6503° E)
