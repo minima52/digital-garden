@@ -19,6 +19,8 @@ permalink: /trip/east-asia-2014
 ### Hong Kong (22.3193° N, 114.1694° E)
 
 The second time I visited Hong Kong was with a group of friends in my mid-20s.
+Hong Kong felt like an overwhelming concrete jungle of a city.
+We had claypot rice, roast goose, milk tea.
 
 <img src="/assets/2014-hk-001.jpg" alt="An illustration of Bruce Lee">
 
