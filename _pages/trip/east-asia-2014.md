@@ -21,7 +21,7 @@ permalink: /trip/east-asia-2014
 ### Hong Kong (22.3193° N, 114.1694° E)
 
 The second time I visited Hong Kong was with a group of friends in my mid-20s.<br />
-Hong Kong felt like an overwhelming concrete jungle of a city.<br />
+The first time was when I visited my sister in 2012 when she was on exchange as a student.<br />
 We had claypot rice, roast goose, milk tea.
 
 <img src="/assets/2014-hk-001.jpg" alt="An illustration of Bruce Lee">
@@ -35,9 +35,11 @@ We had claypot rice, roast goose, milk tea.
 ### Seoul (37.5665° N, 126.9780° E)
 
 I remember feeling excited when our flight landed in Incheon Airport.<br />
-Our stay in Seoul was at a hanok looked after by a host who waited for us on our arrival. <br />
+We stayed at a traditional hanok in Seoul. <br />
 She was such a delight to have, making sure we were well fed each morning.<br />
-On our final night she made us Tteokguk (떡국), made of sliced rice cakes in a broth. Glad to say I savoured every bite of it.
+On our final night she made us <i>tteokguk</ui> (떡국), made up of sliced rice cakes in a broth, which I savoured every bite of it.<br />
+We visited Bukchon Hanok Village, and rented a bike and cycled along the Han River. <br />
+I will forever miss ther food I had in Seoul - fried chicken with <i>makgeolli</i>, gingseng chicken...
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
 
