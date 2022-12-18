@@ -24,6 +24,10 @@ permalink: /trip/india-2016
 
 <img src="/assets/2016-conference-003.jpg" alt="...">
 
+<img src="/assets/2016-delhi-001.jpg" alt="...">
+
+<img src="/assets/2016-delhi-002.jpg" alt="...">
+
 
 🚧 Page in progress - come back to visit later! 😉
 
