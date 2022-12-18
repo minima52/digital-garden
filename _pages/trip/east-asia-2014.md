@@ -20,6 +20,8 @@ Hong Kong (22.3193° N, 114.1694° E)<br />
 
 Seoul (37.5665° N, 126.9780° E)<br />
 
+<img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
+
 Kyoto (35.0116° N, 135.7681° E)<br />
 
 Tokyo (35.6762° N, 139.6503° E)
