@@ -48,9 +48,11 @@ The food we had in Seoul was the best - mandu, bibim naengmyeon, fried chicken w
 
 <br />
 
-Nara & Kyoto (35.0116° N, 135.7681° E)<br />
+### Nara & Kyoto (35.0116° N, 135.7681° E)<br />
 
 <img src="/assets/2014-nara-001.jpg" alt="Inside Nara's Todaiji temple">
+
+<img src="/assets/2014-kyoto-002.jpg" alt="Through the streets of Kyoto">
 
 Tokyo (35.6762° N, 139.6503° E)
 
