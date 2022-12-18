@@ -16,7 +16,11 @@ permalink: /trip/east-asia-2014
 <b>Places visited:</b> Hong Kong, Seoul, Kyoto, Tokyo
 </blockquote>
 
+### Hong Kong
+
 Hong Kong (22.3193° N, 114.1694° E)<br />
+
+My 2nd time to Hong Kong was with a group of friends in my mid-20s.
 
 <img src="/assets/2014-hk-001.jpg" alt="An illustration of Bruce Lee">
 
