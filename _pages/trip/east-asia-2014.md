@@ -48,11 +48,13 @@ permalink: /trip/east-asia-2014
 
 <br />
 
-Tokyo & Kamakura (35.6762° N, 139.6503° E)
+Tokyo (35.6762° N, 139.6503° E)
 
 <img src="/assets/2014-tokyo-001.jpg" alt="Traditional alcohol barrels">
 
-<img src="/assets/2014-kamakura-001.jpg" alt="The Great Buddha at Kamakura">
+<img src="/assets/2014-tokyo-002.jpg" alt="A view of Shibuya crosswalk from the Shibuya Station">
+
+<img src="/assets/2014-tokyo-003.jpg" alt="Hachiko statue">
 
 🚧 Page in progress - come back to visit later! 😉
 
