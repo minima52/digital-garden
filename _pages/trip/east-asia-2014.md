@@ -22,6 +22,8 @@ Hong Kong (22.3193° N, 114.1694° E)<br />
 
 <img src="/assets/2014-hk-002.jpg" alt="A junk on Hong Kong Victoria Harbour">
 
+<img src="/assets/2014-hk-003.jpg" alt="An aerial view of Kowloon">
+
 Seoul (37.5665° N, 126.9780° E)<br />
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
