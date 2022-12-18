@@ -20,9 +20,7 @@ permalink: /trip/east-asia-2014
 
 ### Hong Kong (22.3193° N, 114.1694° E)
 
-The second time I visited Hong Kong was with a group of friends in my mid-20s.<br />
-The first time was when I visited my sister in 2012 when she was on exchange as a student.<br />
-We had claypot rice, roast goose, milk tea.
+The second time I visited Hong Kong was with a group of friends in my mid-20s. We had claypot rice, roast goose, milk tea.
 
 <img src="/assets/2014-hk-001.jpg" alt="An illustration of Bruce Lee">
 
@@ -34,11 +32,7 @@ We had claypot rice, roast goose, milk tea.
 
 ### Seoul (37.5665° N, 126.9780° E)
 
-I remember feeling excited when our flight landed in Incheon Airport.<br />
-We stayed at a traditional hanok in Seoul. The host was delighful, making sure we were well fed each morning.<br />
-On our final night she made us <i>tteokguk</i> (떡국), made up of sliced rice cakes in a broth, which I savoured every bite of it.<br />
-We visited Bukchon Hanok Village, and rented a bike and cycled along the Han River. <br />
-The food we had in Seoul was the best - mandu, bibim naengmyeon, fried chicken with <i>makgeolli</i>, gingseng chicken...
+I remember feeling excited when our flight landed in Incheon Airport. We stayed at a traditional hanok in Seoul. The host was delighful, making sure we were well fed each morning. On our final night she made us <i>tteokguk</i> (떡국), made of sliced rice cakes in a broth, which I savoured every bite of it. We visited Bukchon Hanok Village, and rented a bike and cycled along the Han River. The food we had in Seoul was the best - mandu, bibim naengmyeon, fried chicken with <i>makgeolli</i>, gingseng chicken...
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
 
