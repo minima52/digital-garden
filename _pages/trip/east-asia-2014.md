@@ -36,6 +36,8 @@ permalink: /trip/east-asia-2014
 
 <img src="/assets/2014-skorea-003.jpg" alt="Hanok stay">
 
+<img src="/assets/2014-skorea-004.jpg" alt="Korean men having lunch">
+
 <br />
 
 ### Nara & Kyoto (35.0116° N, 135.7681° E)<br />
