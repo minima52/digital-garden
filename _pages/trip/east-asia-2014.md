@@ -16,9 +16,7 @@ permalink: /trip/east-asia-2014
 <b>Places visited:</b> Hong Kong, Seoul, Kyoto, Tokyo
 </blockquote>
 
-### Hong Kong
-
-Hong Kong (22.3193° N, 114.1694° E)<br />
+### Hong Kong (22.3193° N, 114.1694° E)
 
 My 2nd time to Hong Kong was with a group of friends in my mid-20s.
 
