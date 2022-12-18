@@ -34,7 +34,7 @@ We had claypot rice, roast goose, milk tea.
 
 I remember feeling excited when our flight landed in Incheon Airport.
 We stayed at a hanok and the host was such a delight to have making us breakfast every morning.
-On our final night she made us Tteokguk, a Korean rice cake dish, which I savoured every bite of it.
+On our final night she made us Tteokguk (떡국), which consists of sliced rice cakes in a broth. Glad to say I savoured every bite of it.
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
 
