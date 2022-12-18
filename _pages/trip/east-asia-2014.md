@@ -18,7 +18,7 @@ permalink: /trip/east-asia-2014
 
 ### Hong Kong (22.3193° N, 114.1694° E)
 
-My 2nd time to Hong Kong was with a group of friends in my mid-20s.
+The second time I visited Hong Kong was with a group of friends in my mid-20s.
 
 <img src="/assets/2014-hk-001.jpg" alt="An illustration of Bruce Lee">
 
@@ -26,7 +26,9 @@ My 2nd time to Hong Kong was with a group of friends in my mid-20s.
 
 <img src="/assets/2014-hk-003.jpg" alt="An aerial view of Kowloon">
 
-Seoul (37.5665° N, 126.9780° E)<br />
+### Seoul (37.5665° N, 126.9780° E)
+
+I remember feeling excited when our flight landed in Incheon Airport.
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
 
