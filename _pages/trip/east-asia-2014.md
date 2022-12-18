@@ -8,7 +8,6 @@ permalink: /trip/east-asia-2014
 
 <blockquote>
 <b>Purpose:</b> Leisure<br />
-<b>Distance travelled:</b> 7,385.79 km / 4,589.32 mi (SYD > HKG) - 2066 km / 1283 mi (HKG > ICN)<br />
 <b>Duration:</b> 21 days<br />
 <b>Dates:</b> 2014-10-20 to 2014-11-11<br />
 <b>Flight path:</b> SYD > HKG > ICN > KIX > NRT > HKG > SYD <br />
@@ -20,6 +19,8 @@ permalink: /trip/east-asia-2014
 
 ### Hong Kong (22.3193° N, 114.1694° E)
 
+ SYD > HKG: 7,385.79 km / 4,589.32 mi
+
 <img src="/assets/2014-hk-001.jpg" alt="An illustration of Bruce Lee">
 
 <img src="/assets/2014-hk-002.jpg" alt="A junk on Hong Kong Victoria Harbour">
@@ -29,6 +30,8 @@ permalink: /trip/east-asia-2014
 <br />
 
 ### Seoul (37.5665° N, 126.9780° E)
+
+HKG > ICN: 2066 km / 1283 mi
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
 
@@ -57,8 +60,6 @@ Tokyo (35.6762° N, 139.6503° E)
 <img src="/assets/2014-tokyo-002.jpg" alt="A view of Shibuya crosswalk from the Shibuya Station">
 
 <img src="/assets/2014-tokyo-003.jpg" alt="Hachiko statue">
-
-🚧 Page in progress - come back to visit later! 😉
 
 <style>
   .wrapper {
