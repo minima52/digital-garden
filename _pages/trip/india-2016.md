@@ -16,6 +16,14 @@ permalink: /trip/india-2016
 <b>Locations visited:</b> New Delhi, Bodhgaya, Agra, Ranthambore National Park, Jaipur (in no particular order)
 </blockquote>
 
+<br />
+
+<img src="/assets/2016-conference-001.jpg" alt="...">
+
+<img src="/assets/2016-conference-002.jpg" alt="...">
+
+<img src="/assets/2016-conference-003.jpg" alt="...">
+
 
 🚧 Page in progress - come back to visit later! 😉
 
