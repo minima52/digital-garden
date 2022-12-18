@@ -50,7 +50,11 @@ I remember feeling excited when our flight landed in Incheon Airport. We stayed 
 
 <img src="/assets/2014-kyoto-002.jpg" alt="Through the streets of Kyoto">
 
+<br />
+
 Tokyo (35.6762° N, 139.6503° E)
+
+<img src="/assets/2014-tokyo-001.jpg" alt="Traditional alcohol barrels">
 
 🚧 Page in progress - come back to visit later! 😉
 
