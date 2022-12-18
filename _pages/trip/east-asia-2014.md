@@ -35,8 +35,7 @@ We had claypot rice, roast goose, milk tea.
 ### Seoul (37.5665° N, 126.9780° E)
 
 I remember feeling excited when our flight landed in Incheon Airport.<br />
-We stayed at a traditional hanok in Seoul. <br />
-She was such a delight to have, making sure we were well fed each morning.<br />
+We stayed at a traditional hanok in Seoul. The host was delighful, making sure we were well fed each morning.<br />
 On our final night she made us <i>tteokguk</i> (떡국), made up of sliced rice cakes in a broth, which I savoured every bite of it.<br />
 We visited Bukchon Hanok Village, and rented a bike and cycled along the Han River. <br />
 The food we had in Seoul was the best - mandu, bibim naengmyeon, fried chicken with <i>makgeolli</i>, gingseng chicken...
