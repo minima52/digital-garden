@@ -28,6 +28,8 @@ Seoul (37.5665° N, 126.9780° E)<br />
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
 
+<img src="/assets/2014-skorea-002.jpg" alt="A view of Namsan Tower">
+
 Kyoto (35.0116° N, 135.7681° E)<br />
 
 Tokyo (35.6762° N, 139.6503° E)
