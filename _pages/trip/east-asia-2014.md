@@ -43,7 +43,9 @@ HKG > ICN: 2066 km / 1283 mi
 
 <br />
 
-### Nara & Kyoto (35.0116° N, 135.7681° E)<br />
+### Nara & Kyoto (35.0116° N, 135.7681° E)
+
+ICN > KIX: 827.2 km / 514 mi
 
 <img src="/assets/2014-nara-001.jpg" alt="Inside Nara's Todaiji temple">
 
