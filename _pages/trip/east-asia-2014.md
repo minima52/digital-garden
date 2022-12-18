@@ -29,6 +29,8 @@ The second time I visited Hong Kong was with a group of friends in my mid-20s.
 ### Seoul (37.5665° N, 126.9780° E)
 
 I remember feeling excited when our flight landed in Incheon Airport.
+We stayed at a hanok and the host was such a delight to have making us breakfast every morning.
+On our final night she made us Tteokguk, a Korean rice cake dish, which I savoured every bite of it.
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
 
