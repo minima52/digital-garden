@@ -18,6 +18,8 @@ permalink: /trip/east-asia-2014
 
 Hong Kong (22.3193° N, 114.1694° E)<br />
 
+<img src="/assets/2014-hk-001.jpg" alt="An illustration of Bruce Lee">
+
 Seoul (37.5665° N, 126.9780° E)<br />
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
