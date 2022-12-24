@@ -4,7 +4,9 @@ title: routines
 permalink: /routines
 ---
 
-<b>ROUTINES</b>
+<b>Collection</b>
+
+<h1>Routines</h1>
 
 🚧 Page in progress - come back to visit later! 😉
 

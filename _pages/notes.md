@@ -4,6 +4,8 @@ title: notes
 permalink: /notes
 ---
 
+<b>Collection</b>
+
 <h1>Notes</h1>
 
 <p>A full list of all my thoughts that are still in its infancy stage ranging from streams of consciousness to half-baked thoughts.</p>
