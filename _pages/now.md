@@ -4,7 +4,7 @@ title: now
 permalink: /now
 ---
 
-<b>NOW</b>
+<h1>Now</h1>
 
 Last updated: <b>Monday, 05 Dec 2022, 08:54AM</b>
 

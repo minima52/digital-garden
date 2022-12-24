@@ -4,7 +4,7 @@ title: fourteen suns & moons ago
 permalink: /poem/fourteen-suns
 ---
 
-<b>FOURTEEN SUNS AND MOONS AGO</b>
+<h1>Poem: Fourteen Suns & Moons Ago</h1>
 
 <br />
 
