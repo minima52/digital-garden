@@ -54,10 +54,10 @@ This website serves as public learning space for me to learn more about myself, 
             </div>
             <div class="timeline__desc">
             <ul>
-            <li>Got inspired again! ✨</li>
+            <li>Got inspired again!</li>
             <li>Revisited Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a></li>
             <li>Tinkered with <a href="https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll">Jekyll digital garden template</a></li>
-            <li>Website up and running - yay! 🎉</li>
+            <li>Website up and running - yay!</li>
             </ul>
             </div>
         </div>
@@ -74,7 +74,7 @@ This website serves as public learning space for me to learn more about myself, 
 
 ### Process
 
-1. Install Ruby, Ruby on Gems, and Git on computer (slight learning curve 🥲)
+1. Install Ruby, Ruby on Gems, and Git on computer (slight learning curve)
 2. Fork the template to Github account
 3. Clone template to local server
 4. Test, test, test!
