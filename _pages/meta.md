@@ -108,7 +108,7 @@ I was able to install the template and get the website up and running with the h
 
 ### Thanks
 
-Thanks for visiting. A special shoutout to BTS, whose music and artistry not only speaks to my curious, wandering soul, but also their core message of loving and speaking yourself continues to empower many others like myself to find my inner voice. 🫰💜
+Thanks for visiting. A special shoutout to BTS, whose music and artistry not only speaks to my curious, wandering soul, but also their core message of loving and speaking yourself continues to empower many others like myself to find my inner voice. 
 
 <style>
   .wrapper {
