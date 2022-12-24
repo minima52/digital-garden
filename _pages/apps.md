@@ -4,7 +4,7 @@ title: apps
 permalink: /apps
 ---
 
-<b>APPS</b>
+<h1>Apps</h1>
 
 ## MacOS (iMac 24″)
 

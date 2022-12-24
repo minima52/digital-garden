@@ -4,7 +4,7 @@ title: bookmarks
 permalink: /bookmarks
 ---
 
-<b>BOOKMARKS</b>
+<h1>Bookmarks</h1>
 
 ### Poetry
 

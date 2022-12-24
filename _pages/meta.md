@@ -4,7 +4,7 @@ title: meta
 permalink: /meta
 ---
 
-<b>META</b>
+<h1>Meta</h1b>
 
 ### About
 
