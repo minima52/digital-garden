@@ -11,7 +11,7 @@ My weekdays are spent commuting to & from work. My line of work requires me to s
 ### Weekdays
 
 - 5:30/6:30: Wake up, wash my face, get [[make-up|make up]] done, [[skincare|skincare routine]], and do my hair to get ready for work
-  - I work from home (WFH) on Mondays so I get to sleep in a bit 😉
+  - I work from home (WFH) on Mondays so I get to sleep in a bit 
   - Mornings are particularly hectic when I need to get to work by 8:00 or 9:00. I don't usually have time in the mornings to have breakfast so I go without. When I do get time, I tend to have a light breakfast usually yoghurt with granola. 
   - On days when I start work at 10:00, I have more time to spare and will have a proper breakfast and a coffee on the side.
 - 6:30/7:30/8:30: Commuting to work by public transport (~1 hour)
