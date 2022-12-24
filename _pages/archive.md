@@ -4,7 +4,7 @@ title: archive
 permalink: /archive
 ---
 
-<b>ARCHIVE</b>
+<h1>Archive</h1>
 
 An archive of all the notes in my digital garden sorted by date last modified.
 
