@@ -4,7 +4,9 @@ title: galleries
 permalink: /galleries
 ---
 
-<b>ART GALLERIES</b>
+<b>Travel</b>
+
+<h1>Galleries</h1>
 
 - Museum of Contemporary Art
   - Do Ho Suh Exhibition (2022)
