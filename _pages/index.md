@@ -37,8 +37,8 @@ permalink: /
 <ul>
     <li>[[Review]]</li>
     <ul>
-    <li><a class="internal-link" href="/year/2021">2021</a> (a year of lockdowns)</li>
-    <li><a class="internal-link" href="/year/2022">2022</a> (a year of art)</li>
+    <li><a class="internal-link" href="/year/2021">2021</a></li>
+    <li><a class="internal-link" href="/year/2022">2022</a></li>
     </ul>
     <li>[[Poetry]]</li>
     <ul>
