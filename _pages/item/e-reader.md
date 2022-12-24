@@ -4,7 +4,9 @@ title: e-reader
 permalink: /item/e-reader
 ---
 
-<b>KOBO CLARA HD 6″ E-READER</b>
+<b>Cabinet</b>
+
+<h1>Kobo Clara HD 6″ E-Reader</h1>
 
 <img src="/assets/kobo-e-reader.jpg" alt="Kobo Clara HD 6″ E-Reader"/>
 
