@@ -5,7 +5,9 @@ id: home
 permalink: /
 ---
 
-<h1>Start Here</h1>
+<h2>Start Here</h2>
+
+<br />
 
 <p>Hi! 👋 I'm May. You've stumbled upon a collection of notes that contain everything from musings, streams of consciousness to thoughts that have been incubating in my mind for awhile. 🧠✨ Feel free to explore as you like by clicking on any link that interests you.</p>
 
