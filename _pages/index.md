@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-<h2>Start Here</h2>
+<h1>Start Here</h1>
 
 <br />
 
