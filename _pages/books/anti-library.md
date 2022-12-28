@@ -4,9 +4,9 @@ title: anti-library
 permalink: /books/anti-library
 ---
 
-<b>ANTI-LIBRARY</b>
+<h1>Anti-Library</h1>
 
-🚧 Page in progress - come back to visit later! 😉
+<i>Page in progress</i>
 
 
 <style>
