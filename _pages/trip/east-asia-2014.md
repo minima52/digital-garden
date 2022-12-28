@@ -19,6 +19,8 @@ permalink: /trip/east-asia-2014
 
 ### Hong Kong (22.3193° N, 114.1694° E)
 
+Highlights:
+
  SYD > HKG: 7,385.79 km / 4,589.32 mi
 
 <img src="/assets/2014-hk-001.jpg" alt="An illustration of Bruce Lee">
@@ -32,6 +34,8 @@ permalink: /trip/east-asia-2014
 ### Seoul (37.5665° N, 126.9780° E)
 
 HKG > ICN: 2066 km / 1283 mi
+
+- Cycling along the Han River
 
 <img src="/assets/2014-skorea-001.jpg" alt="Along the Han River">
 
