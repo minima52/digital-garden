@@ -14,6 +14,10 @@ A reminder to myself of the lessons I have learned in life.
 
 - When someone says no, it does not mean they are rejecting you. It just means something is not acceptable for them.
 
+### Health
+
+- Meditate or journal after waking for clarity and a sense of calmness.
+
 ### Learning
 
 - Never underestimate the usefulness of a public library. 
