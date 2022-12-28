@@ -19,7 +19,9 @@ permalink: /trip/east-asia-2014
 
 ### Highlights
 
-- Cycling along the Han River
+- Cycling along the Han River with friends
+- Walking up the steps at the Fushimi Inari shrine
+
 
 <style>
   .wrapper {
