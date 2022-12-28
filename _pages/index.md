@@ -72,7 +72,7 @@ permalink: /
     <li><a class="internal-link" href="/trip/india-2016">India 2016</a></li>
     <li><a class="internal-link" href="/trip/hokkaido-2017">Hokkaido 2017</a></li>
     <li><a class="internal-link" href="/trip/india-2017">India 2017</a></li>
-    <li>[[Galleries|Art Galleries]]</li>
+    <li><a class="internal-link" href="/trip/galleries">Art Exhibitions</a></li>
 </ul>
 </ul>
 <li>[[Collection]]</li>
