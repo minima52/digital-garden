@@ -4,7 +4,7 @@ title: hong kong, s. korea & japan 2014
 permalink: /trip/east-asia-2014
 ---
 
-<h1>Hong Kong, South Korea & Japan 2014</h1>
+<h1>Hong Kong, South Korea & Japan, 2014</h1>
 
 <blockquote>
 <b>Purpose:</b> Leisure<br />
@@ -17,29 +17,9 @@ permalink: /trip/east-asia-2014
 
 <br />
 
-Hong Kong (22.3193° N, 114.1694° E)
-
-Highlights:
-
- SYD > HKG: 7,385.79 km / 4,589.32 mi
-
-<br />
-
-Seoul (37.5665° N, 126.9780° E)
-
-HKG > ICN: 2066 km / 1283 mi
+### Highlights
 
 - Cycling along the Han River
-
-<br />
-
-Nara & Kyoto (35.0116° N, 135.7681° E)
-
-ICN > KIX: 827.2 km / 514 mi
-
-<br />
-
-Tokyo (35.6762° N, 139.6503° E)
 
 <style>
   .wrapper {
