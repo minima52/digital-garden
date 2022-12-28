@@ -6,6 +6,10 @@ permalink: /life/lessons
 
 <h1>Lessons</h1>
 
+### Emotional Intelligence
+
+- When someone says no, it does mean they are rejecting you. It just means something is not acceptable for them.
+
 ### Learning
 
 - Never underestimate the usefulness of a public library. 
