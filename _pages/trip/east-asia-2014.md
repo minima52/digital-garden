@@ -20,7 +20,9 @@ permalink: /trip/east-asia-2014
 ### Highlights
 
 - Cycling along the Han River with friends
-- Walking up the steps at the Fushimi Inari shrine
+- Strolling through Cheonggyecheon
+- Having traditional Korean tea at Shin Old Tea House in Insadong
+- Walking up the steps at Fushimi Inari shrine
 
 
 <style>
