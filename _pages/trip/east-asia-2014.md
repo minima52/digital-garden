@@ -4,7 +4,7 @@ title: hong kong, s. korea & japan 2014
 permalink: /trip/east-asia-2014
 ---
 
-<b>HONG KONG, S. KOREA & JAPAN 2014</b>
+<h1>Hong Kong, South Korea & Japan 2014</h1>
 
 <blockquote>
 <b>Purpose:</b> Leisure<br />
@@ -17,7 +17,7 @@ permalink: /trip/east-asia-2014
 
 <br />
 
-### Hong Kong (22.3193° N, 114.1694° E)
+Hong Kong (22.3193° N, 114.1694° E)
 
 Highlights:
 
@@ -25,7 +25,7 @@ Highlights:
 
 <br />
 
-### Seoul (37.5665° N, 126.9780° E)
+Seoul (37.5665° N, 126.9780° E)
 
 HKG > ICN: 2066 km / 1283 mi
 
@@ -33,7 +33,7 @@ HKG > ICN: 2066 km / 1283 mi
 
 <br />
 
-### Nara & Kyoto (35.0116° N, 135.7681° E)
+Nara & Kyoto (35.0116° N, 135.7681° E)
 
 ICN > KIX: 827.2 km / 514 mi
 
