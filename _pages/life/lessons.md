@@ -8,6 +8,8 @@ permalink: /life/lessons
 
 A reminder to myself of the lessons I have learned in life.
 
+<br />
+
 ### Emotional Intelligence
 
 - When someone says no, it does mean they are rejecting you. It just means something is not acceptable for them.
