@@ -16,6 +16,8 @@ permalink: /trip/hokkaido-2017
 <b>Locations visited:</b> Sapporo, Jozankei, Osaka (in no particular order)
 </blockquote>
 
+<br />
+
 ### Highlights
 
 - Waking up to a winter wonderland at Jozankei Resort

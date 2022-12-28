@@ -16,6 +16,8 @@ permalink: /trip/india-2017
 <b>Locations visited:</b> Agra, Bikaner, Jaisalmer, Jaipur, Jodhpur, Mandawa, New Delhi, Ranthambore National Park, Udaipur (in no particular order)
 </blockquote>
 
+<br />
+
 ### Highlights
 
 - Visiting the Taj Mahal (for the 2nd time!)
