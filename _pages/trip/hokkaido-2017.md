@@ -4,7 +4,7 @@ title: hokkaido 2017
 permalink: /trip/hokkaido-2017
 ---
 
-<b>HOKKAIDO 2017</b>
+<h1>Hokkaido, 2017</h1>
 
 <blockquote>
 <b>Purpose:</b> Leisure<br />
@@ -16,7 +16,11 @@ permalink: /trip/hokkaido-2017
 <b>Locations visited:</b> Sapporo, Jozankei, Osaka (in no particular order)
 </blockquote>
 
-🚧 Page in progress - come back to visit later! 😉
+### Highlights
+
+- Waking up to a winter wonderland at Jozankei Resort
+
+<i>Page in progress</i>
 
 <style>
   .wrapper {
