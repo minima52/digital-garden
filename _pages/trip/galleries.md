@@ -6,19 +6,11 @@ permalink: /trip/galleries
 
 <b>Travel</b>
 
-<h1>Galleries</h1>
+<h1>Art Exhibitions</h1>
 
-### The Art Gallery of New South Wales
-
-- Henri Matisse (2022)
-
-### Museum of Contemporary Art
-
-- Do Ho Suh Exhibition (2022)
-
-### The Lume
-
-- Monet & Friends Exhibition (2022)
+- Henri Matisse, The Art Gallery of New South Wales (2022)
+- Do Ho Suh Exhibition, Museum of Contemporary Art (2022)
+- Monet & Friends Exhibition, The Lume (2022)
 
 
 <i>Page in progress</i>
