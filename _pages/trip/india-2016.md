@@ -4,7 +4,7 @@ title: india 2016
 permalink: /trip/india-2016
 ---
 
-<b>INDIA 2016</b>
+<h1>India, 2016</h1>
 
 <blockquote>
 <b>Purpose:</b> Work, Conference<br />
@@ -18,15 +18,9 @@ permalink: /trip/india-2016
 
 <br />
 
-<img src="/assets/2016-conference-001.jpg" alt="...">
+### Highlights
 
-<img src="/assets/2016-conference-002.jpg" alt="...">
-
-<img src="/assets/2016-conference-003.jpg" alt="...">
-
-<img src="/assets/2016-delhi-001.jpg" alt="...">
-
-<img src="/assets/2016-delhi-002.jpg" alt="...">
+- Going on a tiger safari at Ranthambore National Park
 
 
 🚧 Page in progress - come back to visit later! 😉
