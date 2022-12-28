@@ -9,9 +9,11 @@ permalink: /trip/galleries
 <h1>Art Exhibitions</h1>
 
 - Henri Matisse, The Art Gallery of New South Wales (2022)
-- Do Ho Suh Exhibition, Museum of Contemporary Art (2022)
+- ..., White Rabbit Gallery (2022)
 - Monet & Friends Exhibition, The Lume (2022)
-
+- Light by Tate, ACMI (2022)
+- Do Ho Suh Exhibition, Museum of Contemporary Art (2022)
+- Van Gogh Alive! (2022)
 
 <i>Page in progress</i>
 
