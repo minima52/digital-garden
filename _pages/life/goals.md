@@ -4,7 +4,7 @@ title: goals
 permalink: /life/goals
 ---
 
-<b>Life</b>
+<b>Personal</b>
 
 <h1>Goals</h1>
 

@@ -4,7 +4,7 @@ title: lessons
 permalink: /life/lessons
 ---
 
-<b>Life</b>
+<b>Personal</b>
 
 <h1>Lessons</h1>
 

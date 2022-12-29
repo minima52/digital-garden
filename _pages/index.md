@@ -14,7 +14,7 @@ permalink: /
 <ul>
 <li>[[About]]</li>
 <li>[[Meta]]</li>
-<li>[[Life]]</li>
+<li>[[Personal]]</li>
 <ul>
     <li>[[Now]]</li>
     <li>[[Values]]</li>

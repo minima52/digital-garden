@@ -4,7 +4,7 @@ title: values
 permalink: /life/values
 ---
 
-<b>Life</b>
+<b>Personal</b>
 
 <h1>Values</h1>
 
