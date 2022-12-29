@@ -21,6 +21,10 @@ permalink: /
     <li><a class="internal-link" href="/life/projects">Projects</a></li>
     <ul>
     <li><a class="internal-link" href="/projects/korean">Korean</a></li>
+    <li>[[Poetry]]</li>
+    <ul>
+    <li><a class="internal-link" href="/poem/fourteen-suns">Fourteen Suns & Moons Ago</a></li>
+    </ul>
     </ul>
     <li>[[Goals]]</li>
     <li>[[Review]]</li>
@@ -42,11 +46,6 @@ permalink: /
     <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
 </ul>  
 <li>[[Notes]]</li>
-<ul>
-    <li>[[Poetry]]</li>
-    <ul>
-    <li><a class="internal-link" href="/poem/fourteen-suns">Fourteen Suns & Moons Ago</a></li>
-    </ul>
 <li>[[Archive]]</li>
 </ul>  
 <li>[[Trackers]]</li>
