@@ -4,6 +4,8 @@ title: hokkaido 2017
 permalink: /trip/hokkaido-2017
 ---
 
+<b>Travel</b>
+
 <h1>Hokkaido, 2017</h1>
 
 <blockquote>

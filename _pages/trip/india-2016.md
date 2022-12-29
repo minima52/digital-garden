@@ -4,6 +4,8 @@ title: india 2016
 permalink: /trip/india-2016
 ---
 
+<b>Travel</b>
+
 <h1>India, 2016</h1>
 
 <blockquote>

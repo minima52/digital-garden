@@ -4,6 +4,8 @@ title: hong kong, s. korea & japan 2014
 permalink: /trip/east-asia-2014
 ---
 
+<b>Travel</b>
+
 <h1>Hong Kong, South Korea & Japan, 2014</h1>
 
 <blockquote>
