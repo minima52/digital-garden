@@ -1,7 +1,7 @@
 ---
 layout: page
 title: korean
-permalink: /korean
+permalink: /projects/korean
 ---
 
 <h1>Korean</h1>

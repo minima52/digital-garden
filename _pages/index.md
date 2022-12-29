@@ -20,7 +20,7 @@ permalink: /
     <li>[[Values]]</li>
     <li><a class="internal-link" href="/life/projects">Projects</a></li>
     <ul>
-    <li>[[Korean]]</li>
+    <li><a class="internal-link" href="/projects/korean">Korean</a></li>
     </ul>
     <li>[[Goals]]</li>
     <li><a class="internal-link" href="/life/lessons">Life Lessons</a></li>
