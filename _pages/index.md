@@ -7,7 +7,7 @@ permalink: /
 
 <h1>Start Here</h1>
 
-<p>Hi! I'm May. In an attempt to live a more "conscious" life, I created this website in the hopes of learning more about myself by documenting my life through a series of notes. Feel free to explore as you like by clicking on any link that interests you.</p>
+<p>Hi! I'm May. This website serves as a commonplace book or a personal wiki, containing notes on my past, present, and future. Feel free to explore as you like by clicking on any link that interests you.</p>
 
 <p>This website contains a total of <b>33</b> pages and <b>6</b> notes.</p>
 
