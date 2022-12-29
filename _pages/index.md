@@ -28,7 +28,6 @@ permalink: /
     <li><a class="internal-link" href="/year/2021">2021</a></li>
     <li><a class="internal-link" href="/year/2022">2022</a></li>
     </ul>
-    <li><a class="internal-link" href="/life/guidelines">Guidelines</a></li>
     <li><a class="internal-link" href="/life/lessons">Life Lessons</a></li>
 </ul>
 <li>[[Workflow]]</li>

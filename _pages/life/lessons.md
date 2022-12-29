@@ -10,19 +10,25 @@ A reminder to myself of the lessons I have learned in life.
 
 <br />
 
-### Emotional Intelligence
+### Lifehacks
 
-- When someone says no, it does not mean they are rejecting you. It just means something is not acceptable for them.
+- If there is a trial version, give the product a try first before you buy.
 
 ### Health
 
 - Meditate or journal after waking for clarity and a sense of calmness.
+
+### Emotional Intelligence
+
+- When someone says no, it does not mean they are rejecting you. It just means something is not acceptable for them.
 
 ### Learning
 
 - Never underestimate the usefulness of a public library. 
 
 ### Productivity
+
+- Working harder is not going to create more and better results. Work smarter by maximising efficiency.
 
 ### Relationships
 
