@@ -49,7 +49,7 @@ A reminder to myself of the lessons I have learned in life.
 <br />
 <br />
 
-<hr>
+
 
 <b>FOOTNOTES</b>
 
