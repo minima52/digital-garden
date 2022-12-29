@@ -24,7 +24,7 @@ A reminder to myself of the lessons I have learned in life.
 
 ### Emotional Intelligence
 
-- When someone says no, it does not mean they are rejecting you. It just means something is not acceptable for them.
+- When someone says no, it does not mean they are rejecting you. It just means something is not acceptable for them.[^1]
 
 <br />
 
@@ -44,6 +44,8 @@ A reminder to myself of the lessons I have learned in life.
 ### Relationships
 
 <i>Page in progress</i>
+
+[^1]: <i>Emotional Intelligence</i> by Avery Wright
 
 <style>
   .wrapper {
