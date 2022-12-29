@@ -18,6 +18,10 @@ permalink: /
 <ul>
     <li>[[Now]]</li>
     <li>[[Values]]</li>
+    <li><a class="internal-link" href="/life/projects">Projects</a></li>
+    <ul>
+    <li>[[Korean]]</li>
+    </ul>
     <li>[[Goals]]</li>
     <li>[[Actionables]]</li>
     <li><a class="internal-link" href="/life/lessons">Life Lessons</a></li>
@@ -62,10 +66,9 @@ permalink: /
     <ul>
     <li><a class="internal-link" href="/movies/movie-list">Favourite Movies</a></li>
     </ul>
-<li><a class="internal-link" href="/life/projects">Projects</a></li>
+<li>[[Learning]]</li>
 <ul>
 <li>[[Korean]]</li>
-<li>[[Personal Website]]</li>
 </ul>
 <li>[[Travels]]</li>
 <ul>
