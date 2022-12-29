@@ -47,6 +47,8 @@ A reminder to myself of the lessons I have learned in life.
 
 <hr>
 
+### Footer
+
 [^1]: Book: <i>Emotional Intelligence</i> by Avery Wright
 
 <style>
