@@ -31,6 +31,7 @@ A reminder to myself of the lessons I have learned in life.
 ### Learning
 
 - Never underestimate the usefulness of a public library. 
+- Use dead time (e.g. work commutes, waiting for public transport) to listen to podcast or read a book. Minimise scrolling mindlessly on social media.
 
 <br />
 
