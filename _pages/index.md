@@ -62,9 +62,10 @@ permalink: /
     <ul>
     <li><a class="internal-link" href="/movies/movie-list">Favourite Movies</a></li>
     </ul>
-<li>[[Learning]]</li>
+<li><a class="internal-link" href="/life/projects">Projects</a></li>
 <ul>
 <li>[[Korean]]</li>
+<li>[[Personal Website]]</li>
 </ul>
 <li>[[Travels]]</li>
 <ul>
