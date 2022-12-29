@@ -14,8 +14,8 @@ permalink: /trip/exhibitions
 - Monet & Friends Exhibition, The Lume (2022)
 - Light by Tate, ACMI (2022)
 - Do Ho Suh Exhibition, Museum of Contemporary Art (2022)
-- See LV (Louis Vuitton), First Fleet Park (2022)
-- Van Gogh Alive Sydney, The Entertainment Quarter (2022)
+- See LV (Louis Vuitton) Sydney (2022)
+- Van Gogh Alive Sydney (2022)
 
 <style>
   .wrapper {
