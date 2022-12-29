@@ -51,9 +51,9 @@ permalink: /
 </ul>  
 <li>[[Trackers]]</li>
     <ul>
-    <li><a class="internal-link" href="/books/book-list">Book List</a></li>
+    <li><a class="internal-link" href="/trackers/book-list">Book List</a></li>
     <ul>
-    <li><a class="internal-link" href="/books/anti-library">Anti-Library</a></li>
+    <li><a class="internal-link" href="/trackers/anti-library">Anti-Library</a></li>
     </ul>
     <li>[[Listening|Music Playlist]]</li>
     <li><a class="internal-link" href="/trackers/movie-list">Movie List</a></li>
