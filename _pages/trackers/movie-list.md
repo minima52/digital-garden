@@ -1,7 +1,7 @@
 ---
 layout: page
 title: favourite movies
-permalink: /movies/movie-list
+permalink: /trackers/movie-list
 ---
 
 <h1>Movie List</h1>
