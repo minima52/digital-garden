@@ -22,6 +22,18 @@ permalink: /trip/unesco
 - Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar
 - Jaipur City, Rajasthan
 
+### Japan
+
+...
+
+### Macau
+
+- Historic Centre of Macao
+
+### S. Korea
+
+- Changdeokgung Palace Complex
+
 <i>Page in progress</i>
 
 <style>
