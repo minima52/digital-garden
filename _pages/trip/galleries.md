@@ -1,7 +1,7 @@
 ---
 layout: page
-title: galleries
-permalink: /trip/galleries
+title: exhibitions
+permalink: /trip/exhibitions
 ---
 
 <b>Travel</b>
@@ -16,8 +16,6 @@ permalink: /trip/galleries
 - Do Ho Suh Exhibition, Museum of Contemporary Art (2022)
 - See LV (Louis Vuitton), First Fleet Park (2022)
 - Van Gogh Alive Sydney, The Entertainment Quarter (2022)
-
-<i>Page in progress</i>
 
 <style>
   .wrapper {
