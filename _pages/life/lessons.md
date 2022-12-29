@@ -45,6 +45,8 @@ A reminder to myself of the lessons I have learned in life.
 
 <i>Page in progress</i>
 
+<hr>
+
 [^1]: Book: <i>Emotional Intelligence</i> by Avery Wright
 
 <style>
