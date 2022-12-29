@@ -7,7 +7,7 @@ permalink: /
 
 <h1>Start Here</h1>
 
-<p>Hi! I'm May. You've stumbled upon a collection of notes that contain everything from musings, streams of consciousness to thoughts that have been incubating in my mind for awhile. Feel free to explore as you like by clicking on any link that interests you.</p>
+<p>Hi! I'm May. This website serves as a public learning space where the things I document about myself helps facilitate learning and personal growth. Feel free to explore as you like by clicking on any link that interests you.</p>
 
 <p>This website contains a total of <b>33</b> pages and <b>6</b> notes.</p>
 
