@@ -1,15 +1,15 @@
 ---
 layout: page
-title: all-time favourites
-permalink: /movies/all-time
+title: favourite movies
+permalink: /movies/movie-list
 ---
 
-<b>ALL-TIME FAVOURITES</b>
+<h1>Movie List</h1>
 
 - The Grand Budapest Hotel (2014) Wes Anderson, USA
 
 
-🚧 Page in progress - come back to visit later! 😉
+<i>Page in progress</i>
 
 <style>
   .wrapper {
