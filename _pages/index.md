@@ -30,7 +30,7 @@ permalink: /
     <li><a class="internal-link" href="/poem/fourteen-suns">Fourteen Suns & Moons Ago</a></li>
     </ul>
     </ul>
-    <li>[[Goals]]</li>
+    <li><a class="internal-link" href="/life/goals">Goals</a></li>
     <li>[[Review]]</li>
     <ul>
     <li><a class="internal-link" href="/year/2021">2021</a></li>
@@ -63,7 +63,7 @@ permalink: /
     <li><a class="internal-link" href="/trackers/movie-list">Movie List</a></li>
     <li>[[Travels]]</li>
     <ul>
-    <li><a class="internal-link" href="/trip/east-asia-2014">Hong Kong, S. Korea & Hong Kong, 2014</a></li>
+    <li><a class="internal-link" href="/trip/east-asia-2014">Hong Kong, S. Korea & Japan, 2014</a></li>
     <li><a class="internal-link" href="/trip/india-2016">India, 2016</a></li>
     <li><a class="internal-link" href="/trip/hokkaido-2017">Hokkaido, 2017</a></li>
     <li><a class="internal-link" href="/trip/india-2017">India, 2017</a></li>
