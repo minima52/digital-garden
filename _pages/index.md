@@ -7,7 +7,7 @@ permalink: /
 
 <h1>Start Here</h1>
 
-<p>Hi! I'm May. This is my attempt at documenting my life through a series of notes. Feel free to explore as you like by clicking on any link that interests you.</p>
+<p>Hi! I'm May. This is my attempt at documenting my life through a series of notes, similar to a <a href="https://en.wikipedia.org/wiki/Commonplace_book">commonplace book</a> or a personal wiki. Feel free to explore as you like by clicking on any link that interests you.</p>
 
 <p>This website contains a total of <b>33</b> pages and <b>6</b> notes.</p>
 
