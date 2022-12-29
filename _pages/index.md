@@ -51,8 +51,7 @@ permalink: /
 </ul>  
 <li>[[Trackers]]</li>
     <ul>
-    <li><a class="internal-link" href="/books/2021-books">2021 Book List</a></li>
-    <li><a class="internal-link" href="/books/2022-books">2022 Book List</a></li>
+    <li><a class="internal-link" href="/books/book-list">Book List</a></li>
     <li><a class="internal-link" href="/books/anti-library">Anti-Library</a></li>
     <li>[[Listening|Music Playlist]]</li>
     <li><a class="internal-link" href="/movies/movie-list">Movie List</a></li>
