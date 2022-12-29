@@ -4,6 +4,8 @@ title: projects
 permalink: /life/projects
 ---
 
+<b>Life</b>
+
 <h1>Projects</h1>
 
 ...

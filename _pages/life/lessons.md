@@ -4,6 +4,8 @@ title: lessons
 permalink: /life/lessons
 ---
 
+<b>Life</b>
+
 <h1>Lessons</h1>
 
 A reminder to myself of the lessons I have learned in life.

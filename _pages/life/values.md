@@ -4,6 +4,8 @@ title: values
 permalink: /life/values
 ---
 
+<b>Life</b>
+
 <h1>Values</h1>
 
 ### Life
