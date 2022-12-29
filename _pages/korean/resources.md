@@ -1,10 +1,10 @@
 ---
 layout: page
-title: learning log
-permalink: /korean/log
+title: resources
+permalink: /korean/resources
 ---
 
-<h1>Learning Log</h1>
+<h1>Resources</h1>
 
 <i>Page in progress</i>
 

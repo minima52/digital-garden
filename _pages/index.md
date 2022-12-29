@@ -22,7 +22,8 @@ permalink: /
     <ul>
     <li><a class="internal-link" href="/projects/korean">Korean</a></li>
     <ul>
-    <li><a class="internal-link" href="/korean/log">Language Log</a></li>
+    <li><a class="internal-link" href="/korean/log">Learning Log</a></li>
+    <li><a class="internal-link" href="/korean/resources">Resources</a></li>
     </ul>
     <li>[[Poetry]]</li>
     <ul>
