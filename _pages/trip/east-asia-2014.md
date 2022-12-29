@@ -19,10 +19,18 @@ permalink: /trip/east-asia-2014
 
 ### Highlights
 
+Hong Kong:<br />
+
+South Korea: <br />
+
 - Cycling along the Han River with friends
 - Strolling through Cheonggyecheon
 - Having traditional Korean tea at Shin Old Tea House in Insadong
+
+Japan:<br />
+
 - Walking up the steps at Fushimi Inari shrine
+- 
 
 
 <style>
