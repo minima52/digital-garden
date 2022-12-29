@@ -55,7 +55,7 @@ permalink: /
     <ul>
     <li><a class="internal-link" href="/trackers/anti-library">Anti-Library</a></li>
     </ul>
-    <li>[[Listening|Music Playlist]]</li>
+    <li><a class="internal-link" href="/trackers/music-list">Music List</a></li>
     <li><a class="internal-link" href="/trackers/movie-list">Movie List</a></li>
     <li>[[Travels]]</li>
     <ul>

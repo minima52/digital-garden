@@ -1,10 +1,10 @@
 ---
 layout: page
-title: listening
-permalink: /listening
+title: music list
+permalink: /trackers/music-list
 ---
 
-<h1>Listening</h1>
+<h1>Music List</h1>
 
 Here are some of my favourite tracks organised by year. The tracks noted below are not necessarily released in that respective year; there are some tracks that are released a few years back and some released even decades ago. The basis of these tracks is that they have resonated with me so much so that I have replayed them more times than I can count.
 
