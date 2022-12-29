@@ -26,6 +26,7 @@ permalink: /
     <li><a class="internal-link" href="/korean/resources">Resources</a></li>
     </ul>
     <li>[[Poetry]]</li>
+    </ul>
     <li><a class="internal-link" href="/life/goals">Goals</a></li>
     <li>[[Review]]</li>
     <ul>
