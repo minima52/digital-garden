@@ -42,6 +42,7 @@ permalink: /
     <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
 </ul>  
 <li>[[Notes]]</li>
+<ul>
     <li>[[Poetry]]</li>
     <ul>
     <li><a class="internal-link" href="/poem/fourteen-suns">Fourteen Suns & Moons Ago</a></li>
