@@ -4,7 +4,9 @@ title: daily routine
 permalink: /routine/daily
 ---
 
-<h1>Daily Routine</h1>
+<b>Routines</b>
+
+<h1>Daily</h1>
 
 My weekdays are spent commuting to & from work. My line of work requires me to stick to an assigned roster so the time I need to be in the office varies from day to day - 8:00, 9:00 or 10:00. This means I need to adjust my routine slightly to account for the difference in time going to/from the office. 
 

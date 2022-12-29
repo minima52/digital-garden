@@ -4,7 +4,9 @@ title: skincare routine
 permalink: /routine/skincare
 ---
 
-<h1>Skincare Routine</h1>
+<b>Routines</b>
+
+<h1>Skincare</h1>
 
 I am in my 30s, and it's important that I maintain a regular skincare routine day and night as I wish to age well. My skin type is dry/sensitive with a bit of redness around my t-zone. My goal is to have healthy looking skin that's firm, hydrated, and free of visible signs of aging. 
 
