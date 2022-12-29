@@ -49,7 +49,7 @@ A list of books I have read. <br/>
 -   _Steal Like an Artist_ by Austin Kleon <i class="fa-solid fa-heart"></i>
 -   _The Bullet Journal Method_ by Ryder Carroll
 
-Visit my <a href="https://www.goodreads.com/user/show/24607110-may">Goodreads</a> <i class="fa-solid fa-square-arrow-up-right"></i> account for a full collection of books I’ve read to date.
+Visit my <a href="https://www.goodreads.com/user/show/24607110-may">Goodreads</a> account for a full collection of books I’ve read to date.
 
 
 <style>
