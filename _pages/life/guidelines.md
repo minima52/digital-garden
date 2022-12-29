@@ -1,10 +1,10 @@
 ---
 layout: page
-title: modus operandi
-permalink: /life/modus-operandi
+title: guidelines
+permalink: /life/guidelines
 ---
 
-<h1>Modus Operandi</h1>
+<h1>Guidelines</h1>
 
 ### Goods & Services
 
