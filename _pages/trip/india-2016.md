@@ -20,6 +20,8 @@ permalink: /trip/india-2016
 
 ### Highlights
 
+- Observing a ritual on one of the ghats in Varanasi
+- Meditating with hundreds at Mahabodhi Temple (UNESCO Heritage Site)
 - Going on a tiger safari at Ranthambore National Park
 
 
