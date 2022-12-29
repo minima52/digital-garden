@@ -46,6 +46,7 @@ permalink: /
     <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
 </ul>  
 <li>[[Notes]]</li>
+<ul>
 <li>[[Archive]]</li>
 </ul>  
 <li>[[Trackers]]</li>
