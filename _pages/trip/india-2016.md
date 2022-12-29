@@ -20,6 +20,7 @@ permalink: /trip/india-2016
 
 ### Highlights
 
+- Seeing Ani Choying Drolma sing at the International Buddhist Conference 2016
 - Observing a ritual on one of the ghats in Varanasi
 - Meditating with hundreds at Mahabodhi Temple (UNESCO Heritage Site)
 - Going on a tiger safari at Ranthambore National Park
