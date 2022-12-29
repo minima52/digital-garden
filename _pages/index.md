@@ -23,7 +23,6 @@ permalink: /
     <li>[[Korean]]</li>
     </ul>
     <li>[[Goals]]</li>
-    <li>[[Actionables]]</li>
     <li><a class="internal-link" href="/life/lessons">Life Lessons</a></li>
 </ul>
 <li>[[Workflow]]</li>
