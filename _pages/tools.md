@@ -4,6 +4,8 @@ title: tools
 permalink: /tools
 ---
 
+<b>Workflow</b>
+
 <h1>Tech Setup</h1>
 
 ## Computer Setup

@@ -4,6 +4,8 @@ title: apps
 permalink: /apps
 ---
 
+<b>Workflow</b>
+
 <h1>Apps</h1>
 
 ## MacOS (iMac 24″)
