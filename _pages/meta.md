@@ -32,7 +32,7 @@ This website serves as public learning space for me to learn more about myself, 
             <!-- The description -->
             <div class="timeline__desc">
             <ul>
-            <li>Registered this website with <a href="https://www.dreamhost.com/">Dreamhost</a></li>
+            <li>Registered this website with <a href="https://www.dreamhost.com/">Dreamhost</a> <i class="fa-solid fa-square-arrow-up-right"></i></li>
             <li>Tried Wordpress to build digital repository - too much work!</li>
             </ul>
             </div>
@@ -55,8 +55,8 @@ This website serves as public learning space for me to learn more about myself, 
             <div class="timeline__desc">
             <ul>
             <li>Got inspired again!</li>
-            <li>Revisited Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a></li>
-            <li>Tinkered with <a href="https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll">Jekyll digital garden template</a></li>
+            <li>Revisited Ness Lab's article on <a href="https://nesslabs.com/digital-garden-set-up">How to Set Up a Digital Garden</a> <i class="fa-solid fa-square-arrow-up-right"></i></li>
+            <li>Tinkered with <a href="https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll">Jekyll digital garden template</a> <i class="fa-solid fa-square-arrow-up-right"></i></li>
             <li>Website up and running - yay!</li>
             </ul>
             </div>
@@ -90,21 +90,22 @@ The website is made up individual `.md` files that sit locally in my computer as
 
 I was able to install the template and get the website up and running with the help of the following walkthroughs:  
 
-- [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) by Maxime Vaillancourt
-- [Obsidian Jekyll workflow](https://refinedmind.co/obsidian-jekyll-workflow) by Mike Tannenbaum (used Visual Studio Code instead of Atom)
+- [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) <i class="fa-solid fa-square-arrow-up-right"></i> by Maxime Vaillancourt
+- [Obsidian Jekyll workflow](https://refinedmind.co/obsidian-jekyll-workflow) <i class="fa-solid fa-square-arrow-up-right"></i> by Mike Tannenbaum (used Visual Studio Code instead of Atom)
 
 ### Resources
 
-- Jekyll template: [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt
-- Programming language: [Ruby](https://www.ruby-lang.org/en/) 
-- Package management framework: [Ruby on Gems](https://rubygems.org/)
-- Revision control: [Git](https://git-scm.com/downloads)
-- Website storage: [Github](https://github.com/)
-- Website deployment: [Netlify](https://www.netlify.com/?utm_medium=paid_search&utm_source=google&utm_campaign=12755510784&utm_term=netlify%20hosting)
-- Website hosting and Domain Name Registration: [Dreamhost](https://www.dreamhost.com/)
-- Code editor: [Visual Studio Code](https://code.visualstudio.com/) 
-- Note-taking program: [Obsidian](https://obsidian.md/)
+- Jekyll template: [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) <i class="fa-solid fa-square-arrow-up-right"></i> by Maxime Vaillancourt
+- Programming language: [Ruby](https://www.ruby-lang.org/en/) <i class="fa-solid fa-square-arrow-up-right"></i>
+- Package management framework: [Ruby on Gems](https://rubygems.org/) <i class="fa-solid fa-square-arrow-up-right"></i>
+- Revision control: [Git](https://git-scm.com/downloads) <i class="fa-solid fa-square-arrow-up-right"></i>
+- Website storage: [Github](https://github.com/) <i class="fa-solid fa-square-arrow-up-right"></i>
+- Website deployment: [Netlify](https://www.netlify.com/?utm_medium=paid_search&utm_source=google&utm_campaign=12755510784&utm_term=netlify%20hosting) <i class="fa-solid fa-square-arrow-up-right"></i>
+- Website hosting and Domain Name Registration: [Dreamhost](https://www.dreamhost.com/) <i class="fa-solid fa-square-arrow-up-right"></i>
+- Code editor: [Visual Studio Code](https://code.visualstudio.com/) <i class="fa-solid fa-square-arrow-up-right"></i>
+- Note-taking program: [Obsidian](https://obsidian.md/) <i class="fa-solid fa-square-arrow-up-right"></i>
 - Formatting: Markdown, HTML and CSS
+- Icons: [Font Awesome](https://fontawesome.com/) <i class="fa-solid fa-square-arrow-up-right"></i>
 
 ### Thanks
 
