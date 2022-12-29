@@ -50,22 +50,21 @@ permalink: /
 <li>[[Archive]]</li>
 </ul>  
 <li>[[Trackers]]</li>
-
+    <ul>
     <li><a class="internal-link" href="/books/2021-books">2021 Book List</a></li>
     <li><a class="internal-link" href="/books/2022-books">2022 Book List</a></li>
     <li><a class="internal-link" href="/books/anti-library">Anti-Library</a></li>
-
-<li>[[Listening|Music Playlist]]</li>
-<li><a class="internal-link" href="/movies/movie-list">Movie List</a></li>
-<li>[[Travels]]</li>
-<ul>
+    <li>[[Listening|Music Playlist]]</li>
+    <li><a class="internal-link" href="/movies/movie-list">Movie List</a></li>
+    <li>[[Travels]]</li>
+    <ul>
     <li><a class="internal-link" href="/trip/east-asia-2014">Hong Kong, S. Korea & Hong Kong, 2014</a></li>
     <li><a class="internal-link" href="/trip/india-2016">India, 2016</a></li>
     <li><a class="internal-link" href="/trip/hokkaido-2017">Hokkaido, 2017</a></li>
     <li><a class="internal-link" href="/trip/india-2017">India, 2017</a></li>
     <li><a class="internal-link" href="/trip/unesco">UNESCO World Heritage Sites</a></li>
     <li><a class="internal-link" href="/trip/exhibitions">Art & Fashion Exhibitions</a></li>
-</ul>
+    </ul>
 </ul>
 <li>[[Collection]]</li>
 <ul>
