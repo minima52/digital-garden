@@ -8,7 +8,7 @@ permalink: /poetry
 
 A small selection of poetry I have written through the years.
 
-- [[fourteen-suns|fourteen suns & moons ago]]
+- [[fourteen-suns|Fourteen Suns & Moons Ago]]
 
 
 <style>
