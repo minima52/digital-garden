@@ -4,6 +4,8 @@ title: book list
 permalink: /trackers/book-list
 ---
 
+<b>Trackers</b>
+
 <h1>Book List</h1>
 
 A list of books I have read.
