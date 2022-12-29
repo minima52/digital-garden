@@ -66,10 +66,6 @@ permalink: /
     <ul>
     <li><a class="internal-link" href="/movies/movie-list">Favourite Movies</a></li>
     </ul>
-<li>[[Learning]]</li>
-<ul>
-<li>[[Korean]]</li>
-</ul>
 <li>[[Travels]]</li>
 <ul>
     <li><a class="internal-link" href="/trip/east-asia-2014">Hong Kong, S. Korea & Hong Kong, 2014</a></li>
