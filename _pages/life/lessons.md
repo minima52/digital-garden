@@ -46,6 +46,9 @@ A reminder to myself of the lessons I have learned in life.
 
 <i>Page in progress</i>
 
+<br />
+<br />
+
 <hr>
 
 <b>FOOTNOTES</b>
