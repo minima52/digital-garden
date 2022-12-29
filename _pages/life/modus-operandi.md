@@ -6,7 +6,9 @@ permalink: /life/modus-operandi
 
 <h1>Modus Operandi</h1>
 
-...
+### Goods & Services
+
+- If there is a trial version, give the product a try first before you buy.
 
 <i>Page in progress</i>
 
