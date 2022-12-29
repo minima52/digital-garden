@@ -68,7 +68,7 @@ permalink: /
 </ul>
 <li>[[Travels]]</li>
 <ul>
-    <li><a class="internal-link" href="/trip/east-asia-2014">East Asia, 2014</a></li>
+    <li><a class="internal-link" href="/trip/east-asia-2014">Hong Kong, S. Korea & Hong Kong, 2014</a></li>
     <li><a class="internal-link" href="/trip/india-2016">India, 2016</a></li>
     <li><a class="internal-link" href="/trip/hokkaido-2017">Hokkaido, 2017</a></li>
     <li><a class="internal-link" href="/trip/india-2017">India, 2017</a></li>
