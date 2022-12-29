@@ -23,6 +23,11 @@ permalink: /
     <li><a class="internal-link" href="/projects/korean">Korean</a></li>
     </ul>
     <li>[[Goals]]</li>
+    <li>[[Review]]</li>
+    <ul>
+    <li><a class="internal-link" href="/year/2021">2021</a></li>
+    <li><a class="internal-link" href="/year/2022">2022</a></li>
+    </ul>
     <li><a class="internal-link" href="/life/lessons">Life Lessons</a></li>
 </ul>
 <li>[[Workflow]]</li>
@@ -37,12 +42,6 @@ permalink: /
     <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
 </ul>  
 <li>[[Notes]]</li>
-<ul>
-    <li>[[Review]]</li>
-    <ul>
-    <li><a class="internal-link" href="/year/2021">2021</a></li>
-    <li><a class="internal-link" href="/year/2022">2022</a></li>
-    </ul>
     <li>[[Poetry]]</li>
     <ul>
     <li><a class="internal-link" href="/poem/fourteen-suns">Fourteen Suns & Moons Ago</a></li>
