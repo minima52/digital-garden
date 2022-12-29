@@ -29,6 +29,8 @@ A list of books I have read.
 - *Say What You Mean* by Oren Jay Sofer ●
 - *MindWorks* by Gary van Warmerdam ●
 
+<br />
+
 ### 2021 Reading List
 
 ● = Personal recommendation
