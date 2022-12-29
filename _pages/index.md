@@ -21,6 +21,9 @@ permalink: /
     <li><a class="internal-link" href="/life/projects">Projects</a></li>
     <ul>
     <li><a class="internal-link" href="/projects/korean">Korean</a></li>
+    <ul>
+    <li><a class="internal-link" href="/korean/log">Language Log</a></li>
+    </ul>
     <li>[[Poetry]]</li>
     <ul>
     <li><a class="internal-link" href="/poem/fourteen-suns">Fourteen Suns & Moons Ago</a></li>
