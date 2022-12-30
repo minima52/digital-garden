@@ -4,7 +4,7 @@ layout: default
 
 <article>
   <div>
-    {{ page.title }}
+    <h2>{{ page.title }}</h2>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       <small>Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }} · {% include read_time.html %} 
 
