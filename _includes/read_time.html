@@ -1,10 +1,9 @@
-<script>
+{% capture read_time %}
+  {{ page.content | number_of_words | divided_by: 180 }}
+{% endcapture %}
 
-{% raw %}
-{% if words < 360 %}
-  1 min
+{% if read_time != '0' %}
+  {{ read_time }}
 {% else %}
-  {{ words | divided_by:180 }} mins
-{% endif %}{% endraw %}
-
-</script>
+  1
+{% endif %} min read
