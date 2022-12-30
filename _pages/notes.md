@@ -20,7 +20,7 @@ This collection contains a total of <b>6</b> notes.
 
 [[The Power of Immersion]] <br />
 [[Growing my Ideas]] <br />
-[[Nothing is Priginal]] <br />
+[[Nothing is Original]] <br />
 [[Memories of an ARMY]] <br />
 [[Staycation]] <br />
 [[Strange Familiarity]]
