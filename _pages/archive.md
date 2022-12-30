@@ -14,18 +14,8 @@ An archive of all the notes in my digital garden sorted by date last modified.
 {% endfor %}
 </ul>
 
-<h2>All tags</h2>
-{% capture temptags %}
-  {% for tag in site.tags %}
-    {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
-{% for temptag in sortedtemptags %}
-  {% assign tagitems = temptag | split: '#' %}
-  {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  <a href="/tag/{{ page.tag }}"><code class="highligher-rouge" style="color:#969595;border-color:hsla(0, 0%, 59%,0.6)"><nobr>{{ page.tag }}</nobr></code></a>
-{% endfor %}
+<h2>All Tags</h2>
+{{ site.tags.korean | size }}
 
 
 <style>
