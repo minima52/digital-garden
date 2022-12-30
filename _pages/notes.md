@@ -16,13 +16,13 @@ This collection contains a total of <b>6</b> notes.
 
 <br />
 
-### Posts
+## Posts
 
-[[The power of immersion]]
-[[Growing my ideas]]
-[[Nothing is original]]
-[[Memories of an ARMY]]
-[[Staycation]] 
+[[The power of immersion]] <br />
+[[Growing my ideas]] <br />
+[[Nothing is original]] <br />
+[[Memories of an ARMY]] <br />
+[[Staycation]] <br />
 [[Strange Familiarity]]
 
 <style>
