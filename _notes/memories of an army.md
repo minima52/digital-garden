@@ -1,4 +1,5 @@
 ---
+layout: note
 title: Memories of an ARMY
 ---
 

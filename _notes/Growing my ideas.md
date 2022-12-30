@@ -1,4 +1,5 @@
 ---
+layout: note
 title: Growing my ideas
 ---
 

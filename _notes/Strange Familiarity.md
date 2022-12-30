@@ -1,4 +1,5 @@
 ---
+layout: note
 title: Strange Familiarity
 ---
 
