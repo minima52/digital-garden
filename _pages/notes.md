@@ -18,9 +18,9 @@ This collection contains a total of <b>6</b> notes.
 
 ## Posts
 
-[[The power of immersion]] <br />
-[[Growing my ideas]] <br />
-[[Nothing is original]] <br />
+[[The Power of Immersion]] <br />
+[[Growing my Ideas]] <br />
+[[Nothing is Priginal]] <br />
 [[Memories of an ARMY]] <br />
 [[Staycation]] <br />
 [[Strange Familiarity]]
