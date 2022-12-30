@@ -6,7 +6,7 @@ layout: default
   <div>
     <span class="uppercase">{{ page.title }}</span>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}<br />
       {% include read_time.html %}
       {% endif %}
     </time>
