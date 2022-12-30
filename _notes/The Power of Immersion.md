@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: note
 title: The Power of Immersion
 tags: languages
 ---
