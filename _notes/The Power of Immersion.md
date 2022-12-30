@@ -1,6 +1,6 @@
 ---
 title: The Power of Immersion
-category: languages
+categories: languages
 ---
 
 <span class="read-time" title="Estimated read time">
