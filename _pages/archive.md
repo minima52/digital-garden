@@ -15,7 +15,7 @@ An archive of all the notes in my digital garden sorted by date last modified.
 </ul>
 
 <h2>All Tags</h2>
-{{ site.tags.korean | size }}
+{{ site.tags.immersion | size }}
 
 
 <style>
