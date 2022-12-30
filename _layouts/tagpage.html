@@ -5,8 +5,7 @@ layout: default
 
 <h1>Tag: {{ page.tag }}</h1>
 <ul>
-{% for note in site.notes %}
-  <li><a href="{{ note.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{note.title}}</a>
-  </li>
+{% for post in site.tags[page.tag] %}
+  <li><a href="{{ note.url }}">{{ note.title }}</a></li>
 {% endfor %}
 </ul>
