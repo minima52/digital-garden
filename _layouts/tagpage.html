@@ -3,19 +3,13 @@ layout: default
 ---
 
 
-  <h1 class="tag-title">Tag: {{ page.tag }}</h1>
-  <ul>
-  {% for post in site.tags[page.tag] %}
-    {% if post.lang %}
-    <li lang="{{post.lang}}">
-    {% else %}
-    <li>
-    {% endif %}
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
- 
+<h1>Tag: {{ page.tag }}</h1>
+<ul>
+{% for post in site.tags[page.tag] %}
+  <li><a href="{{ page.url }}">{{ page.title }}</a> 
+  </li>
+{% endfor %}
+</ul>
   
   <hr>
   
