@@ -3,15 +3,9 @@ title: The Power of Immersion
 categories: languages
 ---
 
-<style>
-    svg#i-clock {vertical-align: middle;}
-</style>
-
-Estimated read time:       
-
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
-    1 min read.
+    1 min read time
   {% else %}
     {{ words | divided_by:180 }} mins read.
   {% endif %}
