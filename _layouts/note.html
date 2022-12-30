@@ -6,7 +6,7 @@ layout: default
   <div>
     {{ page.title }}
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }} ★ {% include read_time.html %}
       {% endif %}
     </time>
   </div>
@@ -25,7 +25,6 @@ layout: default
 
   <div id="notes-entry-container">
     <content>
-      {% include read_time.html %}
       {{ content }}
     </content>
 
