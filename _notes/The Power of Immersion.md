@@ -3,6 +3,21 @@ title: The Power of Immersion
 category: languages
 ---
 
+<span class="read-time" title="Estimated read time">
+  <svg id="i-clock" viewBox="0 0 32 32" width="20" height="20" fill="none" stroke="currentcolor" stroke-linecap="round" 
+  stroke-linejoin="round" stroke-width="2"><circle cx="16" cy="16" r="14" /><path d="M16 8 L16 16 20 20" /></svg>       
+
+  {% assign words = content | number_of_words %}
+  {% if words < 360 %}
+    1 min read.
+  {% else %}
+    {{ words | divided_by:180 }} mins read.
+  {% endif %}
+</span>
+<style>
+    svg#i-clock {vertical-align: middle;}
+</style>
+
 It’s been 1.5 years since I started self-studying Korean, and I’m surprised how many vocabulary and grammar points I already know. I think this has to do with having some prior exposure to the language, which I’d gained from listening to Korean music and watching Korean dramas for many number of years.
 
 As a university student, I enjoyed listening to Korean pop music, such as ballads, hip hop, and bubblegum pop. I remember not being able to understand much Korean back then, so I struggled when it came to navigating song titles that was only written in 한굴 (_Hangeul_). _Hangeul_ is the official writing script in Korea created by King Sejong the Great in 1443. For most learners, it’s the first and crucial stepping stone into learning and understanding the language. My main problem was that I found it difficult distinguishing between song titles and remembering which songs I liked on an album. What I ended doing instead was by referring to each song by a generic track number, such as ‘Track 3’ or ‘Track 9’ instead of the actual title. In hindsight, I think I did the artist a disservice to their song(s), and that didn’t sit well with me.
