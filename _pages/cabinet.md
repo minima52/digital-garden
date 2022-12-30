@@ -7,7 +7,7 @@ permalink: /cabinet
 
 <h1>Cabinet</h1>
 
-🚧 Page in progress - come back to visit later! 😉
+<i>Page in progress</i>
 
 <style>
   .wrapper {
