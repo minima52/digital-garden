@@ -48,7 +48,7 @@ permalink: /
 </ul>  
 <li>[[Notes]]</li>
 <ul>
-<li>[[Categories]]</li>
+<li>[[Tags]]</li>
 <li>[[Archive]]</li>
 </ul>  
 <li>[[Trackers]]</li>

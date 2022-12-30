@@ -14,7 +14,7 @@ An archive of all the notes in my digital garden sorted by date last modified.
 {% endfor %}
 </ul>
 
-
+<h1>Tag Cloud</h1>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
  <span class="site-tag">
