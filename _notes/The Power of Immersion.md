@@ -3,12 +3,11 @@ title: The Power of Immersion
 tags: languages
 ---
 
-<span>
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}">{{ tag_name }}&nbsp;</a>
+    <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>
   {% endfor %}
-</span>
+
 
 It’s been 1.5 years since I started self-studying Korean, and I’m surprised how many vocabulary and grammar points I already know. I think this has to do with having some prior exposure to the language, which I’d gained from listening to Korean music and watching Korean dramas for many number of years.
 
