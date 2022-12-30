@@ -12,8 +12,7 @@ categories: languages
     1 min read.
   {% else %}
     {{ words | divided_by:180 }} mins read.
-  {% endif %}
-</span>
+  {% endif %}</span>
 <style>
     svg#i-clock {vertical-align: middle;}
 </style>
