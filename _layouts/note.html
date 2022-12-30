@@ -4,11 +4,23 @@ layout: default
 
 <article>
   <div>
-    <span class="uppercase">{{ page.title }}</span>
+    {{ page.title }}
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
       Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
+  </div>
+
+  <div class="post-categories">
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
   </div>
 
   <div id="notes-entry-container">
