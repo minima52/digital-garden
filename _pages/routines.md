@@ -8,7 +8,7 @@ permalink: /routines
 
 <h1>Routines</h1>
 
-🚧 Page in progress - come back to visit later! 😉
+<i>Page in progress</i>
 
 <style>
   .wrapper {
