@@ -6,6 +6,6 @@ title: categories
 
 <h1>Categories</h1>
 
-{% for post in site.categories.languages %}
+{% for page in site.categories.languages %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
