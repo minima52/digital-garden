@@ -6,7 +6,7 @@ layout: default
   <div>
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      <small>Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }} · {% include read_time.html %} 
+      <small>Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }} · {% include read_time.html %} · 
         <span>
         {% for tag in page.tags %}
           {% capture tag_name %}{{ tag }}{% endcapture %}
