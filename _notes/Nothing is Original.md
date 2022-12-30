@@ -8,4 +8,4 @@ Kleon states that nothing is _completely_ original, and that everything is bui
 
 For someone who’s a bit of a perfectionist, I find it a relief to know that it’s not important to know yourself or to master something fully to do good work. In other words, start with what you have, experiment, and let your ideas talk to each other. The magic will follow. I suppose that’s why I started this website and why I’m fascinated by the idea of a digital garden. I like the idea of going back on your work and editing it as you see fit. Our thoughts change, and we should be able to evolve alongside them.
 
-Yes, it’s scary to put yourself out there and be seen by others. Yes, there will be people who will judge your work, but there are also those who will find something special about it. I say go for it! <i class="fa-brands fa-pagelines"></i>
+Yes, it’s scary to put yourself out there and be seen by others. Yes, there will be people who will judge your work, but there are also those who will find something special about it. I say go for it! 
