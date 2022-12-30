@@ -24,7 +24,7 @@ An archive of all the notes in my digital garden sorted by date last modified.
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  <a href="/tag/{{ tagname }}"><code class="highligher-rouge" style="color:#969595;border-color:hsla(0, 0%, 59%,0.6)"><nobr>{{ tagname }}</nobr></code></a>
+  <a href="/tag/{{ page.tag }}"><code class="highligher-rouge" style="color:#969595;border-color:hsla(0, 0%, 59%,0.6)"><nobr>{{ page.tag }}</nobr></code></a>
 {% endfor %}
 
 
