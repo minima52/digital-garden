@@ -24,7 +24,7 @@ A list of books I have read. <br/>
 - *Being Peace* by Thich Nhat Hanh
 - *The Almanack of Naval Ravikant* by Eric Jorgenson
 - *Life Lessons* by Elisabeth Kübler-Ross & David Kessler
-- *The Psychology of Money* by Morgan Housel <i class="fa-solid fa-circle"></i>
+- *The Psychology of Money* by Morgan Housel <i class="fa-solid fa-paperclip"></i>
 - *Principles* by Ray Dalio
 - *Goodbye Tsugumi* by Banana Yoshimoto
 - *Sweet Bean Paste* by Durian Sukegawa
