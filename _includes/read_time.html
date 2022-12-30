@@ -1,6 +1,10 @@
+<script>
+
 {% raw %}
 {% if words < 360 %}
   1 min
 {% else %}
   {{ words | divided_by:180 }} mins
 {% endif %}{% endraw %}
+
+</script>
