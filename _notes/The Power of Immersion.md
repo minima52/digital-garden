@@ -1,4 +1,5 @@
 ---
+layout: default
 title: The Power of Immersion
 tags: languages
 ---
