@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="post">
+<div class="note">
   <h1 class="tag-title">Tag: {{ page.tag }}</h1>
   <ul>
   {% for post in site.tags[page.tag] %}
@@ -11,7 +11,7 @@ layout: default
     {% else %}
     <li>
     {% endif %}
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      <a href="{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
   </ul>
