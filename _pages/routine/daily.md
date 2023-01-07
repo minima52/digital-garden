@@ -22,7 +22,7 @@ My weekdays are spent commuting to & from work. My line of work requires me to s
 - 8:00/9:00/10:00: At the office
 - 11:00/12:00/13:00/14:00: Lunch time with a 30 min walk around the block (1 hour)
 - 16:30/17:30/18:30: Home time - heading home by public transport (~1 hour)
-  - On days when I finish work at 18:30, I walk to a train station 10 mins away to catch a train I would normally miss if I had boarded the train at a station closes to the office. Timing is important as I rely on the bus afterwards to get home. Buffer time is 10 mins between train and bus. 
+  - On days when I finish work at 18:30, I walk to a train station 10 mins away to catch a train I would normally miss if I had boarded the train at a station located 5 mins away from the office. Timing is important as I rely on the bus afterwards to get home. Buffer time is 5 mins between train and bus. 
 - 18:00/19:30: Dinner time, wash the dishes, etc.
 - 19:30/20:00: Shower, brush my teeth, [[skincare|skincare routine]] (~30 mins-1 hour)
 - 20:30/21:00: 15 min meditation on Insight Timer App followed by relaxing in bed with a book (or sometimes watching videos on YouTube - trying to change that!)
