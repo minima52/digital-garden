@@ -27,6 +27,7 @@ permalink: /influences
 
 <h2>Spirituality</h2>
 
+- His Holiness the 14th Dalai Lama
 - Thich Nhat Hanh
 
 <i>Page in progress</i>
