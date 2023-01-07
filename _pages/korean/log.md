@@ -17,7 +17,7 @@ Insights I have gained from my language learning journey are documented here. Th
 <h2>Study Methods</h2>
 
 <ul>
-<li><b>Physical flashcards</b> don't work for me. They take time to make, and I don't find them efficient at learning vocab, grammar, or other language concepts.</li>
+<li><b>Physical flashcards</b> don't work for me. They take time to make, and I don't find them efficient at learning vocab, grammar, or other language concepts. It's just not practical.</li>
 </ul>
 
 <i>Page in progress</i>
