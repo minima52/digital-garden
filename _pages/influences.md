@@ -15,6 +15,7 @@ permalink: /influences
 
 - Haruki Murakami
 - Mary Oliver
+- Susan Sontag
 
 <h2>Musicians</h2>
 
