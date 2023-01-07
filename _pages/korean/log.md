@@ -6,6 +6,8 @@ permalink: /korean/log
 
 <h1>Learning Log</h1>
 
+Insights I have gained from my language learning journey are documented here. These are personalised, so what works or doesn't work for me, will be different for you.
+
 <h2>Study Methods</h2>
 
 <ul>
