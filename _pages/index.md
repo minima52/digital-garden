@@ -39,9 +39,8 @@ permalink: /
 <ul>
     <li>[[Apps]]</li>
     <li>[[Tools|Tech setup]]</li>
-</ul>
-<li>[[Routines]]</li>
-<ul>
+    <li>[[Routines]]</li>
+    <ul>
     <li><a class="internal-link" href="/routine/daily">Daily</a></li>
     <li><a class="internal-link" href="/routine/skincare">Skincare</a></li>
     <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
