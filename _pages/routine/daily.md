@@ -37,6 +37,7 @@ My weekdays are spent commuting to & from work. My line of work requires me to s
 - 8:30/9:30: Laundry, wash make up brushes and face masks
   - The rest of the day is often spent meeting up with friends for brunch/lunch/dinner or relaxing at home.
 
+<small>Last updated: Sunday, 08 Jan 2023, 10:01AM</small>
 
 <style>
   .wrapper {
