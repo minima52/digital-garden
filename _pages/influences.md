@@ -21,6 +21,10 @@ permalink: /influences
 - BTS
 - The Beatles
 
+<h2>Schools of Thought</h2>
+
+- Stoicism
+
 <h2>Spirituality</h2>
 
 - Thich Nhat Hanh
