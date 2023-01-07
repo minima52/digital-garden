@@ -6,11 +6,11 @@ permalink: /meta
 
 <h1>Meta</h1>
 
-### About
+<h2>About</h2>
 
 This website serves as public learning space for me to learn more about myself, how this fits in with what I already know, and what else there is for me to discover. I also like to record random tidbits of my life in the form of [[routines]], [[tools]] I use that shape my workflow. 
 
-### Timeline
+<h2>Timeline</h2>
 
 <div class="timeline">
     <!-- Left vertical line -->
@@ -72,7 +72,7 @@ This website serves as public learning space for me to learn more about myself, 
     </div>
 </div>
 
-### Process
+<h2>Process</h2>
 
 1. Install Ruby, Ruby on Gems, and Git on computer (slight learning curve)
 2. Fork the template to Github account
@@ -93,7 +93,7 @@ I was able to install the template and get the website up and running with the h
 - [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) by Maxime Vaillancourt
 - [Obsidian Jekyll workflow](https://refinedmind.co/obsidian-jekyll-workflow) by Mike Tannenbaum (used Visual Studio Code instead of Atom)
 
-### Resources
+<h2>Resources</h2>
 
 - Jekyll template: [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt
 - Programming language: [Ruby](https://www.ruby-lang.org/en/)  
@@ -107,7 +107,7 @@ I was able to install the template and get the website up and running with the h
 - Formatting: Markdown, HTML and CSS
 - Icons: [Font Awesome](https://fontawesome.com/) 
 
-### Thanks
+<h2>Thanks</h2>
 
 Thanks for visiting. A special shoutout to BTS, whose music and artistry not only speaks to my curious, wandering soul, but also their core message of loving and speaking yourself continues to empower many others like myself to find my inner voice. 
 
