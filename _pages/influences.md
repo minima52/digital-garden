@@ -21,6 +21,10 @@ permalink: /influences
 - BTS
 - The Beatles
 
+<h2>Spirituality</h2>
+
+- Thich Nhat Hanh
+
 <i>Page in progress</i>
 
 <style>
