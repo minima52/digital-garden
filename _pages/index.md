@@ -45,6 +45,7 @@ permalink: /
     <li><a class="internal-link" href="/routine/skincare">Skincare</a></li>
     <li><a class="internal-link" href="/routine/make-up">Make up</a></li>
 </ul>  
+</ul>
 <li>[[Notes]]</li>
 <ul>
 <li>[[Tags]]</li>
