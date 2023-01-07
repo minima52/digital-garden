@@ -11,7 +11,7 @@ Insights I have gained from my language learning journey are documented here. Th
 <h2>Notetaking Methods</h2>
 
 <ul>
-<li>I now try to visualise my learning using <b>mindmaps</b> instead of a linear notetaking style. Writing pages and pages of notes feels like a passive exercise. My goal is to induce more active learning and to learn the concepts well enough that I can map it in a way my brain thinks and connects things in relation to each other.</li>
+<li>I now try to visualise my learning using <b>mindmaps</b> instead of a linear notetaking style. Writing pages and pages of notes feels like a passive exercise, and I don't feel as if I've "absorbed" what I've learned. My goal is to induce more active learning and to learn the concepts well enough so much so that when I map it out, it is more aligned with the way my brain thinks and makes connections.</li>
 </ul>
 
 <h2>Study Methods</h2>
