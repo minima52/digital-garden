@@ -1,7 +1,7 @@
 ---
 layout: page
 title: routines
-permalink: /routines
+permalink: /workflow/routines
 ---
 
 <b>Collection</b>
