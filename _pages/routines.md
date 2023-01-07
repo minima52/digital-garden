@@ -18,7 +18,7 @@ A list of [[skincare|Skincare products]] I use and how I utilise them to complet
 
 <h2>Makeup</h2>
 
-A list of [[makeup|makeup products]] I use.
+A list of [[make-up|makeup products]] I use.
 
 <i>Page in progress</i>
 
