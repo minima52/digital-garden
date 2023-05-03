@@ -11,8 +11,6 @@ permalink: /
 
 <p>This website contains a total of <b>33</b> pages and <b>6</b> notes.</p>
 
-<h1>ABOUT</h1>
-
 <ul>
 <li>[[About]]</li>
 <li>[[Meta]]</li>
